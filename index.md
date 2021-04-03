@@ -4,7 +4,7 @@
 	<meta charset="UTF-8"/>
 	<link rel="stylesheet" type="text/css" href="ddstyle.css"/>
 	<title>A Digital Reading of Twentieth-Century Demography | Introduction</title>
-	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="https://d3js.org/d3.v3.min.js"></script>
 </head>
 
 <body>
