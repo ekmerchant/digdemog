@@ -1,0 +1,46 @@
+doc,year,authors,title,journal,topic,pct,firsttop,firstpct,secondtop,secondpct
+2172342,1955,C. E. V. Leser,Variations In Mortality And Life Expectation,Population Studies,topic 11,0.277775756075,topic 3,0.530329674932,topic 6,0.0924523145203
+2173124,1962,S. J. Kilpatrick,Occupational Mortality Indices,Population Studies,topic 11,0.440415339719,topic 6,0.427664034226,topic 9,0.0921012739857
+2060310,1967,George E. Immerwahr,Survivorship Of Sons Under Conditions Of Improving Mortality,Demography,topic 11,0.31896791853,topic 6,0.272251821121,topic 28,0.192006010886
+2060212,1968,Evelyn M. Kitagawa,Education Differentials In Mortality By Cause Of Death,Demography,topic 11,0.490679718624,topic 28,0.270264502939,topic 21,0.146163443948
+2060385,1969,Mortimer Spiegelman,Segmented Generation Mortality,Demography,topic 11,0.264528297744,topic 3,0.510348881078,topic 18,0.066537144683
+2173259,1970,Samuel H. Preston,An International Comparison Of Excessive Adult Mortality,Population Studies,topic 11,0.571872248198,topic 7,0.175791782543,topic 2,0.0816221701024
+2173205,1971,,Errata,Population Studies,topic 11,0.321929624849,topic 21,0.327577472214,topic 9,0.16576160099
+2060633,1972,Robert D. Retherford,Tobacco Smoking And The Sex Mortality Differential,Demography,topic 11,0.696622115331,topic 6,0.236385438625,topic 28,0.0247172154092
+2173392,1973,Robert D. Retherford,Cigarette Smoking And Widowhood In The United States,Population Studies,topic 11,0.659480038609,topic 6,0.155673824576,topic 12,0.0942939190103
+2060768,1975,Robert Schoen,Constructing Increment-Decrement Life Tables,Demography,topic 11,0.294596797719,topic 6,0.640622579471,topic 26,0.041591851164
+2060509,1976,Kenneth G. Manton,Life Table Techniques For Multiple-Cause Mortality,Demography,topic 11,0.426758116108,topic 6,0.439732778172,topic 23,0.0956060043037
+2060587,1977,Nathan Keyfitz,What Difference Would It Make If Cancer Were Eradicated ? An Examination Of The Taeuber,Demography,topic 11,0.527914403519,topic 6,0.322044107247,topic 28,0.0523941520393
+2061212,1978,Robert Schoen,Calculating Life Tables By Estimating Chiang'S A From Observed Rates,Demography,topic 11,0.313064535846,topic 6,0.632461784481,topic 28,0.0382627315316
+2061145,1979,Kenneth G. Manton,Effects Of Dependency Among Causes Of Death For Cause Elimination Life Table Strategies,Demography,topic 11,0.521380472985,topic 6,0.40890190635,topic 24,0.0433550387681
+2060965,1980,Kenneth G. Manton,Estimates Of U.S. Multiple Cause Life Tables,Demography,topic 11,0.68013030782,topic 6,0.237529503096,topic 13,0.0489059108594
+1972622,1981,Eileen M. Crimmins,The Changing Pattern Of American Mortality Decline_ 1940-77_ And Its Implications For The Future,Population and Development Review,topic 11,0.397966213291,topic 24,0.430525069628,topic 22,0.0535735777635
+2061017,1982,Kenneth G. Manton,Temporal Trends In U.S. Multiple Cause Of Death Mortality Data,Demography,topic 11,0.687061799299,topic 6,0.220497547591,topic 24,0.0488146283336
+2060899,1983,Norman L. Weatherby,Development_ Inequality_ Health Care_ And Mortality At The Older Ages,Demography,topic 11,0.438893328303,topic 7,0.269844444189,topic 29,0.102591816237
+2061029,1984,Eduardo E. Arriaga,Measuring And Explaining The Change In Life Expectancies,Demography,topic 11,0.752785020745,topic 6,0.184103324982,topic 2,0.0173988405979
+2174031,1985,R. H. Dinkel,The Seeming Paradox Of Increasing Mortality In A Highly Industrialized Nation,Population Studies,topic 11,0.528351097292,topic 22,0.157679274759,topic 9,0.0931842734093
+2174285,1986,J. W. Vaupel,How Change In Age-Specific Mortality Affects Life Expectancy,Population Studies,topic 11,0.644068039849,topic 6,0.24950462066,topic 3,0.0387226036123
+2061512,1987,James W. Vaupel,Repeated Resuscitation,Demography,topic 11,0.599032993851,topic 6,0.351823222497,topic 24,0.0099964073153
+2061325,1988,Machiko Yanagishita,Changing Mortality Patterns That Led Life Expectancy In Japan To Surpass Sweden'S,Demography,topic 11,0.766334715055,topic 2,0.127275073544,topic 6,0.0779902090101
+1973704,1989,Eileen M. Crimmins,Changes In Life Expectancy And Disability-Free Life Expectancy In The United States,Population and Development Review,topic 11,0.731945512763,topic 21,0.159136436911,topic 28,0.0273018745716
+1971589,1990,R. T. Ravenholt,Tobacco'S Global Death March,Population and Development Review,topic 11,0.452482125244,topic 22,0.162967234694,topic 23,0.158823176574
+1973599,1991,Kenneth G. Manton,Limits To Human Life Expectancy,Population and Development Review,topic 11,0.532826861175,topic 6,0.210727966813,topic 23,0.188219090303
+2061852,1992,Bert Kestenbaum,A Description Of The Extreme Aged Population Based On Improved Medicare Enrollment Data,Demography,topic 11,0.507355317943,topic 21,0.297735313742,topic 3,0.0632189300697
+2938466,1993,Michael A. Stoto,Forecasting Survival_ Health_ And Disability,Population and Development Review,topic 11,0.509161772674,topic 6,0.295863124101,topic 23,0.126420959632
+2061796,1994,Christine L. Himes,Age Patterns Of Mortality And Cause-Of-Death Structures In Sweden_ Japan_ And The United States,Demography,topic 11,0.728476426256,topic 6,0.197264677976,topic 2,0.042127232245
+2137412,1995,Richard G. Rogers,Sociodemographic Characteristics Of Long-Lived And Healthy Individuals,Population and Development Review,topic 11,0.578902707978,topic 23,0.228408123185,topic 7,0.134520712657
+2137690,1996,Ansley J. Coale,Age Patterns And Time Sequence Of Mortality In National Populations With The Highest Expectation Of,Population and Development Review,topic 11,0.580279051654,topic 6,0.275634678704,topic 2,0.0839411861683
+2137572,1997,Eileen M. Crimmins,Trends In Disability-Free Life Expectancy In The United States_ 1970-90,Population and Development Review,topic 11,0.821943404202,topic 21,0.0932417195785,topic 3,0.031417383198
+3004009,1998,Shiro Horiuchi,Deceleration In The Age Pattern Of Mortality At Older Ages,Demography,topic 11,0.637260749257,topic 6,0.266602264078,topic 5,0.0583505738366
+2648085,1999,John R. Wilmoth,Rectangularization Revisited,Demography,topic 11,0.62996510376,topic 6,0.306481122016,topic 22,0.0216113910725
+2648119,2000,Mark E. Hill,Age Reporting Among White Americans Aged 85+,Demography,topic 11,0.565542138334,topic 21,0.262531655558,topic 3,0.0827421188454
+3088291,2001,Irma T. Elo,New African American Life Tables From 1935-1940 To 1985-1990,Demography,topic 11,0.699131473845,topic 3,0.1638724656,topic 13,0.0693662188159
+3092758,2002,Fred C. Pampel,Cigarette Use And The Narrowing Sex Differential In Mortality,Population and Development Review,topic 11,0.942426654328,topic 2,0.0497306655707,topic 27,0.00693175650878
+3180811,2003,Fred C. Pampel,Declining Sex Differences In Mortality From Lung Cancer In High-Income Nations,Demography,topic 11,0.74188087979,topic 7,0.169491200683,topic 2,0.0433819114755
+1515170,2004,Zeng Yi,A New Method For Correcting Under-Estimation Of Disabled Life Expectancy And An Application To The,Demography,topic 11,0.683303715851,topic 6,0.23050007057,topic 21,0.0310144653707
+30040439,2005,Pekka Martikainen,Differences In Mortality By Marital Status In Finland From 1976 To 2000,Population Studies,topic 11,0.636982622113,topic 26,0.16947189265,topic 7,0.110427719927
+4137209,2006,Samuel H. Preston,Sex Mortality Differences In The United States,Demography,topic 11,0.718193480269,topic 7,0.17413953549,topic 6,0.046366830298
+27643410,2007,Dana A. Glei,The Narrowing Sex Differential In Life Expectancy In High-Income Populations,Population Studies,topic 11,0.677888373042,topic 2,0.166002484414,topic 6,0.137137525779
+30053083,2008,Maria Perozek,Using Subjective Expectations To Forecast Longevity,Demography,topic 11,0.595918078395,topic 6,0.301895484609,topic 5,0.0524171007589
+20616484,2009,Eileen M. Crimmins,Change In Disability-Free Life Expectancy For Americans 70 Years Old And Older,Demography,topic 11,0.709818941809,topic 6,0.186901821111,topic 21,0.0557572143769
+40800814,2010,Vladimir Canudas-Romo,Three Measures Of Longevity,Demography,topic 11,0.669481039417,topic 6,0.249919119408,topic 2,0.0610767477368

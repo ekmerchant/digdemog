@@ -1,0 +1,692 @@
+source,target,scount,tcount,sfield,tfield,slast,tlast,weight
+Frederick Osborn,,1,,demography,,Osborn,,0
+Philip M. Hauser,,4,,sociology,,Hauser,,0
+Joseph J. Spengler,,6,,demography,,Spengler,,0
+Harold F. Dorn,,1,,pubh,,Dorn,,0
+Dorothy S. Thomas,,1,,demography,,Thomas,,0
+Dudley Kirk,,3,,general,,Kirk,,0
+Norman B. Ryder,,1,,general,,Ryder,,0
+George J. Stolnitz,,7,,pubh,,Stolnitz,,0
+Reynolds Farley,,1,,sociology,,Farley,,0
+J. Richard Udry,,1,,sociology,,Udry,,0
+William Fielding Ogburn,,1,,sociology,,Ogburn,,0
+Lois Pratt,Pascal K. Whelpton,1,9,pubh,sociology,,Whelpton,1
+Adolfo Gaete-Darbó,T. H. Montenegro,1,3,pubh,pubh,,,1
+Adolfo Gaete-Darbó,R. R. Puffer,1,3,pubh,pubh,,,1
+Adolfo Gaete-Darbó,Ronald Freedman,1,14,pubh,pubh,,Freedman,1
+Adolfo Gaete-Darbó,F. E. Linder,1,2,pubh,pubh,,,1
+Adolfo Gaete-Darbó,J. V. Grauman,1,4,pubh,pubh,,,1
+Adolfo Gaete-Darbó,Donald J. Bogue,1,6,pubh,pubh,,Bogue,1
+Adolfo Gaete-Darbó,C. A. Miró,1,4,pubh,pubh,,,1
+Adolfo Gaete-Darbó,H. Behm,1,3,pubh,pubh,,,1
+Adolfo Gaete-Darbó,Kingsley Davis,1,8,pubh,economics,,Davis,1
+Judith Blake,Kingsley Davis,2,8,demography,economics,Blake,Davis,1
+I. B. Taeuber,Kingsley Davis,3,8,pubh,economics,,Davis,1
+A. Arca-Parró,Kingsley Davis,2,8,pubh,economics,,Davis,1
+G. W. Roberts,Kingsley Davis,5,8,demography,economics,,Davis,1
+F. E. Linder,Kingsley Davis,2,8,pubh,economics,,Davis,2
+Kingsley Davis,Lowell J. Reed,8,3,economics,pubh,Davis,Reed,1
+Adolfo Gaete-Darbó,Kingsley Davis,1,8,pubh,economics,,Davis,1
+Kingsley Davis,T. H. Montenegro,8,3,economics,pubh,Davis,,2
+Kingsley Davis,R. R. Puffer,8,3,economics,pubh,Davis,,1
+Kingsley Davis,Ronald Freedman,8,14,economics,pubh,Davis,Freedman,1
+J. V. Grauman,Kingsley Davis,4,8,pubh,economics,,Davis,2
+Donald J. Bogue,Kingsley Davis,6,8,pubh,economics,Bogue,Davis,1
+C. A. Miró,Kingsley Davis,4,8,pubh,economics,,Davis,2
+H. Behm,Kingsley Davis,3,8,pubh,economics,,Davis,2
+Giorgio Mortara,Kingsley Davis,1,8,pubh,economics,,Davis,1
+Kingsley Davis,Pascal K. Whelpton,8,9,economics,sociology,Davis,Whelpton,1
+D. Kirk,Kingsley Davis,2,8,pubh,economics,,Davis,1
+Carmen Miro,T. H. Montenegro,2,3,demography,pubh,,,1
+F. W. Notestein,T. H. Montenegro,1,3,pubh,pubh,,,1
+Ronald Freedman,T. H. Montenegro,14,3,pubh,pubh,Freedman,,2
+Nathan Keyfitz,T. H. Montenegro,6,3,demography,pubh,Keyfitz,,1
+Adolfo Gaete-Darbó,T. H. Montenegro,1,3,pubh,pubh,,,1
+R. R. Puffer,T. H. Montenegro,3,3,pubh,pubh,,,1
+F. E. Linder,T. H. Montenegro,2,3,pubh,pubh,,,1
+J. V. Grauman,T. H. Montenegro,4,3,pubh,pubh,,,2
+Donald J. Bogue,T. H. Montenegro,6,3,pubh,pubh,Bogue,,1
+C. A. Miró,T. H. Montenegro,4,3,pubh,pubh,,,2
+H. Behm,T. H. Montenegro,3,3,pubh,pubh,,,2
+Kingsley Davis,T. H. Montenegro,8,3,economics,pubh,Davis,,2
+Giorgio Mortara,T. H. Montenegro,1,3,pubh,pubh,,,1
+Pascal K. Whelpton,T. H. Montenegro,9,3,sociology,pubh,Whelpton,,1
+D. Kirk,T. H. Montenegro,2,3,pubh,pubh,,,1
+Edgar F. Borgatta,Jeffrey K. Hadden,2,1,eugenics,eugenics,,,1
+Doris Slesinger,Ronald Freedman,2,14,demography,pubh,,Freedman,2
+David Goldberg,Doris Slesinger,7,2,pubh,demography,Goldberg,,2
+Doris Slesinger,Morris Axelrod,2,1,demography,demography,,,1
+Carmen Miro,Nathan Keyfitz,2,6,demography,demography,,Keyfitz,1
+F. W. Notestein,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,1
+Nathan Keyfitz,T. H. Montenegro,6,3,demography,pubh,Keyfitz,,1
+Nathan Keyfitz,Ronald Freedman,6,14,demography,pubh,Keyfitz,Freedman,2
+J. Amador-Guevara,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+G. Llanos,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+G. A. Silver,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+G. Rosen,Nathan Keyfitz,2,6,pubh,demography,,Keyfitz,2
+Nathan Keyfitz,R. R. Puffer,6,3,demography,pubh,Keyfitz,,3
+A. Robertson,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+J. Mayone Stycos,Nathan Keyfitz,10,6,eugenics,demography,,Keyfitz,2
+A. Arca-Parró,Nathan Keyfitz,2,6,pubh,demography,,Keyfitz,2
+J. W. Morse,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+Lowell J. Reed,Nathan Keyfitz,3,6,pubh,demography,Reed,Keyfitz,2
+Nathan Keyfitz,Nathan Keyfitz,6,6,demography,demography,Keyfitz,Keyfitz,1
+Nathan Keyfitz,Rodolfo Stavenhagen,6,1,demography,pubh,Keyfitz,,1
+E. Arriaga,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,1
+J. V. Grauman,Nathan Keyfitz,4,6,pubh,demography,,Keyfitz,1
+David Goldberg,Harry Sharp,7,4,pubh,sociology,Goldberg,,2
+David Goldberg,Ronald Freedman,7,14,pubh,pubh,Goldberg,Freedman,4
+David Goldberg,Doris Slesinger,7,2,pubh,demography,Goldberg,,2
+David Goldberg,Morris Axelrod,7,1,pubh,demography,Goldberg,,1
+Amos H. Hawley,David Goldberg,2,7,demography,pubh,Hawley,Goldberg,1
+Beverly Duncan,David Goldberg,4,7,demography,pubh,,Goldberg,1
+Hugo Behm,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+Hector Gutierrez,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+G. Rosen,Lowell J. Reed,2,3,pubh,pubh,,Reed,2
+Kingsley Davis,Lowell J. Reed,8,3,economics,pubh,Davis,Reed,1
+I. B. Taeuber,Lowell J. Reed,3,3,pubh,pubh,,Reed,1
+A. Arca-Parró,Lowell J. Reed,2,3,pubh,pubh,,Reed,2
+G. W. Roberts,Lowell J. Reed,5,3,demography,pubh,,Reed,1
+F. E. Linder,Lowell J. Reed,2,3,pubh,pubh,,Reed,1
+Lowell J. Reed,Nathan Keyfitz,3,6,pubh,demography,Reed,Keyfitz,2
+J. Amador-Guevara,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+G. Llanos,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+G. A. Silver,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+Lowell J. Reed,R. R. Puffer,3,3,pubh,pubh,Reed,,1
+A. Robertson,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+J. Mayone Stycos,Lowell J. Reed,10,3,eugenics,pubh,,Reed,1
+J. W. Morse,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+J. W. Morse,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+J. Amador-Guevara,J. W. Morse,1,1,pubh,pubh,,,1
+G. Llanos,J. W. Morse,1,1,pubh,pubh,,,1
+G. A. Silver,J. W. Morse,1,1,pubh,pubh,,,1
+G. Rosen,J. W. Morse,2,1,pubh,pubh,,,1
+J. W. Morse,R. R. Puffer,1,3,pubh,pubh,,,1
+A. Robertson,J. W. Morse,1,1,pubh,pubh,,,1
+J. Mayone Stycos,J. W. Morse,10,1,eugenics,pubh,,,1
+A. Arca-Parró,J. W. Morse,2,1,pubh,pubh,,,1
+J. W. Morse,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+Anne S. Lee,Everett S. Lee,1,2,statistics,pubh,,Lee,1
+E. Arriaga,Rodolfo Stavenhagen,1,1,pubh,pubh,,,1
+Rodolfo Stavenhagen,Ronald Freedman,1,14,pubh,pubh,,Freedman,1
+Nathan Keyfitz,Rodolfo Stavenhagen,6,1,demography,pubh,Keyfitz,,1
+J. V. Grauman,Rodolfo Stavenhagen,4,1,pubh,pubh,,,1
+R. R. Puffer,Rodolfo Stavenhagen,3,1,pubh,pubh,,,1
+Giorgio Mortara,Pascal K. Whelpton,1,9,pubh,sociology,,Whelpton,1
+Giorgio Mortara,J. V. Grauman,1,4,pubh,pubh,,,1
+Giorgio Mortara,H. Behm,1,3,pubh,pubh,,,1
+Giorgio Mortara,T. H. Montenegro,1,3,pubh,pubh,,,1
+C. A. Miró,Giorgio Mortara,4,1,pubh,pubh,,,1
+D. Kirk,Giorgio Mortara,2,1,pubh,pubh,,,1
+Giorgio Mortara,Kingsley Davis,1,8,pubh,economics,,Davis,1
+Joseph Schachter,Wilson H. Grabill,2,2,pubh,pubh,,,1
+Deward E. Waggoner,Joseph Schachter,1,2,pubh,pubh,,,1
+Joseph Schachter,Pascal K. Whelpton,2,9,pubh,sociology,,Whelpton,1
+John R. Walker,Warren E. Kalbach,1,1,sociology,sociology,,,1
+George C. Myers,John R. Walker,5,1,demography,sociology,,,1
+Bhaskar D. Misra,Donald J. Bogue,1,6,demography,pubh,,Bogue,1
+Bhaskar D. Misra,D. P. Dandekar,1,1,demography,demography,,,1
+Calvin F. Schmid,Kiyoshi Tagashira,4,1,demography,demography,Schmid,,1
+Pascal K. Whelpton,Ronald Freedman,9,14,sociology,pubh,Whelpton,Freedman,3
+Clyde V. Kiser,Pascal K. Whelpton,6,9,demography,sociology,Kiser,Whelpton,1
+Joseph Schachter,Pascal K. Whelpton,2,9,pubh,sociology,,Whelpton,1
+Deward E. Waggoner,Pascal K. Whelpton,1,9,pubh,sociology,,Whelpton,1
+Lois Pratt,Pascal K. Whelpton,1,9,pubh,sociology,,Whelpton,1
+Deborah S. Freedman,Pascal K. Whelpton,2,9,economics,sociology,,Whelpton,1
+John W. Smit,Pascal K. Whelpton,1,9,sociology,sociology,,Whelpton,1
+Giorgio Mortara,Pascal K. Whelpton,1,9,pubh,sociology,,Whelpton,1
+J. V. Grauman,Pascal K. Whelpton,4,9,pubh,sociology,,Whelpton,1
+H. Behm,Pascal K. Whelpton,3,9,pubh,sociology,,Whelpton,1
+Pascal K. Whelpton,T. H. Montenegro,9,3,sociology,pubh,Whelpton,,1
+C. A. Miró,Pascal K. Whelpton,4,9,pubh,sociology,,Whelpton,1
+D. Kirk,Pascal K. Whelpton,2,9,pubh,sociology,,Whelpton,1
+Kingsley Davis,Pascal K. Whelpton,8,9,economics,sociology,Davis,Whelpton,1
+C. Horace Hamilton,Selz C. Mayo,7,3,demography,sociology,Hamilton,,2
+Charles W. Pettus,Selz C. Mayo,1,3,sociology,sociology,,,1
+Charles Windle,Georges Sabagh,1,2,pubh,pubh,,,1
+Gene B. Petersen,Leo F. Schnore,1,10,general,statistics,,,1
+Jack P. Gibbs,Leo F. Schnore,5,10,geography,statistics,,,1
+Harry Sharp,Leo F. Schnore,4,10,sociology,statistics,,,1
+Charles B. Nam,Lillian Guralnick,4,3,sociology,statistics,Nam,,1
+Charles B. Nam,John K. Folger,4,2,sociology,eugenics,Nam,,1
+Charles B. Nam,Edward G. Stockwell,4,6,sociology,sociology,Nam,,1
+Hector Gutierrez,Hugo Behm,1,1,pubh,pubh,,,1
+G. Rosen,Hugo Behm,2,1,pubh,pubh,,,1
+Hugo Behm,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+Beverly Duncan,Otis Dudley Duncan,4,4,demography,statistics,,Duncan,1
+Erwin S. Solomon,Jeanne E. Clare,1,1,pubh,pubh,,,1
+Charles F. Westoff,Erwin S. Solomon,10,1,pubh,pubh,Westoff,,1
+Jack P. Gibbs,Walter T. Martin,5,4,geography,sociology,,,1
+Jack P. Gibbs,Leo F. Schnore,5,10,geography,statistics,,,1
+Jack P. Gibbs,Leonard Broom,5,2,geography,sociology,,,1
+Charles B. Nam,Edward G. Stockwell,4,6,sociology,sociology,Nam,,1
+Amos H. Hawley,Beverly Duncan,2,4,demography,demography,Hawley,,1
+Amos H. Hawley,David Goldberg,2,7,demography,pubh,Hawley,Goldberg,1
+Frank Lorimer,George W. Roberts,2,1,pubh,pubh,Lorimer,,1
+D. Kirk,Frank Lorimer,2,2,pubh,pubh,,Lorimer,1
+Frank Lorimer,L. Van Nort,2,1,pubh,pubh,Lorimer,,1
+Frank Lorimer,J. Mayone Stycos,2,10,pubh,eugenics,Lorimer,,1
+Frank Lorimer,G. W. Roberts,2,5,pubh,demography,Lorimer,,1
+Frank Lorimer,I. B. Taeuber,2,3,pubh,pubh,Lorimer,,1
+C. A. Miró,Frank Lorimer,4,2,pubh,pubh,,Lorimer,2
+Frank Lorimer,Jorge Somoza,2,1,pubh,pubh,Lorimer,,1
+Frank Lorimer,J. V. Grauman,2,4,pubh,pubh,Lorimer,,1
+Frank Lorimer,M. Weissman,2,1,pubh,pubh,Lorimer,,1
+Frank Lorimer,L. Baumgartner,2,1,pubh,pubh,Lorimer,,1
+Harold Nisselson,Morris H. Hansen,1,2,statistics,demography,,,1
+Harold Nisselson,William N. Hurwitz,1,1,statistics,statistics,,,1
+Harold Nisselson,Joseph Steinberg,1,1,statistics,statistics,,,1
+Calvin F. Schmid,Maurice D. Van Arsdol Jr.,4,4,demography,sociology,Schmid,,3
+Earle H. Maccannell,Maurice D. Van Arsdol Jr.,1,4,sociology,sociology,,,1
+Maurice D. Van Arsdol Jr.,Santo F. Camilleri,4,2,sociology,sociology,,,2
+Beverly Duncan,Maurice D. Van Arsdol Jr.,4,4,demography,sociology,,,1
+Georges Sabagh,Maurice D. Van Arsdol Jr.,2,4,pubh,sociology,,,1
+Douglass C. North,William N. Parker,1,1,economics,economics,,,1
+Douglass C. North,Paul Demeny,1,1,economics,economics,,Demeny,1
+Douglass C. North,Irma Adelman,1,2,economics,economics,,,1
+Clarence Senior,Reuben Hill,1,6,eugenics,pubh,,,1
+Conrad Taeuber,Irene B. Taeuber,4,16,eugenics,pubh,Taeuber,Taeuber,1
+Conrad Taeuber,Morris H. Hansen,4,2,eugenics,demography,Taeuber,,1
+Charles F. Westoff,Edgar F. Borgatta,10,2,pubh,eugenics,Westoff,,1
+Charles F. Westoff,Clyde V. Kiser,10,6,pubh,demography,Westoff,Kiser,1
+Charles F. Westoff,Elliot G. Mishler,10,2,pubh,demography,Westoff,,2
+Charles F. Westoff,Robert G. Potter,10,16,pubh,pubh,Westoff,,6
+Charles F. Westoff,Erwin S. Solomon,10,1,pubh,pubh,Westoff,,1
+Charles F. Westoff,Jeanne E. Clare,10,1,pubh,pubh,Westoff,,1
+Charles F. Westoff,E. Lowell Kelly,10,2,pubh,sociology,Westoff,,2
+Charles F. Westoff,Philip C. Sagi,10,6,pubh,sociology,Westoff,,6
+A. Robertson,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+A. Robertson,J. Amador-Guevara,1,1,pubh,pubh,,,1
+A. Robertson,G. Llanos,1,1,pubh,pubh,,,1
+A. Robertson,G. A. Silver,1,1,pubh,pubh,,,1
+A. Robertson,G. Rosen,1,2,pubh,pubh,,,1
+A. Robertson,R. R. Puffer,1,3,pubh,pubh,,,1
+A. Robertson,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+A. Arca-Parró,A. Robertson,2,1,pubh,pubh,,,1
+A. Robertson,J. W. Morse,1,1,pubh,pubh,,,1
+A. Robertson,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+Irene B. Taeuber,Leo A. Orleans,16,1,pubh,demography,Taeuber,,1
+Conrad Taeuber,Irene B. Taeuber,4,16,eugenics,pubh,Taeuber,Taeuber,1
+Pascal K. Whelpton,Ronald Freedman,9,14,sociology,pubh,Whelpton,Freedman,3
+David Goldberg,Ronald Freedman,7,14,pubh,pubh,Goldberg,Freedman,4
+Harry Sharp,Ronald Freedman,4,14,sociology,pubh,,Freedman,2
+Gerhard Baumert,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+Martin Bolte,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+Deborah S. Freedman,Ronald Freedman,2,14,economics,pubh,,Freedman,1
+Doris P. Slesinger,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+John W. Smit,Ronald Freedman,1,14,sociology,pubh,,Freedman,1
+Doris Slesinger,Ronald Freedman,2,14,demography,pubh,,Freedman,2
+Morris Axelrod,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+Carmen Miro,Ronald Freedman,2,14,demography,pubh,,Freedman,1
+F. W. Notestein,Ronald Freedman,1,14,pubh,pubh,,Freedman,1
+Ronald Freedman,T. H. Montenegro,14,3,pubh,pubh,Freedman,,2
+Nathan Keyfitz,Ronald Freedman,6,14,demography,pubh,Keyfitz,Freedman,2
+John Y. Takeshita,Ronald Freedman,3,14,demography,pubh,,Freedman,2
+Ronald Freedman,T. H. Sun,14,2,pubh,demography,Freedman,,2
+J. Y. Peng,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+Rodolfo Stavenhagen,Ronald Freedman,1,14,pubh,pubh,,Freedman,1
+E. Arriaga,Ronald Freedman,1,14,pubh,pubh,,Freedman,1
+J. V. Grauman,Ronald Freedman,4,14,pubh,pubh,,Freedman,2
+R. R. Puffer,Ronald Freedman,3,14,pubh,pubh,,Freedman,2
+Adolfo Gaete-Darbó,Ronald Freedman,1,14,pubh,pubh,,Freedman,1
+F. E. Linder,Ronald Freedman,2,14,pubh,pubh,,Freedman,1
+Donald J. Bogue,Ronald Freedman,6,14,pubh,pubh,Bogue,Freedman,1
+C. A. Miró,Ronald Freedman,4,14,pubh,pubh,,Freedman,1
+H. Behm,Ronald Freedman,3,14,pubh,pubh,,Freedman,1
+Kingsley Davis,Ronald Freedman,8,14,economics,pubh,Davis,Freedman,1
+Allan G. Feldt,J. Mayone Stycos,1,10,pubh,eugenics,,,2
+Allan G. Feldt,George C. Myers,1,5,pubh,demography,,,1
+Allan G. Feldt,O. Harkavy,1,1,pubh,pubh,,,1
+Allan G. Feldt,I. B. Taeuber,1,3,pubh,pubh,,,1
+D. P. Dandekar,Donald J. Bogue,1,6,demography,pubh,,Bogue,1
+Bhaskar D. Misra,D. P. Dandekar,1,1,demography,demography,,,1
+Joseph Schachter,Wilson H. Grabill,2,2,pubh,pubh,,,1
+Paul C. Glick,Wilson H. Grabill,5,2,pubh,pubh,Glick,,1
+Hugh Carter,Sarah Lewit,2,1,sociology,sociology,,,1
+Paul C. Glick,Sarah Lewit,5,1,pubh,sociology,Glick,,1
+G. Llanos,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+G. Llanos,J. Amador-Guevara,1,1,pubh,pubh,,,1
+G. A. Silver,G. Llanos,1,1,pubh,pubh,,,1
+G. Llanos,G. Rosen,1,2,pubh,pubh,,,1
+G. Llanos,R. R. Puffer,1,3,pubh,pubh,,,1
+A. Robertson,G. Llanos,1,1,pubh,pubh,,,1
+G. Llanos,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+A. Arca-Parró,G. Llanos,2,1,pubh,pubh,,,1
+G. Llanos,J. W. Morse,1,1,pubh,pubh,,,1
+G. Llanos,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+D. Kirk,George W. Roberts,2,1,pubh,pubh,,,1
+D. Kirk,L. Van Nort,2,1,pubh,pubh,,,1
+D. Kirk,J. Mayone Stycos,2,10,pubh,eugenics,,,1
+D. Kirk,Frank Lorimer,2,2,pubh,pubh,,Lorimer,1
+D. Kirk,G. W. Roberts,2,5,pubh,demography,,,1
+D. Kirk,I. B. Taeuber,2,3,pubh,pubh,,,1
+C. A. Miró,D. Kirk,4,2,pubh,pubh,,,2
+D. Kirk,Giorgio Mortara,2,1,pubh,pubh,,,1
+D. Kirk,Pascal K. Whelpton,2,9,pubh,sociology,,Whelpton,1
+D. Kirk,J. V. Grauman,2,4,pubh,pubh,,,1
+D. Kirk,H. Behm,2,3,pubh,pubh,,,1
+D. Kirk,T. H. Montenegro,2,3,pubh,pubh,,,1
+D. Kirk,Kingsley Davis,2,8,pubh,economics,,Davis,1
+Calvin F. Schmid,Earle H. Maccannell,4,1,demography,sociology,Schmid,,1
+Earle H. Maccannell,Maurice D. Van Arsdol Jr.,1,4,sociology,sociology,,,1
+Clyde V. Kiser,Robert G. Potter,6,16,demography,pubh,Kiser,,1
+Elliot G. Mishler,Robert G. Potter,2,16,demography,pubh,,,1
+Charles F. Westoff,Robert G. Potter,10,16,pubh,pubh,Westoff,,6
+John F. Kantner,Robert G. Potter,2,16,pubh,pubh,Kantner,,1
+Philip C. Sagi,Robert G. Potter,6,16,sociology,pubh,,,5
+M. P. Parker,Robert G. Potter,1,16,demography,pubh,,,1
+Maurice D. Van Arsdol Jr.,Santo F. Camilleri,4,2,sociology,sociology,,,2
+Calvin F. Schmid,Santo F. Camilleri,4,2,demography,sociology,Schmid,,2
+Alvin M. Katz,Reuben Hill,1,6,eugenics,pubh,,,1
+Bernard Berelson,W. Parker Mauldin,4,2,demography,eugenics,Berelson,Mauldin,1
+Bernard Berelson,James Hardy,4,1,demography,famplan,Berelson,,1
+Nathan Keyfitz,R. R. Puffer,6,3,demography,pubh,Keyfitz,,3
+J. Amador-Guevara,R. R. Puffer,1,3,pubh,pubh,,,1
+G. Llanos,R. R. Puffer,1,3,pubh,pubh,,,1
+G. A. Silver,R. R. Puffer,1,3,pubh,pubh,,,1
+G. Rosen,R. R. Puffer,2,3,pubh,pubh,,,1
+A. Robertson,R. R. Puffer,1,3,pubh,pubh,,,1
+J. Mayone Stycos,R. R. Puffer,10,3,eugenics,pubh,,,1
+A. Arca-Parró,R. R. Puffer,2,3,pubh,pubh,,,1
+J. W. Morse,R. R. Puffer,1,3,pubh,pubh,,,1
+Lowell J. Reed,R. R. Puffer,3,3,pubh,pubh,Reed,,1
+R. R. Puffer,Rodolfo Stavenhagen,3,1,pubh,pubh,,,1
+E. Arriaga,R. R. Puffer,1,3,pubh,pubh,,,1
+R. R. Puffer,Ronald Freedman,3,14,pubh,pubh,,Freedman,2
+J. V. Grauman,R. R. Puffer,4,3,pubh,pubh,,,2
+Adolfo Gaete-Darbó,R. R. Puffer,1,3,pubh,pubh,,,1
+R. R. Puffer,T. H. Montenegro,3,3,pubh,pubh,,,1
+F. E. Linder,R. R. Puffer,2,3,pubh,pubh,,,1
+Donald J. Bogue,R. R. Puffer,6,3,pubh,pubh,Bogue,,1
+C. A. Miró,R. R. Puffer,4,3,pubh,pubh,,,1
+H. Behm,R. R. Puffer,3,3,pubh,pubh,,,1
+Kingsley Davis,R. R. Puffer,8,3,economics,pubh,Davis,,1
+Bernard Berelson,W. Parker Mauldin,4,2,demography,eugenics,Berelson,Mauldin,1
+James Hardy,W. Parker Mauldin,1,2,famplan,eugenics,,Mauldin,1
+Frank Lorimer,Jorge Somoza,2,1,pubh,pubh,Lorimer,,1
+J. V. Grauman,Jorge Somoza,4,1,pubh,pubh,,,1
+Jorge Somoza,M. Weissman,1,1,pubh,pubh,,,1
+Jorge Somoza,L. Baumgartner,1,1,pubh,pubh,,,1
+C. A. Miró,Jorge Somoza,4,1,pubh,pubh,,,1
+Doris P. Slesinger,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+David Goldberg,Harry Sharp,7,4,pubh,sociology,Goldberg,,2
+Harry Sharp,Ronald Freedman,4,14,sociology,pubh,,Freedman,2
+Allan Feldt,Harry Sharp,1,4,sociology,sociology,,,1
+Harry Sharp,Leo F. Schnore,4,10,sociology,statistics,,,1
+Anne S. Lee,Everett S. Lee,1,2,statistics,pubh,,Lee,1
+John F. Kantner,Robert G. Potter,2,16,pubh,pubh,Kantner,,1
+C. Horace Hamilton,Josef Perry,7,1,demography,sociology,Hamilton,,1
+J. Mayone Stycos,O. Harkavy,10,1,eugenics,pubh,,,2
+Allan G. Feldt,O. Harkavy,1,1,pubh,pubh,,,1
+George C. Myers,O. Harkavy,5,1,demography,pubh,,,1
+I. B. Taeuber,O. Harkavy,3,1,pubh,pubh,,,1
+Charles F. Westoff,E. Lowell Kelly,10,2,pubh,sociology,Westoff,,2
+E. Lowell Kelly,Elliot G. Mishler,2,2,sociology,demography,,,1
+E. Lowell Kelly,Philip C. Sagi,2,6,sociology,sociology,,,1
+Martin Bolte,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+Gerhard Baumert,Martin Bolte,1,1,demography,demography,,,1
+Deborah S. Freedman,Ronald Freedman,2,14,economics,pubh,,Freedman,1
+Deborah S. Freedman,Pascal K. Whelpton,2,9,economics,sociology,,Whelpton,1
+Calvin F. Schmid,Earle H. Maccannell,4,1,demography,sociology,Schmid,,1
+Calvin F. Schmid,Maurice D. Van Arsdol Jr.,4,4,demography,sociology,Schmid,,3
+Calvin F. Schmid,Santo F. Camilleri,4,2,demography,sociology,Schmid,,2
+Calvin F. Schmid,Kiyoshi Tagashira,4,1,demography,demography,Schmid,,1
+Ansley J. Coale,Frederick F. Stephan,6,1,statistics,statistics,Coale,,1
+Ronald Freedman,T. H. Sun,14,2,pubh,demography,Freedman,,2
+John Y. Takeshita,T. H. Sun,3,2,demography,demography,,,2
+J. Y. Peng,T. H. Sun,1,2,demography,demography,,,1
+Gene B. Petersen,Leo F. Schnore,1,10,general,statistics,,,1
+Charles W. Pettus,Selz C. Mayo,1,3,sociology,sociology,,,1
+C. Horace Hamilton,Charles W. Pettus,7,1,demography,sociology,Hamilton,,1
+Carmen Miro,F. W. Notestein,2,1,demography,pubh,,,1
+Carmen Miro,T. H. Montenegro,2,3,demography,pubh,,,1
+Carmen Miro,Ronald Freedman,2,14,demography,pubh,,Freedman,1
+Carmen Miro,Nathan Keyfitz,2,6,demography,demography,,Keyfitz,1
+Leonard Broom,Virginia Harris,2,1,sociology,sociology,,,1
+Helen P. Beem,Virginia Harris,1,1,sociology,sociology,,,1
+M. P. Parker,Robert G. Potter,1,16,demography,pubh,,,1
+George C. Myers,William A. Lessa,5,2,demography,eugenics,,,1
+George C. Myers,J. Mayone Stycos,5,10,demography,eugenics,,,2
+Allan G. Feldt,George C. Myers,1,5,pubh,demography,,,1
+George C. Myers,O. Harkavy,5,1,demography,pubh,,,1
+George C. Myers,I. B. Taeuber,5,3,demography,pubh,,,1
+George C. Myers,Warren E. Kalbach,5,1,demography,sociology,,,1
+George C. Myers,John R. Walker,5,1,demography,sociology,,,1
+D. Kirk,George W. Roberts,2,1,pubh,pubh,,,1
+George W. Roberts,L. Van Nort,1,1,pubh,pubh,,,1
+George W. Roberts,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+Frank Lorimer,George W. Roberts,2,1,pubh,pubh,Lorimer,,1
+G. W. Roberts,George W. Roberts,5,1,demography,pubh,,,1
+George W. Roberts,I. B. Taeuber,1,3,pubh,pubh,,,1
+C. A. Miró,George W. Roberts,4,1,pubh,pubh,,,1
+Clyde V. Kiser,H. V. Muhsam,6,2,demography,demography,Kiser,,1
+J. Mayone Stycos,Kurt Back,10,1,eugenics,pubh,,,1
+Kurt Back,Reuben Hill,1,6,pubh,pubh,,,1
+Clyde V. Kiser,Pascal K. Whelpton,6,9,demography,sociology,Kiser,Whelpton,1
+Clyde V. Kiser,Kurt W. Back,6,3,demography,sociology,Kiser,,1
+Clyde V. Kiser,Reuben Hill,6,6,demography,pubh,Kiser,,1
+Clyde V. Kiser,J. Mayone Stycos,6,10,demography,eugenics,Kiser,,1
+Clyde V. Kiser,H. V. Muhsam,6,2,demography,demography,Kiser,,1
+Clyde V. Kiser,Elliot G. Mishler,6,2,demography,demography,Kiser,,1
+Charles F. Westoff,Clyde V. Kiser,10,6,pubh,demography,Westoff,Kiser,1
+Clyde V. Kiser,Robert G. Potter,6,16,demography,pubh,Kiser,,1
+Beverly Duncan,Otis Dudley Duncan,4,4,demography,statistics,,Duncan,1
+Beverly Duncan,Georges Sabagh,4,2,demography,pubh,,,1
+Beverly Duncan,Maurice D. Van Arsdol Jr.,4,4,demography,sociology,,,1
+Amos H. Hawley,Beverly Duncan,2,4,demography,demography,Hawley,,1
+Beverly Duncan,David Goldberg,4,7,demography,pubh,,Goldberg,1
+Carmen Miro,F. W. Notestein,2,1,demography,pubh,,,1
+F. W. Notestein,T. H. Montenegro,1,3,pubh,pubh,,,1
+F. W. Notestein,Ronald Freedman,1,14,pubh,pubh,,Freedman,1
+F. W. Notestein,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,1
+Paul Demeny,William N. Parker,1,1,economics,economics,Demeny,,1
+Douglass C. North,Paul Demeny,1,1,economics,economics,,Demeny,1
+Irma Adelman,Paul Demeny,2,1,economics,economics,,Demeny,1
+G. Rosen,Hugo Behm,2,1,pubh,pubh,,,1
+G. Rosen,Hector Gutierrez,2,1,pubh,pubh,,,1
+G. Rosen,Lowell J. Reed,2,3,pubh,pubh,,Reed,2
+G. Rosen,Nathan Keyfitz,2,6,pubh,demography,,Keyfitz,2
+G. Rosen,J. Amador-Guevara,2,1,pubh,pubh,,,1
+G. Llanos,G. Rosen,1,2,pubh,pubh,,,1
+G. A. Silver,G. Rosen,1,2,pubh,pubh,,,1
+G. Rosen,R. R. Puffer,2,3,pubh,pubh,,,1
+A. Robertson,G. Rosen,1,2,pubh,pubh,,,1
+G. Rosen,J. Mayone Stycos,2,10,pubh,eugenics,,,1
+A. Arca-Parró,G. Rosen,2,2,pubh,pubh,,,1
+G. Rosen,J. W. Morse,2,1,pubh,pubh,,,1
+G. Mario Romero,John D. Durand,1,3,pubh,sociology,,Durand,1
+John D. Durand,R. Pacheco A.,3,1,sociology,pubh,Durand,,1
+John D. Durand,M. Romero G.,3,1,sociology,pubh,Durand,,1
+C. A. Mcmahan,Thomas R. Ford,3,2,pubh,eugenics,,,1
+John K. Folger,Thomas R. Ford,2,2,eugenics,eugenics,,,1
+Gordon F. Dejong,Thomas R. Ford,1,2,sociology,eugenics,,,1
+Allan Feldt,Harry Sharp,1,4,sociology,sociology,,,1
+George W. Roberts,L. Van Nort,1,1,pubh,pubh,,,1
+D. Kirk,L. Van Nort,2,1,pubh,pubh,,,1
+J. Mayone Stycos,L. Van Nort,10,1,eugenics,pubh,,,1
+Frank Lorimer,L. Van Nort,2,1,pubh,pubh,Lorimer,,1
+G. W. Roberts,L. Van Nort,5,1,demography,pubh,,,1
+I. B. Taeuber,L. Van Nort,3,1,pubh,pubh,,,1
+C. A. Miró,L. Van Nort,4,1,pubh,pubh,,,1
+Helen P. Beem,Leonard Broom,1,2,sociology,sociology,,,1
+Helen P. Beem,Virginia Harris,1,1,sociology,sociology,,,1
+Hugh Carter,Paul C. Glick,2,5,sociology,pubh,,Glick,2
+Hugh Carter,Sarah Lewit,2,1,sociology,sociology,,,1
+John Y. Takeshita,Ronald Freedman,3,14,demography,pubh,,Freedman,2
+John Y. Takeshita,T. H. Sun,3,2,demography,demography,,,2
+J. Y. Peng,John Y. Takeshita,1,3,demography,demography,,,1
+Benedict J. Duffy,H. Behm,1,3,pubh,pubh,,,1
+Adolfo Gaete-Darbó,H. Behm,1,3,pubh,pubh,,,1
+H. Behm,T. H. Montenegro,3,3,pubh,pubh,,,2
+H. Behm,R. R. Puffer,3,3,pubh,pubh,,,1
+H. Behm,Ronald Freedman,3,14,pubh,pubh,,Freedman,1
+F. E. Linder,H. Behm,2,3,pubh,pubh,,,1
+H. Behm,J. V. Grauman,3,4,pubh,pubh,,,2
+Donald J. Bogue,H. Behm,6,3,pubh,pubh,Bogue,,1
+C. A. Miró,H. Behm,4,3,pubh,pubh,,,2
+H. Behm,Kingsley Davis,3,8,pubh,economics,,Davis,2
+Giorgio Mortara,H. Behm,1,3,pubh,pubh,,,1
+H. Behm,Pascal K. Whelpton,3,9,pubh,sociology,,Whelpton,1
+D. Kirk,H. Behm,2,3,pubh,pubh,,,1
+Donald J. Bogue,James A. Palmore,6,1,pubh,demography,Bogue,,1
+Bhaskar D. Misra,Donald J. Bogue,1,6,demography,pubh,,Bogue,1
+D. P. Dandekar,Donald J. Bogue,1,6,demography,pubh,,Bogue,1
+Adolfo Gaete-Darbó,Donald J. Bogue,1,6,pubh,pubh,,Bogue,1
+Donald J. Bogue,T. H. Montenegro,6,3,pubh,pubh,Bogue,,1
+Donald J. Bogue,R. R. Puffer,6,3,pubh,pubh,Bogue,,1
+Donald J. Bogue,Ronald Freedman,6,14,pubh,pubh,Bogue,Freedman,1
+Donald J. Bogue,F. E. Linder,6,2,pubh,pubh,Bogue,,1
+Donald J. Bogue,J. V. Grauman,6,4,pubh,pubh,Bogue,,1
+C. A. Miró,Donald J. Bogue,4,6,pubh,pubh,,Bogue,1
+Donald J. Bogue,H. Behm,6,3,pubh,pubh,Bogue,,1
+Donald J. Bogue,Kingsley Davis,6,8,pubh,economics,Bogue,Davis,1
+C. Horace Hamilton,Selz C. Mayo,7,3,demography,sociology,Hamilton,,2
+C. Horace Hamilton,Charles W. Pettus,7,1,demography,sociology,Hamilton,,1
+C. Horace Hamilton,Josef Perry,7,1,demography,sociology,Hamilton,,1
+Erwin S. Solomon,Jeanne E. Clare,1,1,pubh,pubh,,,1
+Charles F. Westoff,Jeanne E. Clare,10,1,pubh,pubh,Westoff,,1
+G. W. Roberts,L. Braithwaite,5,1,demography,demography,,,1
+G. A. Silver,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+G. A. Silver,J. Amador-Guevara,1,1,pubh,pubh,,,1
+G. A. Silver,G. Llanos,1,1,pubh,pubh,,,1
+G. A. Silver,G. Rosen,1,2,pubh,pubh,,,1
+G. A. Silver,R. R. Puffer,1,3,pubh,pubh,,,1
+A. Robertson,G. A. Silver,1,1,pubh,pubh,,,1
+G. A. Silver,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+A. Arca-Parró,G. A. Silver,2,1,pubh,pubh,,,1
+G. A. Silver,J. W. Morse,1,1,pubh,pubh,,,1
+G. A. Silver,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+Charles F. Westoff,Edgar F. Borgatta,10,2,pubh,eugenics,Westoff,,1
+Edgar F. Borgatta,Jeffrey K. Hadden,2,1,eugenics,eugenics,,,1
+Morris Axelrod,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+David Goldberg,Morris Axelrod,7,1,pubh,demography,Goldberg,,1
+Doris Slesinger,Morris Axelrod,2,1,demography,demography,,,1
+A. Arca-Parró,Kingsley Davis,2,8,pubh,economics,,Davis,1
+A. Arca-Parró,I. B. Taeuber,2,3,pubh,pubh,,,1
+A. Arca-Parró,G. W. Roberts,2,5,pubh,demography,,,1
+A. Arca-Parró,F. E. Linder,2,2,pubh,pubh,,,1
+A. Arca-Parró,Lowell J. Reed,2,3,pubh,pubh,,Reed,2
+A. Arca-Parró,Nathan Keyfitz,2,6,pubh,demography,,Keyfitz,2
+A. Arca-Parró,J. Amador-Guevara,2,1,pubh,pubh,,,1
+A. Arca-Parró,G. Llanos,2,1,pubh,pubh,,,1
+A. Arca-Parró,G. A. Silver,2,1,pubh,pubh,,,1
+A. Arca-Parró,G. Rosen,2,2,pubh,pubh,,,1
+A. Arca-Parró,R. R. Puffer,2,3,pubh,pubh,,,1
+A. Arca-Parró,A. Robertson,2,1,pubh,pubh,,,1
+A. Arca-Parró,J. Mayone Stycos,2,10,pubh,eugenics,,,1
+A. Arca-Parró,J. W. Morse,2,1,pubh,pubh,,,1
+C. A. Miró,George W. Roberts,4,1,pubh,pubh,,,1
+C. A. Miró,D. Kirk,4,2,pubh,pubh,,,2
+C. A. Miró,L. Van Nort,4,1,pubh,pubh,,,1
+C. A. Miró,J. Mayone Stycos,4,10,pubh,eugenics,,,1
+C. A. Miró,Frank Lorimer,4,2,pubh,pubh,,Lorimer,2
+C. A. Miró,G. W. Roberts,4,5,pubh,demography,,,1
+C. A. Miró,I. B. Taeuber,4,3,pubh,pubh,,,1
+C. A. Miró,Jorge Somoza,4,1,pubh,pubh,,,1
+C. A. Miró,J. V. Grauman,4,4,pubh,pubh,,,3
+C. A. Miró,M. Weissman,4,1,pubh,pubh,,,1
+C. A. Miró,L. Baumgartner,4,1,pubh,pubh,,,1
+Adolfo Gaete-Darbó,C. A. Miró,1,4,pubh,pubh,,,1
+C. A. Miró,T. H. Montenegro,4,3,pubh,pubh,,,2
+C. A. Miró,R. R. Puffer,4,3,pubh,pubh,,,1
+C. A. Miró,Ronald Freedman,4,14,pubh,pubh,,Freedman,1
+C. A. Miró,F. E. Linder,4,2,pubh,pubh,,,1
+C. A. Miró,Donald J. Bogue,4,6,pubh,pubh,,Bogue,1
+C. A. Miró,H. Behm,4,3,pubh,pubh,,,2
+C. A. Miró,Kingsley Davis,4,8,pubh,economics,,Davis,2
+C. A. Miró,Giorgio Mortara,4,1,pubh,pubh,,,1
+C. A. Miró,Pascal K. Whelpton,4,9,pubh,sociology,,Whelpton,1
+I. B. Taeuber,Kingsley Davis,3,8,pubh,economics,,Davis,1
+A. Arca-Parró,I. B. Taeuber,2,3,pubh,pubh,,,1
+G. W. Roberts,I. B. Taeuber,5,3,demography,pubh,,,2
+F. E. Linder,I. B. Taeuber,2,3,pubh,pubh,,,1
+I. B. Taeuber,Lowell J. Reed,3,3,pubh,pubh,,Reed,1
+I. B. Taeuber,J. Mayone Stycos,3,10,pubh,eugenics,,,3
+Allan G. Feldt,I. B. Taeuber,1,3,pubh,pubh,,,1
+George C. Myers,I. B. Taeuber,5,3,demography,pubh,,,1
+I. B. Taeuber,O. Harkavy,3,1,pubh,pubh,,,1
+George W. Roberts,I. B. Taeuber,1,3,pubh,pubh,,,1
+D. Kirk,I. B. Taeuber,2,3,pubh,pubh,,,1
+I. B. Taeuber,L. Van Nort,3,1,pubh,pubh,,,1
+Frank Lorimer,I. B. Taeuber,2,3,pubh,pubh,Lorimer,,1
+C. A. Miró,I. B. Taeuber,4,3,pubh,pubh,,,1
+Jorge Somoza,M. Weissman,1,1,pubh,pubh,,,1
+Frank Lorimer,M. Weissman,2,1,pubh,pubh,Lorimer,,1
+J. V. Grauman,M. Weissman,4,1,pubh,pubh,,,1
+L. Baumgartner,M. Weissman,1,1,pubh,pubh,,,1
+C. A. Miró,M. Weissman,4,1,pubh,pubh,,,1
+Hector Gutierrez,Hugo Behm,1,1,pubh,pubh,,,1
+G. Rosen,Hector Gutierrez,2,1,pubh,pubh,,,1
+Hector Gutierrez,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+Beverly Duncan,Georges Sabagh,4,2,demography,pubh,,,1
+Georges Sabagh,Maurice D. Van Arsdol Jr.,2,4,pubh,sociology,,,1
+Charles Windle,Georges Sabagh,1,2,pubh,pubh,,,1
+G. Mario Romero,M. Romero G.,1,1,pubh,pubh,,,1
+John D. Durand,M. Romero G.,3,1,sociology,pubh,Durand,,1
+M. Romero G.,R. Pacheco A.,1,1,pubh,pubh,,,1
+Jack P. Gibbs,Walter T. Martin,5,4,geography,sociology,,,1
+C. A. Mcmahan,John K. Folger,3,2,pubh,eugenics,,,1
+John K. Folger,Thomas R. Ford,2,2,eugenics,eugenics,,,1
+Charles B. Nam,John K. Folger,4,2,sociology,eugenics,Nam,,1
+Irma Adelman,William N. Parker,2,1,economics,economics,,,1
+Irma Adelman,Paul Demeny,2,1,economics,economics,,Demeny,1
+Douglass C. North,Irma Adelman,1,2,economics,economics,,,1
+Helen P. Beem,Leonard Broom,1,2,sociology,sociology,,,1
+Leonard Broom,Virginia Harris,2,1,sociology,sociology,,,1
+Jack P. Gibbs,Leonard Broom,5,2,geography,sociology,,,1
+Kurt Mayer,Sidney Goldstein,4,8,history,statistics,,Goldstein,4
+Kurt W. Back,Reuben Hill,3,6,sociology,pubh,,,2
+J. Mayone Stycos,Kurt W. Back,10,3,eugenics,sociology,,,2
+Clyde V. Kiser,Kurt W. Back,6,3,demography,sociology,Kiser,,1
+Hugh Carter,Paul C. Glick,2,5,sociology,pubh,,Glick,2
+Paul C. Glick,Sarah Lewit,5,1,pubh,sociology,Glick,,1
+Paul C. Glick,Wilson H. Grabill,5,2,pubh,pubh,Glick,,1
+J. V. Grauman,Jorge Somoza,4,1,pubh,pubh,,,1
+Frank Lorimer,J. V. Grauman,2,4,pubh,pubh,Lorimer,,1
+J. V. Grauman,M. Weissman,4,1,pubh,pubh,,,1
+J. V. Grauman,L. Baumgartner,4,1,pubh,pubh,,,1
+C. A. Miró,J. V. Grauman,4,4,pubh,pubh,,,3
+J. V. Grauman,Rodolfo Stavenhagen,4,1,pubh,pubh,,,1
+E. Arriaga,J. V. Grauman,1,4,pubh,pubh,,,1
+J. V. Grauman,Ronald Freedman,4,14,pubh,pubh,,Freedman,2
+J. V. Grauman,Nathan Keyfitz,4,6,pubh,demography,,Keyfitz,1
+J. V. Grauman,R. R. Puffer,4,3,pubh,pubh,,,2
+Adolfo Gaete-Darbó,J. V. Grauman,1,4,pubh,pubh,,,1
+J. V. Grauman,T. H. Montenegro,4,3,pubh,pubh,,,2
+F. E. Linder,J. V. Grauman,2,4,pubh,pubh,,,1
+Donald J. Bogue,J. V. Grauman,6,4,pubh,pubh,Bogue,,1
+H. Behm,J. V. Grauman,3,4,pubh,pubh,,,2
+J. V. Grauman,Kingsley Davis,4,8,pubh,economics,,Davis,2
+Giorgio Mortara,J. V. Grauman,1,4,pubh,pubh,,,1
+J. V. Grauman,Pascal K. Whelpton,4,9,pubh,sociology,,Whelpton,1
+D. Kirk,J. V. Grauman,2,4,pubh,pubh,,,1
+Paul Demeny,William N. Parker,1,1,economics,economics,Demeny,,1
+Douglass C. North,William N. Parker,1,1,economics,economics,,,1
+Irma Adelman,William N. Parker,2,1,economics,economics,,,1
+Judith Blake,Kingsley Davis,2,8,demography,economics,Blake,Davis,1
+J. Y. Peng,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+J. Y. Peng,John Y. Takeshita,1,3,demography,demography,,,1
+J. Y. Peng,T. H. Sun,1,2,demography,demography,,,1
+G. W. Roberts,L. Braithwaite,5,1,demography,demography,,,1
+G. W. Roberts,Kingsley Davis,5,8,demography,economics,,Davis,1
+G. W. Roberts,I. B. Taeuber,5,3,demography,pubh,,,2
+A. Arca-Parró,G. W. Roberts,2,5,pubh,demography,,,1
+F. E. Linder,G. W. Roberts,2,5,pubh,demography,,,1
+G. W. Roberts,Lowell J. Reed,5,3,demography,pubh,,Reed,1
+G. W. Roberts,George W. Roberts,5,1,demography,pubh,,,1
+D. Kirk,G. W. Roberts,2,5,pubh,demography,,,1
+G. W. Roberts,L. Van Nort,5,1,demography,pubh,,,1
+G. W. Roberts,J. Mayone Stycos,5,10,demography,eugenics,,,1
+Frank Lorimer,G. W. Roberts,2,5,pubh,demography,Lorimer,,1
+C. A. Miró,G. W. Roberts,4,5,pubh,demography,,,1
+George C. Myers,Warren E. Kalbach,5,1,demography,sociology,,,1
+John R. Walker,Warren E. Kalbach,1,1,sociology,sociology,,,1
+G. Mario Romero,John D. Durand,1,3,pubh,sociology,,Durand,1
+G. Mario Romero,R. Pacheco A.,1,1,pubh,pubh,,,1
+G. Mario Romero,M. Romero G.,1,1,pubh,pubh,,,1
+Morris H. Hansen,William N. Hurwitz,2,1,demography,statistics,,,1
+Harold Nisselson,William N. Hurwitz,1,1,statistics,statistics,,,1
+Joseph Steinberg,William N. Hurwitz,1,1,statistics,statistics,,,1
+Gordon F. Dejong,Thomas R. Ford,1,2,sociology,eugenics,,,1
+Gerhard Baumert,Ronald Freedman,1,14,demography,pubh,,Freedman,1
+Gerhard Baumert,Martin Bolte,1,1,demography,demography,,,1
+Irene B. Taeuber,Leo A. Orleans,16,1,pubh,demography,Taeuber,,1
+G. Mario Romero,R. Pacheco A.,1,1,pubh,pubh,,,1
+John D. Durand,R. Pacheco A.,3,1,sociology,pubh,Durand,,1
+M. Romero G.,R. Pacheco A.,1,1,pubh,pubh,,,1
+C. A. Mcmahan,John K. Folger,3,2,pubh,eugenics,,,1
+C. A. Mcmahan,Thomas R. Ford,3,2,pubh,eugenics,,,1
+Morris H. Hansen,William N. Hurwitz,2,1,demography,statistics,,,1
+Harold Nisselson,Morris H. Hansen,1,2,statistics,demography,,,1
+Joseph Steinberg,Morris H. Hansen,1,2,statistics,demography,,,1
+Conrad Taeuber,Morris H. Hansen,4,2,eugenics,demography,Taeuber,,1
+James Hardy,W. Parker Mauldin,1,2,famplan,eugenics,,Mauldin,1
+Bernard Berelson,James Hardy,4,1,demography,famplan,Berelson,,1
+Ansley J. Coale,C. Y. Tye,6,1,statistics,pubh,Coale,,1
+Joseph Steinberg,Morris H. Hansen,1,2,statistics,demography,,,1
+Joseph Steinberg,William N. Hurwitz,1,1,statistics,statistics,,,1
+Harold Nisselson,Joseph Steinberg,1,1,statistics,statistics,,,1
+John W. Smit,Ronald Freedman,1,14,sociology,pubh,,Freedman,1
+John W. Smit,Pascal K. Whelpton,1,9,sociology,sociology,,Whelpton,1
+Clyde V. Kiser,Elliot G. Mishler,6,2,demography,demography,Kiser,,1
+Charles F. Westoff,Elliot G. Mishler,10,2,pubh,demography,Westoff,,2
+Elliot G. Mishler,Robert G. Potter,2,16,demography,pubh,,,1
+E. Lowell Kelly,Elliot G. Mishler,2,2,sociology,demography,,,1
+Benedict J. Duffy,H. Behm,1,3,pubh,pubh,,,1
+Donald J. Bogue,James A. Palmore,6,1,pubh,demography,Bogue,,1
+George C. Myers,William A. Lessa,5,2,demography,eugenics,,,1
+J. Mayone Stycos,Kurt Back,10,1,eugenics,pubh,,,1
+J. Mayone Stycos,Reuben Hill,10,6,eugenics,pubh,,,3
+J. Mayone Stycos,Kurt W. Back,10,3,eugenics,sociology,,,2
+Clyde V. Kiser,J. Mayone Stycos,6,10,demography,eugenics,Kiser,,1
+Allan G. Feldt,J. Mayone Stycos,1,10,pubh,eugenics,,,2
+George C. Myers,J. Mayone Stycos,5,10,demography,eugenics,,,2
+J. Mayone Stycos,O. Harkavy,10,1,eugenics,pubh,,,2
+I. B. Taeuber,J. Mayone Stycos,3,10,pubh,eugenics,,,3
+J. Mayone Stycos,J. Mayone Stycos,10,10,eugenics,eugenics,,,1
+George W. Roberts,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+D. Kirk,J. Mayone Stycos,2,10,pubh,eugenics,,,1
+J. Mayone Stycos,L. Van Nort,10,1,eugenics,pubh,,,1
+Frank Lorimer,J. Mayone Stycos,2,10,pubh,eugenics,Lorimer,,1
+G. W. Roberts,J. Mayone Stycos,5,10,demography,eugenics,,,1
+C. A. Miró,J. Mayone Stycos,4,10,pubh,eugenics,,,1
+J. Mayone Stycos,Nathan Keyfitz,10,6,eugenics,demography,,Keyfitz,2
+J. Amador-Guevara,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+G. Llanos,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+G. A. Silver,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+G. Rosen,J. Mayone Stycos,2,10,pubh,eugenics,,,1
+J. Mayone Stycos,R. R. Puffer,10,3,eugenics,pubh,,,1
+A. Robertson,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+A. Arca-Parró,J. Mayone Stycos,2,10,pubh,eugenics,,,1
+J. Mayone Stycos,J. W. Morse,10,1,eugenics,pubh,,,1
+J. Mayone Stycos,Lowell J. Reed,10,3,eugenics,pubh,,Reed,1
+Kurt Mayer,Sidney Goldstein,4,8,history,statistics,,Goldstein,4
+Elizabeth J. Coulter,Lillian Guralnick,1,3,statistics,statistics,,,1
+Ansley J. Coale,Frederick F. Stephan,6,1,statistics,statistics,Coale,,1
+Ansley J. Coale,C. Y. Tye,6,1,statistics,pubh,Coale,,1
+Charles B. Nam,Lillian Guralnick,4,3,sociology,statistics,Nam,,1
+Elizabeth J. Coulter,Lillian Guralnick,1,3,statistics,statistics,,,1
+J. Amador-Guevara,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,2
+G. Llanos,J. Amador-Guevara,1,1,pubh,pubh,,,1
+G. A. Silver,J. Amador-Guevara,1,1,pubh,pubh,,,1
+G. Rosen,J. Amador-Guevara,2,1,pubh,pubh,,,1
+J. Amador-Guevara,R. R. Puffer,1,3,pubh,pubh,,,1
+A. Robertson,J. Amador-Guevara,1,1,pubh,pubh,,,1
+J. Amador-Guevara,J. Mayone Stycos,1,10,pubh,eugenics,,,1
+A. Arca-Parró,J. Amador-Guevara,2,1,pubh,pubh,,,1
+J. Amador-Guevara,J. W. Morse,1,1,pubh,pubh,,,1
+J. Amador-Guevara,Lowell J. Reed,1,3,pubh,pubh,,Reed,1
+Charles F. Westoff,Philip C. Sagi,10,6,pubh,sociology,Westoff,,6
+E. Lowell Kelly,Philip C. Sagi,2,6,sociology,sociology,,,1
+Philip C. Sagi,Robert G. Potter,6,16,sociology,pubh,,,5
+E. Arriaga,Rodolfo Stavenhagen,1,1,pubh,pubh,,,1
+E. Arriaga,Ronald Freedman,1,14,pubh,pubh,,Freedman,1
+E. Arriaga,Nathan Keyfitz,1,6,pubh,demography,,Keyfitz,1
+E. Arriaga,J. V. Grauman,1,4,pubh,pubh,,,1
+E. Arriaga,R. R. Puffer,1,3,pubh,pubh,,,1
+F. E. Linder,Kingsley Davis,2,8,pubh,economics,,Davis,2
+F. E. Linder,I. B. Taeuber,2,3,pubh,pubh,,,1
+A. Arca-Parró,F. E. Linder,2,2,pubh,pubh,,,1
+F. E. Linder,G. W. Roberts,2,5,pubh,demography,,,1
+F. E. Linder,Lowell J. Reed,2,3,pubh,pubh,,Reed,1
+Adolfo Gaete-Darbó,F. E. Linder,1,2,pubh,pubh,,,1
+F. E. Linder,T. H. Montenegro,2,3,pubh,pubh,,,1
+F. E. Linder,R. R. Puffer,2,3,pubh,pubh,,,1
+F. E. Linder,Ronald Freedman,2,14,pubh,pubh,,Freedman,1
+F. E. Linder,J. V. Grauman,2,4,pubh,pubh,,,1
+Donald J. Bogue,F. E. Linder,6,2,pubh,pubh,Bogue,,1
+C. A. Miró,F. E. Linder,4,2,pubh,pubh,,,1
+F. E. Linder,H. Behm,2,3,pubh,pubh,,,1
+Deward E. Waggoner,Joseph Schachter,1,2,pubh,pubh,,,1
+Deward E. Waggoner,Pascal K. Whelpton,1,9,pubh,sociology,,Whelpton,1
+J. Mayone Stycos,Reuben Hill,10,6,eugenics,pubh,,,3
+Kurt Back,Reuben Hill,1,6,pubh,pubh,,,1
+Kurt W. Back,Reuben Hill,3,6,sociology,pubh,,,2
+Clarence Senior,Reuben Hill,1,6,eugenics,pubh,,,1
+Clyde V. Kiser,Reuben Hill,6,6,demography,pubh,Kiser,,1
+Alvin M. Katz,Reuben Hill,1,6,eugenics,pubh,,,1
+Jorge Somoza,L. Baumgartner,1,1,pubh,pubh,,,1
+Frank Lorimer,L. Baumgartner,2,1,pubh,pubh,Lorimer,,1
+J. V. Grauman,L. Baumgartner,4,1,pubh,pubh,,,1
+L. Baumgartner,M. Weissman,1,1,pubh,pubh,,,1
+C. A. Miró,L. Baumgartner,4,1,pubh,pubh,,,1

@@ -1,0 +1,56 @@
+source,target,scount,tcount,sfield,tfield,sabbrev,tabbrev,weight
+AAAPSS,,77,,general,,AAAPSS,,0
+J. of the American Statistical Association,,40,,statistics,,JASA,,0
+Transactions of the Faculty of Actuaries,,3,,statistics,,Actuaries,,0
+Social Forces,,79,,sociology,,Social Forces,,0
+Public Health Reports,,154,,pubh,,PHR,,0
+Living,,2,,eugenics,,Living,,0
+Science,,3,,general,,Science,,0
+Marriage and Family Living,,3,,eugenics,,Fam. Living,,0
+American Economic Review,,29,,economics,,AER,,0
+Journal of Economic History,,1,,history,,JEH,,0
+Human Biology,,53,,eugenics,,Human Biology,,0
+American Sociological Review,,62,,sociology,,ASR,,0
+Population Index,,40,,demography,,Pop. Index,,0
+Economic History Review,,3,,history,,EHR,,0
+Economic Geography,,5,,geography,,Econ. Geo.,,0
+American Journal of Sociology,,61,,sociology,,AJS,,0
+Genus,,2,,eugenics,,Genus,,0
+Milbank Quarterly,,81,,pubh,,Milbank,,0
+Biometrika,,4,,eugenics,,Biometrika,,0
+American Journal of Sociology,Social Forces,61,79,sociology,sociology,AJS,Social Forces,9
+American Sociological Review,J. of the American Statistical Association,62,40,sociology,statistics,ASR,JASA,6
+American Journal of Sociology,J. of the American Statistical Association,61,40,sociology,statistics,AJS,JASA,9
+American Journal of Sociology,American Sociological Review,61,62,sociology,sociology,AJS,ASR,11
+AAAPSS,American Sociological Review,77,62,general,sociology,AAAPSS,ASR,6
+AAAPSS,J. of the American Statistical Association,77,40,general,statistics,AAAPSS,JASA,10
+AAAPSS,Public Health Reports,77,154,general,pubh,AAAPSS,PHR,2
+AAAPSS,Social Forces,77,79,general,sociology,AAAPSS,Social Forces,8
+AAAPSS,American Journal of Sociology,77,61,general,sociology,AAAPSS,AJS,5
+American Sociological Review,Public Health Reports,62,154,sociology,pubh,ASR,PHR,1
+American Sociological Review,Social Forces,62,79,sociology,sociology,ASR,Social Forces,13
+J. of the American Statistical Association,Public Health Reports,40,154,statistics,pubh,JASA,PHR,1
+J. of the American Statistical Association,Social Forces,40,79,statistics,sociology,JASA,Social Forces,5
+Public Health Reports,Social Forces,154,79,pubh,sociology,PHR,Social Forces,2
+American Journal of Sociology,Public Health Reports,61,154,sociology,pubh,AJS,PHR,2
+AAAPSS,Milbank Quarterly,77,81,general,pubh,AAAPSS,Milbank,10
+J. of the American Statistical Association,Milbank Quarterly,40,81,statistics,pubh,JASA,Milbank,7
+Milbank Quarterly,Social Forces,81,79,pubh,sociology,Milbank,Social Forces,7
+American Journal of Sociology,Milbank Quarterly,61,81,sociology,pubh,AJS,Milbank,5
+Human Biology,Milbank Quarterly,53,81,eugenics,pubh,Human Biology,Milbank,4
+Milbank Quarterly,Public Health Reports,81,154,pubh,pubh,Milbank,PHR,6
+Human Biology,Social Forces,53,79,eugenics,sociology,Human Biology,Social Forces,2
+American Journal of Sociology,Human Biology,61,53,sociology,eugenics,AJS,Human Biology,2
+Human Biology,Public Health Reports,53,154,eugenics,pubh,Human Biology,PHR,2
+American Economic Review,American Sociological Review,29,62,economics,sociology,AER,ASR,1
+American Economic Review,Social Forces,29,79,economics,sociology,AER,Social Forces,1
+American Sociological Review,Milbank Quarterly,62,81,sociology,pubh,ASR,Milbank,8
+AAAPSS,Journal of Economic History,77,1,general,history,AAAPSS,JEH,1
+AAAPSS,Human Biology,77,53,general,eugenics,AAAPSS,Human Biology,3
+Human Biology,Science,53,3,eugenics,general,Human Biology,Science,1
+Human Biology,J. of the American Statistical Association,53,40,eugenics,statistics,Human Biology,JASA,5
+Milbank Quarterly,Science,81,3,pubh,general,Milbank,Science,1
+AAAPSS,Science,77,3,general,general,AAAPSS,Science,1
+J. of the American Statistical Association,Science,40,3,statistics,general,JASA,Science,1
+AAAPSS,American Economic Review,77,29,general,economics,AAAPSS,AER,2
+American Economic Review,Milbank Quarterly,29,81,economics,pubh,AER,Milbank,1

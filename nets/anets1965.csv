@@ -1,0 +1,2318 @@
+source,target,scount,tcount,sfield,tfield,slast,tlast,weight
+Conrad Taeuber,,3,,general,,Taeuber,,0
+George J. Stolnitz,,1,,demography,,Stolnitz,,0
+Ronald Lee,,2,,demography,,Lee,,0
+Garrett Hardin,,1,,famplan,,Hardin,,0
+David M. Heer,Judith G. Bryden,14,1,famplan,demography,,,1
+David M. Heer,John B. Wyon,14,3,famplan,pubh,,,1
+David M. Heer,Stephen L. Finner,14,1,famplan,demography,,,1
+David M. Heer,Nadipuram R. Parthasarathy,14,1,famplan,demography,,,1
+David M. Heer,John E. Gordon,14,3,famplan,pubh,,,1
+David M. Heer,Elsa S. Turner,14,1,famplan,demography,,,1
+David M. Heer,Dean O. Smith,14,2,famplan,demography,,,2
+David A. May,David M. Heer,1,14,demography,famplan,,,1
+David M. Heer,Thomas P. Monahan,14,3,famplan,demography,,,1
+H. William Mooney,Leslie Corsa Jr.,1,2,pubh,pubh,,,1
+Beatrice R. Pollack,Leslie Corsa Jr.,1,2,pubh,pubh,,,1
+J. Y. Peng,Leslie Corsa Jr.,4,2,famplan,pubh,,,1
+L. P. Chow,Leslie Corsa Jr.,10,2,famplan,pubh,,,1
+Carmen Miro,Jorge L. Somoza,5,2,demography,demography,,,1
+Jorge L. Somoza,Philip M. Hauser,2,16,demography,demography,,Hauser,1
+Donald S. Akers,Ellen Linna Jamison,5,1,demography,demography,,,1
+A. Peter Ruderman,Salvador Diaz,1,1,pubh,pubh,,,1
+A. Peter Ruderman,H. Jack Geiger,1,1,pubh,pubh,,,1
+A. Peter Ruderman,Alvaro Lopez,1,4,pubh,demography,,,1
+A. Peter Ruderman,Reginaldo Zaccara De Campos,1,1,pubh,pubh,,,1
+Everett S. Lee,Juan C. Elizaga,6,4,demography,demography,Lee,,1
+J. Arias,Juan C. Elizaga,3,4,pubh,demography,,,1
+Chaichana Suvanavejh,Peter J. Donaldson,2,1,famplan,famplan,,,1
+Chaichana Suvanavejh,J. Oscar Alers,2,3,famplan,demography,,,1
+Chaichana Suvanavejh,Winich Asavasena,2,4,famplan,famplan,,,1
+Allan G. Rosenfield,Chaichana Suvanavejh,7,2,famplan,famplan,,,1
+Clark E. Vincent,John F. Kantner,1,10,demography,demography,,Kantner,1
+Clark E. Vincent,Melvin Zelnik,1,10,demography,demography,,,1
+Clark E. Vincent,Philip R. Kunz,1,1,demography,demography,,,1
+Clark E. Vincent,Merlin B. Brinkerhoff,1,2,demography,demography,,,1
+Carl M. Cochrane,Clark E. Vincent,1,1,demography,demography,,,1
+C. Allen Haney,Clark E. Vincent,1,1,demography,demography,,,1
+H. Majumdar,Mindel C. Sheps,1,14,demography,demography,,,1
+Merlin B. Brinkerhoff,Phillip R. Kunz,2,3,demography,demography,,,1
+John F. Kantner,Merlin B. Brinkerhoff,10,2,demography,demography,Kantner,,1
+Melvin Zelnik,Merlin B. Brinkerhoff,10,2,demography,demography,,,1
+Merlin B. Brinkerhoff,Philip R. Kunz,2,1,demography,demography,,,1
+Clark E. Vincent,Merlin B. Brinkerhoff,1,2,demography,demography,,,1
+Carl M. Cochrane,Merlin B. Brinkerhoff,1,2,demography,demography,,,1
+C. Allen Haney,Merlin B. Brinkerhoff,1,2,demography,demography,,,1
+Dae Woo Han,George Worth,2,2,famplan,famplan,,,1
+Dae Woo Han,Walter B. Watson,2,3,famplan,sociology,,,1
+Dae Woo Han,O. D. Finnigan,2,1,famplan,famplan,,,1
+Dae Woo Han,S. M. Keeny,2,4,famplan,famplan,,,2
+Dae Woo Han,John A. Ross,2,11,famplan,demography,,,1
+Dae Woo Han,George P. Cernada,2,6,famplan,famplan,,,1
+Dae Woo Han,T. C. Hsu,2,2,famplan,demography,,,1
+Dae Woo Han,T. H. Sun,2,6,famplan,demography,,,1
+Charles F. Westoff,Jose Donayre,24,1,famplan,pubh,Westoff,,1
+Carmen Miro,Kingsley Davis,5,3,demography,demography,,Davis,1
+Kingsley Davis,Walter Mertens,3,2,demography,demography,Davis,,1
+Eduardo E. Arriaga,Kingsley Davis,7,3,pubh,demography,,Davis,1
+Harriet B. Presser,Larry L. Bumpass,7,4,pubh,sociology,Presser,Bumpass,2
+James A. Sweet,Larry L. Bumpass,5,4,famplan,sociology,,Bumpass,1
+Edwin D. Driver,Hugh Loebner,7,1,demography,demography,,,1
+Edwin D. Driver,James E. Teele,7,4,demography,pubh,,,3
+Edwin D. Driver,William M. Schmidt,7,1,demography,pubh,,,1
+Arthur A. Campbell,Edwin D. Driver,10,7,famplan,demography,Campbell,,1
+Edwin D. Driver,Norman B. Ryder,7,19,demography,famplan,,Ryder,2
+Edwin D. Driver,Philip M. Hauser,7,16,demography,demography,,Hauser,4
+Daniel C. Thompson,Edwin D. Driver,5,7,pubh,demography,,,3
+Edwin D. Driver,Karl E. Taeuber,7,9,demography,sociology,,,1
+Edwin D. Driver,James A. Jones,7,1,demography,pubh,,,1
+Edwin D. Driver,Jessie S. Bernard,7,2,demography,pubh,,,2
+Edwin D. Driver,Paul C. Glick,7,11,demography,pubh,,Glick,1
+Edwin D. Driver,Frank W. Notestein,7,8,demography,demography,,Notestein,2
+C. R. Lawrence,Edwin D. Driver,2,7,pubh,demography,,,1
+Edwin D. Driver,W. Parker Mauldin,7,7,demography,pubh,,Mauldin,1
+Donald J. Bogue,Edwin D. Driver,10,7,demography,demography,Bogue,,2
+Edwin D. Driver,Elliot Liebow,7,5,demography,pubh,,,2
+Edwin D. Driver,G. Franklin Edwards,7,4,demography,pubh,,,1
+Edwin D. Driver,Joseph D. Beasley,7,10,demography,famplan,,,1
+Daniel O. Price,Edwin D. Driver,7,7,demography,demography,,,2
+Carl L. Harter,Edwin D. Driver,6,7,demography,demography,,,1
+Edwin D. Driver,Paul B. Cornely,7,1,demography,pubh,,,1
+C. V. Willie,Edwin D. Driver,3,7,pubh,demography,,,2
+Edwin D. Driver,Karl A. Smith,7,4,demography,pubh,,,1
+Edwin D. Driver,Preston Valien,7,4,demography,pubh,,,1
+Edwin D. Driver,Reynolds Farley,7,14,demography,demography,,Farley,1
+Edwin D. Driver,Paul R. Williams,7,2,demography,pubh,,,1
+Edwin D. Driver,Harriet B. Presser,7,7,demography,pubh,,Presser,1
+Charles B. Arnold,Edwin D. Driver,3,7,famplan,demography,,,1
+Frederick S. Jaffe,Joy G. Dryfoos,17,7,general,famplan,,,3
+George Varky,Joy G. Dryfoos,1,7,famplan,famplan,,,1
+Joy G. Dryfoos,Marsha Corey,7,2,famplan,famplan,,,1
+Daniel R. Weintraub,Joy G. Dryfoos,2,7,famplan,famplan,,,1
+Jean P. Cobb,Joy G. Dryfoos,1,7,famplan,famplan,,,1
+Carita Jo Bernsohn,Joy G. Dryfoos,1,7,famplan,famplan,,,1
+Edith Fein,Judith S. Weis,1,1,general,general,,,1
+Edgar R. Chasteen,Edith Fein,1,1,general,general,,,1
+Edith Fein,Frederick S. Jaffe,1,17,general,general,,,1
+Allan G. Rosenfield,Somsak Varakamin,7,2,famplan,famplan,,,2
+Chitt Hemachudha,Somsak Varakamin,2,2,famplan,famplan,,,2
+Somsak Varakamin,Winich Asavasena,2,4,famplan,famplan,,,2
+Gavin Jones,Somsak Varakamin,4,2,demography,famplan,,,1
+J. Oscar Alers,Somsak Varakamin,3,2,demography,famplan,,,1
+Alvaro Lopez,Ansley J. Coale,4,12,demography,pubh,,Coale,1
+Alvaro Lopez,Salvador Diaz,4,1,demography,pubh,,,1
+Alvaro Lopez,H. Jack Geiger,4,1,demography,pubh,,,1
+A. Peter Ruderman,Alvaro Lopez,1,4,pubh,demography,,,1
+Alvaro Lopez,Reginaldo Zaccara De Campos,4,1,demography,pubh,,,1
+Gail A. Shea,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Miriam OrdoñEz,Thomas K. Burch,1,6,famplan,famplan,,,1
+Gustavo Perez,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Joseph Van Kemanade,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Jan Hutjes,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Mary L. New,Robert G. Potter,1,18,pubh,famplan,,,1
+John B. Wyon,Mary L. New,3,1,pubh,pubh,,,1
+John E. Gordon,Mary L. New,3,1,pubh,pubh,,,1
+Dorothy Nortman,W. Parker Mauldin,3,7,economics,pubh,,Mauldin,1
+Frederick F. Stephen,W. Parker Mauldin,1,7,famplan,pubh,,Mauldin,1
+Gavin W. Jones,W. Parker Mauldin,1,7,famplan,pubh,,Mauldin,1
+Robert J. Lapham,W. Parker Mauldin,4,7,demography,pubh,,Mauldin,1
+Karl E. Taeuber,W. Parker Mauldin,9,7,sociology,pubh,,Mauldin,1
+James A. Jones,W. Parker Mauldin,1,7,pubh,pubh,,Mauldin,1
+Jessie S. Bernard,W. Parker Mauldin,2,7,pubh,pubh,,Mauldin,1
+Paul C. Glick,W. Parker Mauldin,11,7,pubh,pubh,Glick,Mauldin,1
+Frank W. Notestein,W. Parker Mauldin,8,7,demography,pubh,Notestein,Mauldin,1
+C. R. Lawrence,W. Parker Mauldin,2,7,pubh,pubh,,Mauldin,1
+Donald J. Bogue,W. Parker Mauldin,10,7,demography,pubh,Bogue,Mauldin,1
+Elliot Liebow,W. Parker Mauldin,5,7,pubh,pubh,,Mauldin,1
+Philip M. Hauser,W. Parker Mauldin,16,7,demography,pubh,Hauser,Mauldin,1
+Edwin D. Driver,W. Parker Mauldin,7,7,demography,pubh,,Mauldin,1
+G. Franklin Edwards,W. Parker Mauldin,4,7,pubh,pubh,,Mauldin,1
+Joseph D. Beasley,W. Parker Mauldin,10,7,famplan,pubh,,Mauldin,1
+Daniel O. Price,W. Parker Mauldin,7,7,demography,pubh,,Mauldin,1
+James E. Teele,W. Parker Mauldin,4,7,pubh,pubh,,Mauldin,1
+C. R. Lawrence,Karl E. Taeuber,2,9,pubh,sociology,,,2
+C. R. Lawrence,James A. Jones,2,1,pubh,pubh,,,1
+C. R. Lawrence,Jessie S. Bernard,2,2,pubh,pubh,,,1
+C. R. Lawrence,Paul C. Glick,2,11,pubh,pubh,,Glick,1
+C. R. Lawrence,Frank W. Notestein,2,8,pubh,demography,,Notestein,2
+C. R. Lawrence,W. Parker Mauldin,2,7,pubh,pubh,,Mauldin,1
+C. R. Lawrence,Donald J. Bogue,2,10,pubh,demography,,Bogue,1
+C. R. Lawrence,Elliot Liebow,2,5,pubh,pubh,,,2
+C. R. Lawrence,Philip M. Hauser,2,16,pubh,demography,,Hauser,2
+C. R. Lawrence,Edwin D. Driver,2,7,pubh,demography,,,1
+C. R. Lawrence,G. Franklin Edwards,2,4,pubh,pubh,,,2
+C. R. Lawrence,Joseph D. Beasley,2,10,pubh,famplan,,,1
+C. R. Lawrence,Daniel O. Price,2,7,pubh,demography,,,2
+C. R. Lawrence,James E. Teele,2,4,pubh,pubh,,,2
+C. R. Lawrence,Joseph S. Himes,2,2,pubh,pubh,,,1
+C. R. Lawrence,Preston Valien,2,4,pubh,pubh,,,1
+C. R. Lawrence,Daniel C. Thompson,2,5,pubh,pubh,,,1
+C. R. Lawrence,Reynolds Farley,2,14,pubh,demography,,Farley,1
+C. R. Lawrence,Irene B. Taeuber,2,12,pubh,pubh,,Taeuber,1
+Charles F. Westoff,Norman B. Ryder,24,19,famplan,famplan,Westoff,Ryder,10
+Charles F. Westoff,Raymond H. Potvin,24,2,famplan,demography,Westoff,,2
+Carmen Miro,Charles F. Westoff,5,24,demography,famplan,,Westoff,1
+Charles F. Westoff,Ferdinand Rath,24,1,famplan,pubh,Westoff,,1
+Arthur A. Campbell,Charles F. Westoff,10,24,famplan,famplan,Campbell,Westoff,2
+Charles F. Westoff,G. PéRez,24,1,famplan,pubh,Westoff,,1
+Charles F. Westoff,J. Mayone Stycos,24,13,famplan,pubh,Westoff,,2
+Charles F. Westoff,Mindel C. Sheps,24,14,famplan,demography,Westoff,,1
+Charles F. Westoff,F. E. Linder,24,2,famplan,pubh,Westoff,,1
+Charles F. Westoff,M-F. Hall,24,2,famplan,pubh,Westoff,,1
+Charles F. Westoff,Ronald Freedman,24,33,famplan,famplan,Westoff,Freedman,1
+Charles F. Westoff,T. K. Burch,24,2,famplan,pubh,Westoff,,1
+Charles F. Westoff,Donald J. Bogue,24,10,famplan,demography,Westoff,Bogue,1
+A. H. Neiva,Charles F. Westoff,3,24,pubh,famplan,,Westoff,1
+Charles F. Westoff,M-FrançOise Hall,24,2,famplan,pubh,Westoff,,1
+Charles F. Westoff,Christopher Tietze,24,18,famplan,pubh,Westoff,,1
+Charles F. Westoff,Jose Donayre,24,1,famplan,pubh,Westoff,,1
+Charles F. Westoff,Emily C. Moore,24,1,famplan,pubh,Westoff,,1
+Charles F. Westoff,Larry Bumpass,24,8,famplan,general,Westoff,Bumpass,4
+Charles F. Westoff,Ronald Rindfuss,24,2,famplan,demography,Westoff,Rindfuss,1
+Charles F. Westoff,Ronald R. Rindfuss,24,1,famplan,general,Westoff,Rindfuss,1
+Carl L. Harter,Charles F. Westoff,6,24,demography,famplan,,Westoff,1
+C. V. Willie,Charles F. Westoff,3,24,pubh,famplan,,Westoff,1
+Charles F. Westoff,Philip M. Hauser,24,16,famplan,demography,Westoff,Hauser,1
+Charles F. Westoff,Elliot Liebow,24,5,famplan,pubh,Westoff,,1
+Charles F. Westoff,Frank Lorimer,24,2,famplan,pubh,Westoff,Lorimer,1
+Maria Davidson,Wilson H. Grabill,2,6,demography,demography,,,1
+Dorothy Nortman,Dudley Kirk,3,5,economics,general,,Kirk,1
+Arjun Adlakha,Dudley Kirk,2,5,demography,general,,Kirk,1
+Ansley J. Coale,Dudley Kirk,12,5,pubh,general,Coale,Kirk,1
+Dudley Kirk,Philip M. Hauser,5,16,general,demography,Kirk,Hauser,1
+Dudley Kirk,Wilson H. Grabill,5,6,general,demography,Kirk,,1
+James E. Teele,William M. Schmidt,4,1,pubh,pubh,,,1
+Arthur A. Campbell,William M. Schmidt,10,1,famplan,pubh,Campbell,,1
+Norman B. Ryder,William M. Schmidt,19,1,famplan,pubh,Ryder,,1
+Philip M. Hauser,William M. Schmidt,16,1,demography,pubh,Hauser,,1
+Daniel C. Thompson,William M. Schmidt,5,1,pubh,pubh,,,1
+Edwin D. Driver,William M. Schmidt,7,1,demography,pubh,,,1
+Allan G. Rosenfield,Sasichan Vimuktanon,7,1,famplan,famplan,,,1
+Christopher Tietze,Sarah Lewit,18,10,pubh,demography,,,7
+Sarah Lewit,Sidney H. Newman,10,1,demography,famplan,,,1
+Mildred B. Beck,Sarah Lewit,1,10,famplan,demography,,,1
+Carlos Ferrero,F. E. Linder,2,2,pubh,pubh,,,1
+Carlos Ferrero,David L. Rabin,2,1,pubh,pubh,,,1
+Carlos Ferrero,John Crawford,2,1,pubh,pubh,,,1
+Carlos Ferrero,Dorothy Myer,2,1,pubh,pubh,,,1
+Alan Ross,Carlos Ferrero,1,2,pubh,pubh,,,1
+Carlos Ferrero,Elisabeth Schach,2,1,pubh,pubh,,,1
+H. Jack Geiger,Salvador Diaz,1,1,pubh,pubh,,,1
+Alvaro Lopez,H. Jack Geiger,4,1,demography,pubh,,,1
+A. Peter Ruderman,H. Jack Geiger,1,1,pubh,pubh,,,1
+H. Jack Geiger,Reginaldo Zaccara De Campos,1,1,pubh,pubh,,,1
+Amos H. Hawley,Visid Prachuabmoh,2,4,demography,demography,Hawley,,1
+John Knodel,Visid Prachuabmoh,9,4,famplan,demography,,,3
+J. Oscar Alers,Visid Prachuabmoh,3,4,demography,demography,,,1
+Lyle Saunders,Oscar Harkavy,2,5,demography,demography,,Harkavy,1
+Anna L. Southam,Oscar Harkavy,1,5,demography,demography,,Harkavy,1
+Frederick S. Jaffe,Oscar Harkavy,17,5,general,demography,,Harkavy,1
+Oscar Harkavy,Samuel M. Wishik,5,1,demography,general,Harkavy,,1
+John Maier,Oscar Harkavy,3,5,famplan,demography,,Harkavy,3
+Hugh Carter,Paul C. Glick,1,11,demography,pubh,,Glick,1
+Paul C. Glick,Robert Parke Jr.,11,2,pubh,demography,Glick,,2
+Paul C. Glick,Walt Saveland,11,1,pubh,demography,Glick,,1
+Arthur J. Norton,Paul C. Glick,3,11,demography,pubh,,Glick,2
+Paul C. Glick,Preston Valien,11,4,pubh,pubh,Glick,,1
+Irene B. Taeuber,Paul C. Glick,12,11,pubh,pubh,Taeuber,Glick,1
+Daniel O. Price,Paul C. Glick,7,11,demography,pubh,,Glick,2
+Paul C. Glick,Philip M. Hauser,11,16,pubh,demography,Glick,Hauser,2
+Donald J. Bogue,Paul C. Glick,10,11,demography,pubh,Bogue,Glick,2
+Joseph D. Beasley,Paul C. Glick,10,11,famplan,pubh,,Glick,2
+Daniel C. Thompson,Paul C. Glick,5,11,pubh,pubh,,Glick,1
+Paul C. Glick,Reynolds Farley,11,14,pubh,demography,Glick,Farley,1
+Karl E. Taeuber,Paul C. Glick,9,11,sociology,pubh,,Glick,1
+James A. Jones,Paul C. Glick,1,11,pubh,pubh,,Glick,1
+Jessie S. Bernard,Paul C. Glick,2,11,pubh,pubh,,Glick,1
+Frank W. Notestein,Paul C. Glick,8,11,demography,pubh,Notestein,Glick,1
+C. R. Lawrence,Paul C. Glick,2,11,pubh,pubh,,Glick,1
+Paul C. Glick,W. Parker Mauldin,11,7,pubh,pubh,Glick,Mauldin,1
+Elliot Liebow,Paul C. Glick,5,11,pubh,pubh,,Glick,1
+Edwin D. Driver,Paul C. Glick,7,11,demography,pubh,,Glick,1
+G. Franklin Edwards,Paul C. Glick,4,11,pubh,pubh,,Glick,1
+James E. Teele,Paul C. Glick,4,11,pubh,pubh,,Glick,1
+Clyde V. Kiser,Paul C. Glick,7,11,pubh,pubh,Kiser,Glick,1
+Dorothy G. Wiehl,Paul C. Glick,1,11,pubh,pubh,,Glick,1
+Paul C. Glick,Wilson H. Grabill,11,6,pubh,demography,Glick,,1
+Ann R. Sauls,Charles B. Arnold,1,3,famplan,famplan,,,1
+Ann R. Sauls,Sylvain Fribourg,1,1,famplan,famplan,,,1
+Ann R. Sauls,Millard B. Bethel,1,1,famplan,famplan,,,1
+Albert I. Hermalin,Ronald Freedman,6,33,sociology,famplan,Hermalin,Freedman,2
+Albert I. Hermalin,John Y. Takeshita,6,4,sociology,demography,Hermalin,,1
+Albert I. Hermalin,Reynolds Farley,6,14,sociology,demography,Hermalin,Farley,2
+Albert I. Hermalin,T. H. Sun,6,6,sociology,demography,Hermalin,,1
+Paul R. Williams,Reynolds Farley,2,14,pubh,demography,,Farley,3
+Norman B. Ryder,Paul R. Williams,19,2,famplan,pubh,Ryder,,1
+Karl E. Taeuber,Paul R. Williams,9,2,sociology,pubh,,,1
+Paul R. Williams,Philip M. Hauser,2,16,pubh,demography,,Hauser,2
+Elliot Liebow,Paul R. Williams,5,2,pubh,pubh,,,2
+G. Franklin Edwards,Paul R. Williams,4,2,pubh,pubh,,,1
+Clyde V. Kiser,Paul R. Williams,7,2,pubh,pubh,Kiser,,1
+Irene B. Taeuber,Paul R. Williams,12,2,pubh,pubh,Taeuber,,1
+Daniel O. Price,Paul R. Williams,7,2,demography,pubh,,,1
+Joseph D. Beasley,Paul R. Williams,10,2,famplan,pubh,,,1
+Jessie S. Bernard,Paul R. Williams,2,2,pubh,pubh,,,1
+Paul R. Williams,Preston Valien,2,4,pubh,pubh,,,1
+Edwin D. Driver,Paul R. Williams,7,2,demography,pubh,,,1
+Harriet B. Presser,Paul R. Williams,7,2,pubh,pubh,Presser,,1
+James E. Teele,Paul R. Williams,4,2,pubh,pubh,,,1
+Daniel C. Thompson,Paul R. Williams,5,2,pubh,pubh,,,1
+C. V. Willie,Paul R. Williams,3,2,pubh,pubh,,,1
+Charles B. Arnold,Paul R. Williams,3,2,famplan,pubh,,,1
+Max W. Williams,Omer R. Galle,1,3,demography,demography,,,1
+Roger Avery,Ronald Freedman,2,33,famplan,famplan,,Freedman,1
+J. Y. Peng,Roger Avery,4,2,famplan,famplan,,,1
+L. P. Chow,Roger Avery,10,2,famplan,famplan,,,1
+Roger Avery,Silvia Pedraza,2,1,famplan,famplan,,,1
+Carl F. Grindstaff,G. Edward Ebanks,1,2,demography,demography,,,1
+John Y. Takeshita,Lois M. Verbrugge,4,1,demography,famplan,,,1
+Lois M. Verbrugge,Tan Boon Ann,1,5,famplan,demography,,,1
+Brian L. Pitcher,Evan T. Peterson,1,1,demography,demography,,,1
+Evan T. Peterson,Phillip R. Kunz,1,3,demography,demography,,,1
+Douglas Carnahan,Walter Gove,1,1,sociology,sociology,,,1
+Omer R. Galle,Walter Gove,3,1,demography,sociology,,,1
+Dhruva N. Nagnur,Edmund M. Murphy,1,2,demography,eugenics,,,1
+Etienne Van De Walle,John Knodel,9,9,economics,famplan,Walle,,3
+John Knodel,Pichit Pitaktepsombati,9,1,famplan,famplan,,,1
+John Knodel,Visid Prachuabmoh,9,4,famplan,demography,,,3
+J. Oscar Alers,John Knodel,3,9,demography,famplan,,,1
+Edward Shorter,John Knodel,2,9,history,famplan,,,1
+John A. Ross,Oliver D. Finnigan Iii,11,1,demography,famplan,,,1
+Oliver D. Finnigan Iii,S.M. Keeny,1,1,famplan,famplan,,,1
+George P. Cernada,Oliver D. Finnigan Iii,6,1,famplan,famplan,,,1
+Lewis C. Frank Jr.,Myrna M. Weissman,1,1,general,general,,,1
+Lewis C. Frank Jr.,Richard Reynolds,1,2,general,general,,,1
+Lewis C. Frank Jr.,Willard Johnson,1,1,general,general,,,1
+Lewis C. Frank Jr.,Ruth Barnhouse-Beuscher,1,1,general,general,,,1
+Judith Blake,Lewis C. Frank Jr.,13,1,general,general,Blake,,1
+Carmen Miro,J. Mayone Stycos,5,13,demography,pubh,,,1
+Ferdinand Rath,J. Mayone Stycos,1,13,pubh,pubh,,,1
+Arthur A. Campbell,J. Mayone Stycos,10,13,famplan,pubh,Campbell,,1
+Charles F. Westoff,J. Mayone Stycos,24,13,famplan,pubh,Westoff,,2
+G. PéRez,J. Mayone Stycos,1,13,pubh,pubh,,,1
+J. Mayone Stycos,Mindel C. Sheps,13,14,pubh,demography,,,2
+F. E. Linder,J. Mayone Stycos,2,13,pubh,pubh,,,1
+J. Mayone Stycos,M-F. Hall,13,2,pubh,pubh,,,2
+J. Mayone Stycos,Ronald Freedman,13,33,pubh,famplan,,Freedman,1
+J. Mayone Stycos,T. K. Burch,13,2,pubh,pubh,,,1
+Donald J. Bogue,J. Mayone Stycos,10,13,demography,pubh,Bogue,,2
+A. H. Neiva,J. Mayone Stycos,3,13,pubh,pubh,,,1
+J. Mayone Stycos,R. Delgado,13,1,pubh,pubh,,,1
+J. Mayone Stycos,O. Mendoza,13,1,pubh,pubh,,,1
+J. Mayone Stycos,R. O. Carleton,13,2,pubh,pubh,,,1
+Everett S. Lee,J. Mayone Stycos,6,13,demography,pubh,Lee,,1
+Christopher Tietze,J. Mayone Stycos,18,13,pubh,pubh,,,2
+J. Arias,J. Mayone Stycos,3,13,pubh,pubh,,,1
+F. Rath,J. Mayone Stycos,1,13,pubh,pubh,,,1
+J. Mayone Stycos,R. Puffer,13,2,pubh,pubh,,,1
+J. Mayone Stycos,M-FrançOise Hall,13,2,pubh,pubh,,,1
+J. Mayone Stycos,Robert H. Weller,13,8,pubh,pubh,,,1
+J. Mayone Stycos,Parker G. Marden,13,2,pubh,sociology,,,1
+Elliot Liebow,Reynolds Farley,5,14,pubh,demography,,Farley,4
+Elliot Liebow,Paul R. Williams,5,2,pubh,pubh,,,2
+Elliot Liebow,Norman B. Ryder,5,19,pubh,famplan,,Ryder,2
+Elliot Liebow,Karl E. Taeuber,5,9,pubh,sociology,,,3
+Elliot Liebow,Philip M. Hauser,5,16,pubh,demography,,Hauser,5
+Elliot Liebow,G. Franklin Edwards,5,4,pubh,pubh,,,3
+Clyde V. Kiser,Elliot Liebow,7,5,pubh,pubh,Kiser,,1
+Elliot Liebow,Irene B. Taeuber,5,12,pubh,pubh,,Taeuber,2
+Daniel O. Price,Elliot Liebow,7,5,demography,pubh,,,3
+Elliot Liebow,Joseph D. Beasley,5,10,pubh,famplan,,,2
+Charles F. Westoff,Elliot Liebow,24,5,famplan,pubh,Westoff,,1
+Carl L. Harter,Elliot Liebow,6,5,demography,pubh,,,1
+C. V. Willie,Elliot Liebow,3,5,pubh,pubh,,,2
+Arthur A. Campbell,Elliot Liebow,10,5,famplan,pubh,Campbell,,1
+Elliot Liebow,James A. Jones,5,1,pubh,pubh,,,1
+Elliot Liebow,Jessie S. Bernard,5,2,pubh,pubh,,,2
+Elliot Liebow,Paul C. Glick,5,11,pubh,pubh,,Glick,1
+Elliot Liebow,Frank W. Notestein,5,8,pubh,demography,,Notestein,2
+C. R. Lawrence,Elliot Liebow,2,5,pubh,pubh,,,2
+Elliot Liebow,W. Parker Mauldin,5,7,pubh,pubh,,Mauldin,1
+Donald J. Bogue,Elliot Liebow,10,5,demography,pubh,Bogue,,1
+Edwin D. Driver,Elliot Liebow,7,5,demography,pubh,,,2
+Elliot Liebow,James E. Teele,5,4,pubh,pubh,,,3
+Elliot Liebow,Joseph S. Himes,5,2,pubh,pubh,,,1
+Elliot Liebow,Preston Valien,5,4,pubh,pubh,,,2
+Daniel C. Thompson,Elliot Liebow,5,5,pubh,pubh,,,2
+Elliot Liebow,Harriet B. Presser,5,7,pubh,pubh,,Presser,1
+Charles B. Arnold,Elliot Liebow,3,5,famplan,pubh,,,1
+Raymond W. Carlaw,Richard Reynolds,1,2,demography,general,,,1
+Lawrence W. Green,Raymond W. Carlaw,2,1,demography,demography,,,1
+N. I. Khan,Raymond W. Carlaw,1,1,demography,demography,,,1
+Milton Diamond,Patricia G. Steinhoff,1,1,famplan,famplan,,,1
+James A. Palmore,Patricia G. Steinhoff,6,1,famplan,famplan,,,1
+Patricia G. Steinhoff,Roy G. Smith,1,1,famplan,famplan,,,1
+Judith Blake,Prithwis Das Gupta,13,4,general,demography,Blake,,2
+L. P. Chow,T. H. Liu,10,2,famplan,pubh,,,2
+M. C. Chang,T. H. Liu,5,2,pubh,pubh,,,2
+Donald W. Helbig,Habib R. Siddiqui,1,1,demography,demography,,,1
+Habib R. Siddiqui,Samuel B. Hopkins,1,1,demography,demography,,,1
+Habib R. Siddiqui,Paul A. Harper,1,3,demography,famplan,,,1
+Habib R. Siddiqui,Rowland V. Rider,1,4,demography,demography,,,1
+George Cernada,S. M. Keeny,1,4,famplan,famplan,,,1
+George Cernada,John A. Ross,1,11,famplan,demography,,,1
+Ann R. Sauls,Charles B. Arnold,1,3,famplan,famplan,,,1
+Charles B. Arnold,Sylvain Fribourg,3,1,famplan,famplan,,,1
+Charles B. Arnold,Millard B. Bethel,3,1,famplan,famplan,,,1
+Charles B. Arnold,Joseph D. Beasley,3,10,famplan,famplan,,,1
+Charles B. Arnold,Ralph F. Frankowski,3,3,famplan,famplan,,,1
+Charles B. Arnold,Gwendolyn Z. Johnson,3,1,famplan,pubh,,,1
+Charles B. Arnold,Joseph S. Himes,3,2,famplan,pubh,,,1
+Charles B. Arnold,P. B. Cornely,3,1,famplan,pubh,,,1
+Charles B. Arnold,G. Franklin Edwards,3,4,famplan,pubh,,,1
+Charles B. Arnold,Preston Valien,3,4,famplan,pubh,,,2
+Charles B. Arnold,Karl A. Smith,3,4,famplan,pubh,,,1
+Charles B. Arnold,Elliot Liebow,3,5,famplan,pubh,,,1
+Charles B. Arnold,Jessie S. Bernard,3,2,famplan,pubh,,,1
+Charles B. Arnold,Philip M. Hauser,3,16,famplan,demography,,Hauser,1
+Charles B. Arnold,Reynolds Farley,3,14,famplan,demography,,Farley,1
+Charles B. Arnold,Edwin D. Driver,3,7,famplan,demography,,,1
+Charles B. Arnold,Paul R. Williams,3,2,famplan,pubh,,,1
+Charles B. Arnold,Harriet B. Presser,3,7,famplan,pubh,,Presser,1
+Charles B. Arnold,James E. Teele,3,4,famplan,pubh,,,1
+Charles B. Arnold,Daniel C. Thompson,3,5,famplan,pubh,,,1
+C. V. Willie,Charles B. Arnold,3,3,pubh,famplan,,,1
+Jae Mo Yang,Myung Ho Kim,1,1,demography,demography,,,1
+Myung Ho Kim,Sook Bang,1,6,demography,demography,,,1
+Man Gap Lee,Myung Ho Kim,1,1,demography,demography,,,1
+M. Requena B.,Rolando Armijo,1,2,pubh,pubh,,,1
+M. Requena B.,Tegualda Monreal,1,2,pubh,pubh,,,1
+M. Requena B.,R. Puffer,1,2,pubh,pubh,,,1
+Christopher Tietze,M. Requena B.,18,1,pubh,pubh,,,1
+Alberto Gonzalez-Quiroga,Mindel C. Sheps,1,14,pubh,demography,,,1
+Hew Wai Sin,J. Gilbert Hardee,1,3,famplan,famplan,,,1
+Ariffin Bin Marzuki,Hew Wai Sin,5,1,demography,famplan,,,1
+Hew Wai Sin,Tan Boon Ann,1,5,famplan,demography,,,1
+Lee Jay Cho,Wilson H. Grabill,1,6,demography,demography,,,1
+Maria Davidson,Wilson H. Grabill,2,6,demography,demography,,,1
+Ansley J. Coale,Wilson H. Grabill,12,6,pubh,demography,Coale,,1
+Dudley Kirk,Wilson H. Grabill,5,6,general,demography,Kirk,,1
+Philip M. Hauser,Wilson H. Grabill,16,6,demography,demography,Hauser,,2
+Norman B. Ryder,Wilson H. Grabill,19,6,famplan,demography,Ryder,,1
+Frank Lorimer,Wilson H. Grabill,2,6,pubh,demography,Lorimer,,1
+Carmen Miro,Wilson H. Grabill,5,6,demography,demography,,,1
+Vasilios Valaoras,Wilson H. Grabill,1,6,pubh,demography,,,1
+Clyde V. Kiser,Wilson H. Grabill,7,6,pubh,demography,Kiser,,1
+Dorothy G. Wiehl,Wilson H. Grabill,1,6,pubh,demography,,,1
+Paul C. Glick,Wilson H. Grabill,11,6,pubh,demography,Glick,,1
+Jae Mo Yang,Sook Bang,1,6,demography,demography,,,1
+Myung Ho Kim,Sook Bang,1,6,demography,demography,,,1
+Man Gap Lee,Sook Bang,1,6,demography,demography,,,1
+John A. Ross,Sook Bang,11,6,demography,demography,,,2
+Sang Whan Song,Sook Bang,1,6,famplan,demography,,,1
+Chi Hoon Choi,Sook Bang,1,6,famplan,demography,,,1
+J. Gilbert Hardee,Tan Boon Ann,3,5,famplan,demography,,,2
+Shamsuddin Bin Abdul Rahman,Tan Boon Ann,2,5,famplan,demography,,,2
+John Y. Takeshita,Tan Boon Ann,4,5,demography,demography,,,1
+Lois M. Verbrugge,Tan Boon Ann,1,5,famplan,demography,,,1
+Ariffin Bin Marzuki,Tan Boon Ann,5,5,demography,demography,,,1
+Hew Wai Sin,Tan Boon Ann,1,5,famplan,demography,,,1
+M. Subbiah,Tan Boon Ann,1,5,famplan,demography,,,1
+Loh Sow Khin,Tan Boon Ann,1,5,famplan,demography,,,1
+Tan Boon Ann,Yusof Bakar,5,1,demography,famplan,,,1
+J. Timothy Johnson,Tan Boon Ann,1,5,demography,demography,,,1
+Leslie Corsa,Tan Boon Ann,2,5,demography,demography,,,1
+Alvaro Cuadros,Linda Atkinson,1,1,famplan,famplan,,,1
+Alvaro Cuadros,Robert Castadot,1,1,famplan,famplan,,,1
+Allan G. Rosenfield,Alvaro Cuadros,7,1,famplan,famplan,,,1
+Rolando Armijo,Tegualda Monreal,2,2,pubh,pubh,,,1
+R. Puffer,Rolando Armijo,2,2,pubh,pubh,,,1
+M. Requena B.,Rolando Armijo,1,2,pubh,pubh,,,1
+Christopher Tietze,Rolando Armijo,18,2,pubh,pubh,,,1
+Mariano Requena,Rolando Armijo,1,2,pubh,pubh,,,1
+George C. Worth,Kyung Shik Chang,2,2,famplan,famplan,,,2
+George C. Worth,Walter B. Watson,2,3,famplan,sociology,,,1
+George C. Worth,Peter H. Michael,2,2,famplan,famplan,,,2
+Lee-Jay Cho,Man Jun Hahm,5,1,famplan,demography,,,1
+James A. Palmore,Lee-Jay Cho,6,5,famplan,famplan,,,1
+Lee-Jay Cho,Lyle Saunders,5,2,famplan,demography,,,1
+Frederick S. Jaffe,Steven Polgar,17,3,general,pubh,,,2
+Steven Polgar,Virginia A. Hiday,3,1,pubh,demography,,,1
+Basil G. Zimmer,Calvin Goldscheider,2,4,demography,sociology,,,1
+Calvin Goldscheider,Sidney Goldstein,4,8,sociology,pubh,,Goldstein,1
+Calvin Goldscheider,Peter R. Uhlenberg,4,2,sociology,demography,,,1
+Lee-Jay Cho,Man Jun Hahm,5,1,famplan,demography,,,1
+Charles Hirschman,Judah Matras,1,5,demography,sociology,Hirschman,,1
+Brian L. Pitcher,Evan T. Peterson,1,1,demography,demography,,,1
+Brian L. Pitcher,Phillip R. Kunz,1,3,demography,demography,,,1
+John Maier,Oscar Harkavy,3,5,famplan,demography,,Harkavy,3
+Carita Jo Bernsohn,Joy G. Dryfoos,1,7,famplan,famplan,,,1
+Carita Jo Bernsohn,Frederick S. Jaffe,1,17,famplan,general,,,1
+Carita Jo Bernsohn,Daniel R. Weintraub,1,2,famplan,famplan,,,1
+Carita Jo Bernsohn,Jean P. Cobb,1,1,famplan,famplan,,,1
+John J. Macisco Jr.,Leon F. Bouvier,5,5,pubh,pubh,,,2
+Leon F. Bouvier,Martha Jane Renzi,5,1,pubh,pubh,,,1
+Leon F. Bouvier,Robert H. Weller,5,8,pubh,pubh,,,2
+Charles F. Westoff,Ronald Rindfuss,24,2,famplan,demography,Westoff,Rindfuss,1
+Alan Margolis,Ronald Rindfuss,1,2,famplan,demography,,Rindfuss,1
+Phyllis Coghlan,Ronald Rindfuss,1,2,famplan,demography,,Rindfuss,1
+Roger Rochat,Ronald Rindfuss,1,2,famplan,demography,,Rindfuss,1
+Larry Bumpass,Ronald Freedman,8,33,general,famplan,Bumpass,Freedman,3
+David Goldberg,Larry Bumpass,1,8,demography,general,Goldberg,Bumpass,1
+Larry Bumpass,Lolagene C. Coombs,8,8,general,demography,Bumpass,,1
+Charles F. Westoff,Larry Bumpass,24,8,famplan,general,Westoff,Bumpass,4
+Joseph D. Beasley,Preston Valien,10,4,famplan,pubh,,,2
+Preston Valien,Ralph F. Frankowski,4,3,pubh,famplan,,,1
+Gwendolyn Z. Johnson,Preston Valien,1,4,pubh,pubh,,,1
+Joseph S. Himes,Preston Valien,2,4,pubh,pubh,,,2
+P. B. Cornely,Preston Valien,1,4,pubh,pubh,,,1
+G. Franklin Edwards,Preston Valien,4,4,pubh,pubh,,,2
+Karl A. Smith,Preston Valien,4,4,pubh,pubh,,,1
+Charles B. Arnold,Preston Valien,3,4,famplan,pubh,,,2
+Irene B. Taeuber,Preston Valien,12,4,pubh,pubh,Taeuber,,2
+Paul C. Glick,Preston Valien,11,4,pubh,pubh,Glick,,1
+Daniel O. Price,Preston Valien,7,4,demography,pubh,,,2
+Philip M. Hauser,Preston Valien,16,4,demography,pubh,Hauser,,3
+Donald J. Bogue,Preston Valien,10,4,demography,pubh,Bogue,,1
+Daniel C. Thompson,Preston Valien,5,4,pubh,pubh,,,3
+Preston Valien,Reynolds Farley,4,14,pubh,demography,,Farley,3
+C. R. Lawrence,Preston Valien,2,4,pubh,pubh,,,1
+James E. Teele,Preston Valien,4,4,pubh,pubh,,,2
+Karl E. Taeuber,Preston Valien,9,4,sociology,pubh,,,1
+Frank W. Notestein,Preston Valien,8,4,demography,pubh,Notestein,,1
+Elliot Liebow,Preston Valien,5,4,pubh,pubh,,,2
+Jessie S. Bernard,Preston Valien,2,4,pubh,pubh,,,1
+Edwin D. Driver,Preston Valien,7,4,demography,pubh,,,1
+Paul R. Williams,Preston Valien,2,4,pubh,pubh,,,1
+Harriet B. Presser,Preston Valien,7,4,pubh,pubh,Presser,,1
+C. V. Willie,Preston Valien,3,4,pubh,pubh,,,1
+A. Rasheed Ghazi,John C. Cobb,1,1,famplan,famplan,,,1
+A. Rasheed Ghazi,Harry M. Raulet,1,2,famplan,demography,,,1
+A. Rasheed Ghazi,Paul A. Harper,1,3,famplan,famplan,,,1
+A. Rasheed Ghazi,Rowland V. Rider,1,4,famplan,demography,,,1
+A. Rasheed Ghazi,Paul White,1,1,famplan,famplan,,,1
+Carmen Miro,G. PéRez,5,1,demography,pubh,,,1
+Ferdinand Rath,G. PéRez,1,1,pubh,pubh,,,1
+Arthur A. Campbell,G. PéRez,10,1,famplan,pubh,Campbell,,1
+Charles F. Westoff,G. PéRez,24,1,famplan,pubh,Westoff,,1
+G. PéRez,J. Mayone Stycos,1,13,pubh,pubh,,,1
+G. PéRez,Mindel C. Sheps,1,14,pubh,demography,,,1
+F. E. Linder,G. PéRez,2,1,pubh,pubh,,,1
+G. PéRez,M-F. Hall,1,2,pubh,pubh,,,1
+G. PéRez,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+G. PéRez,T. K. Burch,1,2,pubh,pubh,,,1
+Donald J. Bogue,G. PéRez,10,1,demography,pubh,Bogue,,1
+A. H. Neiva,G. PéRez,3,1,pubh,pubh,,,1
+Paul Demeny,Paul Gingrich,6,2,famplan,demography,Demeny,,1
+Gavin Jones,Paul Gingrich,4,2,demography,demography,,,1
+Edwin D. Driver,Hugh Loebner,7,1,demography,demography,,,1
+C. V. Kiser,Robert O. Carleton,1,2,pubh,demography,,,1
+A. Lopez,C. V. Kiser,1,1,pubh,pubh,,,1
+C. V. Kiser,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+Donald S. Akers,Ellen Linna Jamison,5,1,demography,demography,,,1
+Donald S. Akers,Jacob S. Siegel,5,3,demography,demography,,Siegel,1
+Etienne Van De Walle,Hilary Page,9,1,economics,demography,Walle,,1
+Donald O. Cowgill,Robert G. Burnight,2,1,general,pubh,,,1
+Robert G. Burnight,Srisomang Keovichit,1,1,pubh,pubh,,,1
+J. Richard Udry,Robert G. Burnight,8,1,pubh,pubh,Udry,,1
+Charas Yamarat,Robert G. Burnight,1,1,pubh,pubh,,,1
+J. M. Sakoda,Robert G. Potter,1,18,demography,famplan,,,1
+J. M. Sakoda,P. S. K. Chi,1,1,demography,demography,,,1
+Joseph J. Spengler,Richard Sutch,5,1,economics,history,Spengler,,1
+John A. Ross,T. C. Hsu,11,2,demography,demography,,,1
+Dae Woo Han,T. C. Hsu,2,2,famplan,demography,,,1
+S. M. Keeny,T. C. Hsu,4,2,famplan,demography,,,1
+George P. Cernada,T. C. Hsu,6,2,famplan,demography,,,1
+T. C. Hsu,T. H. Sun,2,6,demography,demography,,,1
+Anrudh K. Jain,T. C. Hsu,6,2,pubh,demography,,,1
+Ronald Freedman,T. C. Hsu,33,2,famplan,demography,Freedman,,1
+M. C. Chang,T. C. Hsu,5,2,pubh,demography,,,1
+Frank F. Furstenberg Jr.,G. S. Masnick,1,2,famplan,demography,,,1
+Frank F. Furstenberg Jr.,Susan A. Ricketts,1,1,famplan,famplan,,,1
+George Cernada,S. M. Keeny,1,4,famplan,famplan,,,1
+John A. Ross,S. M. Keeny,11,4,demography,famplan,,,2
+George Worth,S. M. Keeny,2,4,famplan,famplan,,,1
+S. M. Keeny,Walter B. Watson,4,3,famplan,sociology,,,1
+Dae Woo Han,S. M. Keeny,2,4,famplan,famplan,,,2
+O. D. Finnigan,S. M. Keeny,1,4,famplan,famplan,,,1
+George P. Cernada,S. M. Keeny,6,4,famplan,famplan,,,1
+S. M. Keeny,T. C. Hsu,4,2,famplan,demography,,,1
+S. M. Keeny,T. H. Sun,4,6,famplan,demography,,,1
+J. Oscar Alers,Winich Asavasena,3,4,demography,famplan,,,2
+Chaichana Suvanavejh,J. Oscar Alers,2,3,famplan,demography,,,1
+Allan G. Rosenfield,J. Oscar Alers,7,3,famplan,demography,,,2
+Chitt Hemachudha,J. Oscar Alers,2,3,famplan,demography,,,1
+J. Oscar Alers,Somsak Varakamin,3,2,demography,famplan,,,1
+Gavin Jones,J. Oscar Alers,4,3,demography,demography,,,1
+J. Oscar Alers,Visid Prachuabmoh,3,4,demography,demography,,,1
+J. Oscar Alers,John Knodel,3,9,demography,famplan,,,1
+J. Arias,Louis J. Ducoff,3,1,pubh,pubh,,,1
+Everett S. Lee,Louis J. Ducoff,6,1,demography,pubh,Lee,,1
+A. H. Neiva,Louis J. Ducoff,3,1,pubh,pubh,,,1
+Donald J. Bogue,Louis J. Ducoff,10,1,demography,pubh,Bogue,,1
+J. C. Elizaga,Louis J. Ducoff,2,1,pubh,pubh,,,1
+George Worth,Walter Watson,2,1,famplan,famplan,,,1
+J. Richard Udry,Karl E. Bauman,8,6,pubh,demography,Udry,,4
+J. Richard Udry,Lydia T. Clark,8,1,pubh,famplan,Udry,,1
+Charles L. Chase,J. Richard Udry,2,8,demography,pubh,,Udry,2
+J. Richard Udry,Marvin Levy,8,1,pubh,famplan,Udry,,1
+Fred W. Reed,J. Richard Udry,1,8,demography,pubh,,Udry,1
+Donald O. Cowgill,J. Richard Udry,2,8,general,pubh,,Udry,1
+J. Richard Udry,Srisomang Keovichit,8,1,pubh,pubh,Udry,,1
+J. Richard Udry,Robert G. Burnight,8,1,pubh,pubh,Udry,,1
+Charas Yamarat,J. Richard Udry,1,8,pubh,pubh,,Udry,1
+A. Lopez,Robert O. Carleton,1,2,pubh,demography,,,1
+A. Lopez,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+A. Lopez,C. V. Kiser,1,1,pubh,pubh,,,1
+Allan G. Feldt,Robert H. Weller,1,8,demography,pubh,,,1
+Paul Demeny,Paul Gingrich,6,2,famplan,demography,Demeny,,1
+Paul Demeny,T. Paul Schultz,6,3,famplan,demography,Demeny,,1
+Paul Demeny,Philip M. Hauser,6,16,famplan,demography,Demeny,Hauser,1
+Judith Blake,Paul Demeny,13,6,general,famplan,Blake,Demeny,1
+Alan Margolis,Phyllis Coghlan,1,1,famplan,famplan,,,1
+Phyllis Coghlan,Ronald Rindfuss,1,2,famplan,demography,,Rindfuss,1
+Phyllis Coghlan,Roger Rochat,1,1,famplan,famplan,,,1
+Jae Mo Yang,Sook Bang,1,6,demography,demography,,,1
+Jae Mo Yang,Myung Ho Kim,1,1,demography,demography,,,1
+Jae Mo Yang,Man Gap Lee,1,1,demography,demography,,,1
+Dhruva Nagnur,Nathan Keyfitz,1,17,statistics,statistics,,Keyfitz,1
+Divakar Sharma,Nathan Keyfitz,1,17,statistics,statistics,,Keyfitz,1
+Edmund M. Murphy,Nathan Keyfitz,2,17,eugenics,statistics,,Keyfitz,1
+C. V. Willie,Charles F. Westoff,3,24,pubh,famplan,,Westoff,1
+C. V. Willie,Norman B. Ryder,3,19,pubh,famplan,,Ryder,2
+C. V. Willie,Carl L. Harter,3,6,pubh,demography,,,2
+C. V. Willie,Philip M. Hauser,3,16,pubh,demography,,Hauser,3
+Arthur A. Campbell,C. V. Willie,10,3,famplan,pubh,Campbell,,1
+C. V. Willie,Elliot Liebow,3,5,pubh,pubh,,,2
+C. V. Willie,Donald J. Bogue,3,10,pubh,demography,,Bogue,1
+C. V. Willie,Edwin D. Driver,3,7,pubh,demography,,,2
+C. V. Willie,Paul B. Cornely,3,1,pubh,pubh,,,1
+C. V. Willie,Daniel C. Thompson,3,5,pubh,pubh,,,2
+C. V. Willie,Frank W. Notestein,3,8,pubh,demography,,Notestein,1
+C. V. Willie,Daniel O. Price,3,7,pubh,demography,,,1
+C. V. Willie,Karl A. Smith,3,4,pubh,pubh,,,1
+C. V. Willie,Jessie S. Bernard,3,2,pubh,pubh,,,1
+C. V. Willie,Preston Valien,3,4,pubh,pubh,,,1
+C. V. Willie,Reynolds Farley,3,14,pubh,demography,,Farley,1
+C. V. Willie,Paul R. Williams,3,2,pubh,pubh,,,1
+C. V. Willie,Harriet B. Presser,3,7,pubh,pubh,,Presser,1
+C. V. Willie,James E. Teele,3,4,pubh,pubh,,,1
+C. V. Willie,Charles B. Arnold,3,3,pubh,famplan,,,1
+Frank F. Furstenberg Jr.,Susan A. Ricketts,1,1,famplan,famplan,,,1
+G. S. Masnick,Susan A. Ricketts,2,1,demography,famplan,,,1
+B. Mccann,Robert G. Potter,1,18,demography,famplan,,,1
+A. K. Jain,B. Mccann,1,1,demography,demography,,,1
+Amos H. Hawley,Visid Prachuabmoh,2,4,demography,demography,Hawley,,1
+Donald W. Helbig,Samuel B. Hopkins,1,1,demography,demography,,,1
+Habib R. Siddiqui,Samuel B. Hopkins,1,1,demography,demography,,,1
+Paul A. Harper,Samuel B. Hopkins,3,1,famplan,demography,,,1
+Rowland V. Rider,Samuel B. Hopkins,4,1,demography,demography,,,1
+B. Mariano Requena,R. Armijo,2,1,pubh,pubh,,,1
+Christopher Tietze,R. Armijo,18,1,pubh,pubh,,,1
+F. Osborn,R. Armijo,1,1,pubh,pubh,,,1
+Charles F. Westoff,Ronald R. Rindfuss,24,1,famplan,general,Westoff,Rindfuss,1
+Beatrice R. Pollack,H. William Mooney,1,1,pubh,pubh,,,1
+H. William Mooney,Leslie Corsa Jr.,1,2,pubh,pubh,,,1
+Farida K. Shah,Helen Abbey,1,2,pubh,demography,,,1
+G. Franklin Edwards,Joseph D. Beasley,4,10,pubh,famplan,,,3
+G. Franklin Edwards,Ralph F. Frankowski,4,3,pubh,famplan,,,1
+G. Franklin Edwards,Gwendolyn Z. Johnson,4,1,pubh,pubh,,,1
+G. Franklin Edwards,Joseph S. Himes,4,2,pubh,pubh,,,2
+G. Franklin Edwards,P. B. Cornely,4,1,pubh,pubh,,,1
+G. Franklin Edwards,Preston Valien,4,4,pubh,pubh,,,2
+G. Franklin Edwards,Karl A. Smith,4,4,pubh,pubh,,,1
+Charles B. Arnold,G. Franklin Edwards,3,4,famplan,pubh,,,1
+G. Franklin Edwards,Reynolds Farley,4,14,pubh,demography,,Farley,3
+G. Franklin Edwards,Paul R. Williams,4,2,pubh,pubh,,,1
+G. Franklin Edwards,Norman B. Ryder,4,19,pubh,famplan,,Ryder,1
+G. Franklin Edwards,Karl E. Taeuber,4,9,pubh,sociology,,,3
+G. Franklin Edwards,Philip M. Hauser,4,16,pubh,demography,,Hauser,3
+Elliot Liebow,G. Franklin Edwards,5,4,pubh,pubh,,,3
+Clyde V. Kiser,G. Franklin Edwards,7,4,pubh,pubh,Kiser,,1
+G. Franklin Edwards,Irene B. Taeuber,4,12,pubh,pubh,,Taeuber,2
+Daniel O. Price,G. Franklin Edwards,7,4,demography,pubh,,,3
+G. Franklin Edwards,James A. Jones,4,1,pubh,pubh,,,1
+G. Franklin Edwards,Jessie S. Bernard,4,2,pubh,pubh,,,1
+G. Franklin Edwards,Paul C. Glick,4,11,pubh,pubh,,Glick,1
+Frank W. Notestein,G. Franklin Edwards,8,4,demography,pubh,Notestein,,2
+C. R. Lawrence,G. Franklin Edwards,2,4,pubh,pubh,,,2
+G. Franklin Edwards,W. Parker Mauldin,4,7,pubh,pubh,,Mauldin,1
+Donald J. Bogue,G. Franklin Edwards,10,4,demography,pubh,Bogue,,1
+Edwin D. Driver,G. Franklin Edwards,7,4,demography,pubh,,,1
+G. Franklin Edwards,James E. Teele,4,4,pubh,pubh,,,2
+Daniel C. Thompson,G. Franklin Edwards,5,4,pubh,pubh,,,1
+Joseph D. Beasley,P. B. Cornely,10,1,famplan,pubh,,,1
+P. B. Cornely,Ralph F. Frankowski,1,3,pubh,famplan,,,1
+Gwendolyn Z. Johnson,P. B. Cornely,1,1,pubh,pubh,,,1
+Joseph S. Himes,P. B. Cornely,2,1,pubh,pubh,,,1
+G. Franklin Edwards,P. B. Cornely,4,1,pubh,pubh,,,1
+P. B. Cornely,Preston Valien,1,4,pubh,pubh,,,1
+Karl A. Smith,P. B. Cornely,4,1,pubh,pubh,,,1
+Charles B. Arnold,P. B. Cornely,3,1,famplan,pubh,,,1
+Lawrence W. Green,Raymond W. Carlaw,2,1,demography,demography,,,1
+Lawrence W. Green,Richard Reynolds,2,2,demography,general,,,1
+Lawrence W. Green,N. I. Khan,2,1,demography,demography,,,1
+Edgar R. Chasteen,Edith Fein,1,1,general,general,,,1
+Edgar R. Chasteen,Judith S. Weis,1,1,general,general,,,1
+Edgar R. Chasteen,Frederick S. Jaffe,1,17,general,general,,,1
+A. Perez,P. Vela,1,1,demography,demography,,,1
+P. Vela,Robert G. Potter,1,18,demography,famplan,,,1
+G. S. Masnick,P. Vela,2,1,demography,demography,,,1
+Ming-Cheng Chang,Ronald Freedman,1,33,famplan,famplan,,Freedman,1
+Lolagene C. Coombs,Ming-Cheng Chang,8,1,demography,famplan,,,1
+Ming-Cheng Chang,Te-Hsiung Sun,1,1,famplan,famplan,,,1
+Alan Margolis,Roger Rochat,1,1,famplan,famplan,,,1
+Roger Rochat,Ronald Rindfuss,1,2,famplan,demography,,Rindfuss,1
+Phyllis Coghlan,Roger Rochat,1,1,famplan,famplan,,,1
+Alan Margolis,Ronald Rindfuss,1,2,famplan,demography,,Rindfuss,1
+Alan Margolis,Phyllis Coghlan,1,1,famplan,famplan,,,1
+Alan Margolis,Roger Rochat,1,1,famplan,famplan,,,1
+J. Richard Udry,Lydia T. Clark,8,1,pubh,famplan,Udry,,1
+Charles L. Chase,Lydia T. Clark,2,1,demography,famplan,,,1
+Lydia T. Clark,Marvin Levy,1,1,famplan,famplan,,,1
+Jae-Mo Yang,Mo-Im Kim,1,1,demography,demography,,,1
+Jae-Mo Yang,Rowland V. Rider,1,4,demography,demography,,,1
+Jae-Mo Yang,Paul A. Harper,1,3,demography,famplan,,,1
+Edward Shorter,John Knodel,2,9,history,famplan,,,1
+Edward Shorter,Etienne Van De Walle,2,9,history,economics,,Walle,1
+A. H. Neiva,Gino Germani,3,1,pubh,pubh,,,1
+A. H. Neiva,Donald J. Bogue,3,10,pubh,demography,,Bogue,3
+A. H. Neiva,D. S. Thomas,3,2,pubh,pubh,,,1
+A. H. Neiva,Ronald Freedman,3,33,pubh,famplan,,Freedman,2
+A. H. Neiva,T. K. Burch,3,2,pubh,pubh,,,2
+A. H. Neiva,John D. Durand,3,3,pubh,general,,Durand,1
+A. H. Neiva,J. C. Elizaga,3,2,pubh,pubh,,,2
+A. H. Neiva,Louis J. Ducoff,3,1,pubh,pubh,,,1
+A. H. Neiva,J. Arias,3,3,pubh,pubh,,,1
+A. H. Neiva,Everett S. Lee,3,6,pubh,demography,,Lee,1
+A. H. Neiva,Carmen Miro,3,5,pubh,demography,,,1
+A. H. Neiva,Ferdinand Rath,3,1,pubh,pubh,,,1
+A. H. Neiva,Arthur A. Campbell,3,10,pubh,famplan,,Campbell,1
+A. H. Neiva,Charles F. Westoff,3,24,pubh,famplan,,Westoff,1
+A. H. Neiva,G. PéRez,3,1,pubh,pubh,,,1
+A. H. Neiva,J. Mayone Stycos,3,13,pubh,pubh,,,1
+A. H. Neiva,Mindel C. Sheps,3,14,pubh,demography,,,1
+A. H. Neiva,F. E. Linder,3,2,pubh,pubh,,,1
+A. H. Neiva,M-F. Hall,3,2,pubh,pubh,,,1
+David M. Heer,Dean O. Smith,14,2,famplan,demography,,,2
+Murray Gendell,Philip C. Kreitner,5,1,demography,demography,,,1
+Maria Nydia Maraviglia,Philip C. Kreitner,1,1,demography,demography,,,1
+Charles Hirschman,Judah Matras,1,5,demography,sociology,Hirschman,,1
+Oscar Harkavy,Samuel M. Wishik,5,1,demography,general,Harkavy,,1
+Frederick S. Jaffe,Samuel M. Wishik,17,1,general,general,,,1
+Dhruva Nagnur,Nathan Keyfitz,1,17,statistics,statistics,,Keyfitz,1
+Dhruva Nagnur,Divakar Sharma,1,1,statistics,statistics,,,1
+Joseph D. Beasley,Joseph S. Himes,10,2,famplan,pubh,,,1
+Joseph S. Himes,Ralph F. Frankowski,2,3,pubh,famplan,,,1
+Gwendolyn Z. Johnson,Joseph S. Himes,1,2,pubh,pubh,,,1
+Joseph S. Himes,P. B. Cornely,2,1,pubh,pubh,,,1
+G. Franklin Edwards,Joseph S. Himes,4,2,pubh,pubh,,,2
+Joseph S. Himes,Preston Valien,2,4,pubh,pubh,,,2
+Joseph S. Himes,Karl A. Smith,2,4,pubh,pubh,,,1
+Charles B. Arnold,Joseph S. Himes,3,2,famplan,pubh,,,1
+Daniel O. Price,Joseph S. Himes,7,2,demography,pubh,,,1
+Joseph S. Himes,Philip M. Hauser,2,16,pubh,demography,,Hauser,1
+C. R. Lawrence,Joseph S. Himes,2,2,pubh,pubh,,,1
+James E. Teele,Joseph S. Himes,4,2,pubh,pubh,,,1
+Daniel C. Thompson,Joseph S. Himes,5,2,pubh,pubh,,,1
+Joseph S. Himes,Karl E. Taeuber,2,9,pubh,sociology,,,1
+Frank W. Notestein,Joseph S. Himes,8,2,demography,pubh,Notestein,,1
+Joseph S. Himes,Reynolds Farley,2,14,pubh,demography,,Farley,1
+Elliot Liebow,Joseph S. Himes,5,2,pubh,pubh,,,1
+Irene B. Taeuber,Joseph S. Himes,12,2,pubh,pubh,Taeuber,,1
+David L. Rabin,John Crawford,1,1,pubh,pubh,,,1
+Carlos Ferrero,John Crawford,2,1,pubh,pubh,,,1
+Dorothy Myer,John Crawford,1,1,pubh,pubh,,,1
+Alan Ross,John Crawford,1,1,pubh,pubh,,,1
+Elisabeth Schach,John Crawford,1,1,pubh,pubh,,,1
+D. S. Thomas,Gino Germani,2,1,pubh,pubh,,,1
+D. S. Thomas,Donald J. Bogue,2,10,pubh,demography,,Bogue,1
+D. S. Thomas,Ronald Freedman,2,33,pubh,famplan,,Freedman,1
+D. S. Thomas,T. K. Burch,2,2,pubh,pubh,,,1
+D. S. Thomas,John D. Durand,2,3,pubh,general,,Durand,2
+A. H. Neiva,D. S. Thomas,3,2,pubh,pubh,,,1
+D. S. Thomas,J. C. Elizaga,2,2,pubh,pubh,,,1
+CéSar PeláEz,D. S. Thomas,1,2,pubh,pubh,,,1
+D. S. Thomas,R. O. Carleton,2,2,pubh,pubh,,,1
+D. S. Thomas,L. Baumgartner,2,1,pubh,pubh,,,1
+D. S. Thomas,Everett S. Lee,2,6,pubh,demography,,Lee,1
+Divakar Sharma,Nathan Keyfitz,1,17,statistics,statistics,,Keyfitz,1
+Dhruva Nagnur,Divakar Sharma,1,1,statistics,statistics,,,1
+Evelyne Lapierre-Adamcyk,Thomas K. Burch,1,6,famplan,famplan,,,1
+Gail A. Shea,Thomas K. Burch,1,6,famplan,famplan,,,1
+Gustavo Perez,Thomas K. Burch,1,6,famplan,famplan,,,1
+Miriam OrdoñEz,Thomas K. Burch,1,6,famplan,famplan,,,1
+Joseph Van Kemanade,Thomas K. Burch,1,6,famplan,famplan,,,1
+Jan Hutjes,Thomas K. Burch,1,6,famplan,famplan,,,1
+Andre E. Hellegers,Thomas K. Burch,1,6,famplan,famplan,,,1
+Murray Gendell,Thomas K. Burch,5,6,demography,famplan,,,1
+Ansley J. Coale,Jorge Somoza,12,1,pubh,pubh,Coale,,1
+Doris P. Slesinger,Otis Dudley Duncan,1,8,demography,sociology,,Duncan,1
+Doris P. Slesinger,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+Doris P. Slesinger,J. Michael Coble,1,1,demography,demography,,,1
+Carmen Miro,Frank Lorimer,5,2,demography,pubh,,Lorimer,1
+Frank Lorimer,Wilson H. Grabill,2,6,pubh,demography,Lorimer,,1
+Frank Lorimer,Vasilios Valaoras,2,1,pubh,pubh,Lorimer,,1
+Charles F. Westoff,Frank Lorimer,24,2,famplan,pubh,Westoff,Lorimer,1
+Daniel R. Weintraub,Susan B. Wald,2,1,famplan,famplan,,,1
+Barbara Mc Cann,Robert G. Potter,1,18,pubh,famplan,,,1
+Barbara Mc Cann,James M. Sakoda,1,3,pubh,pubh,,,1
+James A. Sweet,Sarah Betsy Cohen,5,1,famplan,demography,,,1
+James M. Sakoda,Robert G. Potter,3,18,pubh,famplan,,,3
+Barbara Mc Cann,James M. Sakoda,1,3,pubh,pubh,,,1
+A. Perez,P. Vela,1,1,demography,demography,,,1
+A. Perez,Robert G. Potter,1,18,demography,famplan,,,1
+A. Perez,G. S. Masnick,1,2,demography,demography,,,1
+John D. Durand,L. Baumgartner,3,1,general,pubh,Durand,,1
+CéSar PeláEz,L. Baumgartner,1,1,pubh,pubh,,,1
+D. S. Thomas,L. Baumgartner,2,1,pubh,pubh,,,1
+L. Baumgartner,R. O. Carleton,1,2,pubh,pubh,,,1
+Everett S. Lee,L. Baumgartner,6,1,demography,pubh,Lee,,1
+Carmen Miro,M-F. Hall,5,2,demography,pubh,,,1
+Ferdinand Rath,M-F. Hall,1,2,pubh,pubh,,,1
+Arthur A. Campbell,M-F. Hall,10,2,famplan,pubh,Campbell,,1
+Charles F. Westoff,M-F. Hall,24,2,famplan,pubh,Westoff,,1
+G. PéRez,M-F. Hall,1,2,pubh,pubh,,,1
+J. Mayone Stycos,M-F. Hall,13,2,pubh,pubh,,,2
+M-F. Hall,Mindel C. Sheps,2,14,pubh,demography,,,2
+F. E. Linder,M-F. Hall,2,2,pubh,pubh,,,1
+M-F. Hall,Ronald Freedman,2,33,pubh,famplan,,Freedman,1
+M-F. Hall,T. K. Burch,2,2,pubh,pubh,,,1
+Donald J. Bogue,M-F. Hall,10,2,demography,pubh,Bogue,,2
+A. H. Neiva,M-F. Hall,3,2,pubh,pubh,,,1
+M-F. Hall,R. Delgado,2,1,pubh,pubh,,,1
+M-F. Hall,O. Mendoza,2,1,pubh,pubh,,,1
+M-F. Hall,R. O. Carleton,2,2,pubh,pubh,,,1
+Everett S. Lee,M-F. Hall,6,2,demography,pubh,Lee,,1
+Christopher Tietze,M-F. Hall,18,2,pubh,pubh,,,1
+J. Arias,M-F. Hall,3,2,pubh,pubh,,,1
+F. Rath,M-F. Hall,1,2,pubh,pubh,,,1
+M-F. Hall,R. Puffer,2,2,pubh,pubh,,,1
+A. Adlakha,Ronald Freedman,2,33,demography,famplan,,Freedman,2
+A. Adlakha,D. N. Namboothiri,2,2,demography,demography,,,2
+A. Adlakha,K. C. Chan,2,2,demography,demography,,,2
+Ronald Freedman,T. H. Sun,33,6,famplan,demography,Freedman,,2
+F. L. Chen,T. H. Sun,1,6,famplan,demography,,,1
+M. C. Chang,T. H. Sun,5,6,pubh,demography,,,2
+George P. Cernada,T. H. Sun,6,6,famplan,demography,,,3
+Oliver D. Finnigan,T. H. Sun,2,6,demography,demography,,,1
+John A. Ross,T. H. Sun,11,6,demography,demography,,,1
+Dae Woo Han,T. H. Sun,2,6,famplan,demography,,,1
+S. M. Keeny,T. H. Sun,4,6,famplan,demography,,,1
+T. C. Hsu,T. H. Sun,2,6,demography,demography,,,1
+Albert I. Hermalin,T. H. Sun,6,6,sociology,demography,Hermalin,,1
+C. Allen Haney,John F. Kantner,1,10,demography,demography,,Kantner,1
+C. Allen Haney,Melvin Zelnik,1,10,demography,demography,,,1
+C. Allen Haney,Philip R. Kunz,1,1,demography,demography,,,1
+C. Allen Haney,Merlin B. Brinkerhoff,1,2,demography,demography,,,1
+C. Allen Haney,Clark E. Vincent,1,1,demography,demography,,,1
+C. Allen Haney,Carl M. Cochrane,1,1,demography,demography,,,1
+Charles F. Westoff,M-FrançOise Hall,24,2,famplan,pubh,Westoff,,1
+Christopher Tietze,M-FrançOise Hall,18,2,pubh,pubh,,,1
+J. Mayone Stycos,M-FrançOise Hall,13,2,pubh,pubh,,,1
+David L. Rabin,Dorothy Myer,1,1,pubh,pubh,,,1
+Dorothy Myer,John Crawford,1,1,pubh,pubh,,,1
+Carlos Ferrero,Dorothy Myer,2,1,pubh,pubh,,,1
+Alan Ross,Dorothy Myer,1,1,pubh,pubh,,,1
+Dorothy Myer,Elisabeth Schach,1,1,pubh,pubh,,,1
+Helen Abbey,Peng-Tu Liu,2,1,demography,demography,,,1
+Helen Abbey,Lien-Ping Chow,2,2,demography,general,,,1
+Farida K. Shah,Helen Abbey,1,2,pubh,demography,,,1
+Jessie S. Bernard,Karl E. Taeuber,2,9,pubh,sociology,,,1
+James A. Jones,Jessie S. Bernard,1,2,pubh,pubh,,,1
+Jessie S. Bernard,Paul C. Glick,2,11,pubh,pubh,,Glick,1
+Frank W. Notestein,Jessie S. Bernard,8,2,demography,pubh,Notestein,,1
+C. R. Lawrence,Jessie S. Bernard,2,2,pubh,pubh,,,1
+Jessie S. Bernard,W. Parker Mauldin,2,7,pubh,pubh,,Mauldin,1
+Donald J. Bogue,Jessie S. Bernard,10,2,demography,pubh,Bogue,,1
+Elliot Liebow,Jessie S. Bernard,5,2,pubh,pubh,,,2
+Jessie S. Bernard,Philip M. Hauser,2,16,pubh,demography,,Hauser,2
+Edwin D. Driver,Jessie S. Bernard,7,2,demography,pubh,,,2
+G. Franklin Edwards,Jessie S. Bernard,4,2,pubh,pubh,,,1
+Jessie S. Bernard,Joseph D. Beasley,2,10,pubh,famplan,,,1
+Daniel O. Price,Jessie S. Bernard,7,2,demography,pubh,,,1
+James E. Teele,Jessie S. Bernard,4,2,pubh,pubh,,,2
+Jessie S. Bernard,Preston Valien,2,4,pubh,pubh,,,1
+Jessie S. Bernard,Reynolds Farley,2,14,pubh,demography,,Farley,1
+Jessie S. Bernard,Paul R. Williams,2,2,pubh,pubh,,,1
+Harriet B. Presser,Jessie S. Bernard,7,2,pubh,pubh,Presser,,1
+Daniel C. Thompson,Jessie S. Bernard,5,2,pubh,pubh,,,1
+C. V. Willie,Jessie S. Bernard,3,2,pubh,pubh,,,1
+Charles B. Arnold,Jessie S. Bernard,3,2,famplan,pubh,,,1
+David L. Rabin,Elisabeth Schach,1,1,pubh,pubh,,,1
+Elisabeth Schach,John Crawford,1,1,pubh,pubh,,,1
+Carlos Ferrero,Elisabeth Schach,2,1,pubh,pubh,,,1
+Dorothy Myer,Elisabeth Schach,1,1,pubh,pubh,,,1
+Alan Ross,Elisabeth Schach,1,1,pubh,pubh,,,1
+Gino Germani,J. C. Elizaga,1,2,pubh,pubh,,,1
+Donald J. Bogue,J. C. Elizaga,10,2,demography,pubh,Bogue,,2
+D. S. Thomas,J. C. Elizaga,2,2,pubh,pubh,,,1
+J. C. Elizaga,Ronald Freedman,2,33,pubh,famplan,,Freedman,1
+J. C. Elizaga,T. K. Burch,2,2,pubh,pubh,,,1
+J. C. Elizaga,John D. Durand,2,3,pubh,general,,Durand,1
+A. H. Neiva,J. C. Elizaga,3,2,pubh,pubh,,,2
+J. C. Elizaga,Louis J. Ducoff,2,1,pubh,pubh,,,1
+J. Arias,J. C. Elizaga,3,2,pubh,pubh,,,1
+Everett S. Lee,J. C. Elizaga,6,2,demography,pubh,Lee,,1
+Joseph J. Spengler,Richard Sutch,5,1,economics,history,Spengler,,1
+John J. Macisco Jr.,Leon F. Bouvier,5,5,pubh,pubh,,,2
+John J. Macisco Jr.,Martha Jane Renzi,5,1,pubh,pubh,,,1
+John J. Macisco Jr.,Robert H. Weller,5,8,pubh,pubh,,,2
+George R. Martine,John J. Macisco Jr.,1,5,demography,pubh,,,1
+Elza S. Berquo,Rubens M. Marques,1,1,pubh,pubh,,,1
+Maria L. Milanesi,Rubens M. Marques,1,1,pubh,pubh,,,1
+Jose S. Martins,Rubens M. Marques,1,1,pubh,pubh,,,1
+Eunice Pinho,Rubens M. Marques,1,1,pubh,pubh,,,1
+Imre Simon,Rubens M. Marques,1,1,pubh,pubh,,,1
+Irene B. Taeuber,Rubens M. Marques,12,1,pubh,pubh,Taeuber,,1
+Gino Germani,John D. Durand,1,3,pubh,general,,Durand,1
+Donald J. Bogue,John D. Durand,10,3,demography,general,Bogue,Durand,1
+D. S. Thomas,John D. Durand,2,3,pubh,general,,Durand,2
+John D. Durand,Ronald Freedman,3,33,general,famplan,Durand,Freedman,1
+John D. Durand,T. K. Burch,3,2,general,pubh,Durand,,1
+A. H. Neiva,John D. Durand,3,3,pubh,general,,Durand,1
+J. C. Elizaga,John D. Durand,2,3,pubh,general,,Durand,1
+CéSar PeláEz,John D. Durand,1,3,pubh,general,,Durand,1
+John D. Durand,R. O. Carleton,3,2,general,pubh,Durand,,1
+John D. Durand,L. Baumgartner,3,1,general,pubh,Durand,,1
+Everett S. Lee,John D. Durand,6,3,demography,general,Lee,Durand,1
+Gail A. Shea,Gustavo Perez,1,1,famplan,famplan,,,1
+Gustavo Perez,Thomas K. Burch,1,6,famplan,famplan,,,1
+Gustavo Perez,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Gustavo Perez,Joseph Van Kemanade,1,1,famplan,famplan,,,1
+Gustavo Perez,Jan Hutjes,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Gustavo Perez,1,1,famplan,famplan,,,1
+H. Jack Geiger,Salvador Diaz,1,1,pubh,pubh,,,1
+Alvaro Lopez,Salvador Diaz,4,1,demography,pubh,,,1
+A. Peter Ruderman,Salvador Diaz,1,1,pubh,pubh,,,1
+Reginaldo Zaccara De Campos,Salvador Diaz,1,1,pubh,pubh,,,1
+Myrna M. Weissman,Willard Johnson,1,1,general,general,,,1
+Lewis C. Frank Jr.,Willard Johnson,1,1,general,general,,,1
+Richard Reynolds,Willard Johnson,2,1,general,general,,,1
+Ruth Barnhouse-Beuscher,Willard Johnson,1,1,general,general,,,1
+Judith Blake,Willard Johnson,13,1,general,general,Blake,,1
+Allan G. Rosenfield,Chitt Hemachudha,7,2,famplan,famplan,,,2
+Chitt Hemachudha,Winich Asavasena,2,4,famplan,famplan,,,2
+Chitt Hemachudha,Somsak Varakamin,2,2,famplan,famplan,,,2
+Chitt Hemachudha,Gavin Jones,2,4,famplan,demography,,,1
+Chitt Hemachudha,J. Oscar Alers,2,3,famplan,demography,,,1
+Hugh Carter,Paul C. Glick,1,11,demography,pubh,,Glick,1
+Donald J. Bogue,Paul B. Cornely,10,1,demography,pubh,Bogue,,1
+Edwin D. Driver,Paul B. Cornely,7,1,demography,pubh,,,1
+Carl L. Harter,Paul B. Cornely,6,1,demography,pubh,,,1
+Norman B. Ryder,Paul B. Cornely,19,1,famplan,pubh,Ryder,,1
+Daniel C. Thompson,Paul B. Cornely,5,1,pubh,pubh,,,1
+C. V. Willie,Paul B. Cornely,3,1,pubh,pubh,,,1
+Paul B. Cornely,Philip M. Hauser,1,16,pubh,demography,,Hauser,1
+Frank W. Notestein,Paul B. Cornely,8,1,demography,pubh,Notestein,,1
+Daniel O. Price,Paul B. Cornely,7,1,demography,pubh,,,1
+Karl A. Smith,Paul B. Cornely,4,1,pubh,pubh,,,1
+Arthur J. Norton,Robert O. Grymes,3,1,demography,demography,,,1
+Ariffin Bin Marzuki,Ten Love,5,1,demography,famplan,,,1
+Ernest A. T. Barth,Walter B. Watson,1,3,sociology,sociology,,,1
+John A. Ross,Tae Ryong Kim,11,1,demography,famplan,,,1
+David P. Smith,Tae Ryong Kim,1,1,famplan,famplan,,,1
+Gail A. Shea,Thomas K. Burch,1,6,famplan,famplan,,,1
+Gail A. Shea,Gustavo Perez,1,1,famplan,famplan,,,1
+Gail A. Shea,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Gail A. Shea,Joseph Van Kemanade,1,1,famplan,famplan,,,1
+Gail A. Shea,Jan Hutjes,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Gail A. Shea,1,1,famplan,famplan,,,1
+Samuel H. Preston,Verne E. Nelson,6,2,statistics,demography,Preston,,1
+Allan G. Feldt,Robert H. Weller,1,8,demography,pubh,,,1
+J. Mayone Stycos,Robert H. Weller,13,8,pubh,pubh,,,1
+John J. Macisco Jr.,Robert H. Weller,5,8,pubh,pubh,,,2
+George R. Martine,Robert H. Weller,1,8,demography,pubh,,,1
+Leon F. Bouvier,Robert H. Weller,5,8,pubh,pubh,,,2
+Sang Whan Song,Sook Bang,1,6,famplan,demography,,,1
+Chi Hoon Choi,Sang Whan Song,1,1,famplan,famplan,,,1
+Edith Fein,Judith S. Weis,1,1,general,general,,,1
+Edgar R. Chasteen,Judith S. Weis,1,1,general,general,,,1
+Frederick S. Jaffe,Judith S. Weis,17,1,general,general,,,1
+John A. Ross,S.M. Keeny,11,1,demography,famplan,,,1
+Oliver D. Finnigan Iii,S.M. Keeny,1,1,famplan,famplan,,,1
+George P. Cernada,S.M. Keeny,6,1,famplan,famplan,,,1
+Charlotte F. Muller,Frederick S. Jaffe,2,17,famplan,general,,,1
+Annette P. Radick,Mindel C. Sheps,1,14,demography,demography,,,1
+Annette P. Radick,Jane A. Menken,1,4,demography,pubh,,Menken,1
+Ronald Freedman,Te-Hsiung Sun,33,1,famplan,famplan,Freedman,,1
+Lolagene C. Coombs,Te-Hsiung Sun,8,1,demography,famplan,,,1
+Ming-Cheng Chang,Te-Hsiung Sun,1,1,famplan,famplan,,,1
+Alan Ross,David L. Rabin,1,1,pubh,pubh,,,1
+Alan Ross,John Crawford,1,1,pubh,pubh,,,1
+Alan Ross,Carlos Ferrero,1,2,pubh,pubh,,,1
+Alan Ross,Dorothy Myer,1,1,pubh,pubh,,,1
+Alan Ross,Elisabeth Schach,1,1,pubh,pubh,,,1
+Lien-Ping Chow,Peng-Tu Liu,2,1,general,demography,,,1
+Helen Abbey,Peng-Tu Liu,2,1,demography,demography,,,1
+Jean P. Cobb,Joy G. Dryfoos,1,7,famplan,famplan,,,1
+Frederick S. Jaffe,Jean P. Cobb,17,1,general,famplan,,,1
+Daniel R. Weintraub,Jean P. Cobb,2,1,famplan,famplan,,,1
+Carita Jo Bernsohn,Jean P. Cobb,1,1,famplan,famplan,,,1
+Harry M. Raulet,John C. Cobb,2,1,demography,famplan,,,1
+John C. Cobb,Paul A. Harper,1,3,famplan,famplan,,,1
+John C. Cobb,Rowland V. Rider,1,4,famplan,demography,,,1
+John C. Cobb,Paul White,1,1,famplan,famplan,,,1
+A. Rasheed Ghazi,John C. Cobb,1,1,famplan,famplan,,,1
+Judith Blake,Myrna M. Weissman,13,1,general,general,Blake,,1
+Judith Blake,Lewis C. Frank Jr.,13,1,general,general,Blake,,1
+Judith Blake,Richard Reynolds,13,2,general,general,Blake,,1
+Judith Blake,Willard Johnson,13,1,general,general,Blake,,1
+Judith Blake,Ruth Barnhouse-Beuscher,13,1,general,general,Blake,,1
+Judith Blake,Prithwis Das Gupta,13,4,general,demography,Blake,,2
+Judith Blake,Philip M. Hauser,13,16,general,demography,Blake,Hauser,1
+Judith Blake,Paul Demeny,13,6,general,famplan,Blake,Demeny,1
+Arjun L. Adlakha,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+Carlos Ferrero,F. E. Linder,2,2,pubh,pubh,,,1
+Carmen Miro,F. E. Linder,5,2,demography,pubh,,,1
+F. E. Linder,Ferdinand Rath,2,1,pubh,pubh,,,1
+Arthur A. Campbell,F. E. Linder,10,2,famplan,pubh,Campbell,,1
+Charles F. Westoff,F. E. Linder,24,2,famplan,pubh,Westoff,,1
+F. E. Linder,G. PéRez,2,1,pubh,pubh,,,1
+F. E. Linder,J. Mayone Stycos,2,13,pubh,pubh,,,1
+F. E. Linder,Mindel C. Sheps,2,14,pubh,demography,,,1
+F. E. Linder,M-F. Hall,2,2,pubh,pubh,,,1
+F. E. Linder,Ronald Freedman,2,33,pubh,famplan,,Freedman,1
+F. E. Linder,T. K. Burch,2,2,pubh,pubh,,,1
+Donald J. Bogue,F. E. Linder,10,2,demography,pubh,Bogue,,1
+A. H. Neiva,F. E. Linder,3,2,pubh,pubh,,,1
+Reginaldo Zaccara De Campos,Salvador Diaz,1,1,pubh,pubh,,,1
+H. Jack Geiger,Reginaldo Zaccara De Campos,1,1,pubh,pubh,,,1
+Alvaro Lopez,Reginaldo Zaccara De Campos,4,1,demography,pubh,,,1
+A. Peter Ruderman,Reginaldo Zaccara De Campos,1,1,pubh,pubh,,,1
+Ansley J. Coale,Norfleet W. Rives Jr.,12,1,pubh,demography,Coale,,1
+Charles F. Westoff,Emily C. Moore,24,1,famplan,pubh,Westoff,,1
+Emily C. Moore,Norman B. Ryder,1,19,pubh,famplan,,Ryder,1
+Maria Nydia Maraviglia,Murray Gendell,1,5,demography,demography,,,1
+Maria Nydia Maraviglia,Philip C. Kreitner,1,1,demography,demography,,,1
+Clyde V. Kiser,Myrna E. Frank,7,2,pubh,pubh,Kiser,,2
+Paul C. Glick,Robert Parke Jr.,11,2,pubh,demography,Glick,,2
+Gail A. Shea,Joseph Van Kemanade,1,1,famplan,famplan,,,1
+Joseph Van Kemanade,Thomas K. Burch,1,6,famplan,famplan,,,1
+Gustavo Perez,Joseph Van Kemanade,1,1,famplan,famplan,,,1
+Joseph Van Kemanade,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Jan Hutjes,Joseph Van Kemanade,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Joseph Van Kemanade,1,1,famplan,famplan,,,1
+G. Stephan Masnick,Robert G. Potter,1,18,demography,famplan,,,1
+G. Stephan Masnick,Murray Gendell,1,5,demography,demography,,,1
+Lolagene Coombs,Ronald Freedman,3,33,sociology,famplan,,Freedman,3
+D. Narayanan Namboothiri,Lolagene Coombs,1,3,demography,sociology,,,1
+Ming-Chen Chang,Ronald Freedman,1,33,famplan,famplan,,Freedman,1
+Lolagene C. Coombs,Ming-Chen Chang,8,1,demography,famplan,,,1
+Carl L. Harter,Vestal W. Parrish Jr.,6,1,demography,demography,,,1
+Judith Friedman,Ronald Freedman,2,33,sociology,famplan,,Freedman,2
+Judith Friedman,Lolagene C. Coombs,2,8,sociology,demography,,,2
+Judith Friedman,William F. Pratt,2,1,sociology,sociology,,,1
+Frank F. Furstenberg Jr.,G. S. Masnick,1,2,famplan,demography,,,1
+G. S. Masnick,Susan A. Ricketts,2,1,demography,famplan,,,1
+A. Perez,G. S. Masnick,1,2,demography,demography,,,1
+G. S. Masnick,P. Vela,2,1,demography,demography,,,1
+G. S. Masnick,Robert G. Potter,2,18,demography,famplan,,,1
+Allan G. Rosenfield,J. Oscar Alers,7,3,famplan,demography,,,2
+Allan G. Rosenfield,Winich Asavasena,7,4,famplan,famplan,,,4
+Allan G. Rosenfield,Chaichana Suvanavejh,7,2,famplan,famplan,,,1
+Allan G. Rosenfield,Sasichan Vimuktanon,7,1,famplan,famplan,,,1
+Allan G. Rosenfield,Chitt Hemachudha,7,2,famplan,famplan,,,2
+Allan G. Rosenfield,Somsak Varakamin,7,2,famplan,famplan,,,2
+Allan G. Rosenfield,Gavin Jones,7,4,famplan,demography,,,1
+Allan G. Rosenfield,Linda Atkinson,7,1,famplan,famplan,,,1
+Allan G. Rosenfield,Robert Castadot,7,1,famplan,famplan,,,1
+Allan G. Rosenfield,Alvaro Cuadros,7,1,famplan,famplan,,,1
+Allan G. Rosenfield,Jumroon Mikhanorn,7,1,famplan,famplan,,,1
+Gwendolyn Z. Johnson,Joseph D. Beasley,1,10,pubh,famplan,,,1
+Gwendolyn Z. Johnson,Ralph F. Frankowski,1,3,pubh,famplan,,,1
+Gwendolyn Z. Johnson,Joseph S. Himes,1,2,pubh,pubh,,,1
+Gwendolyn Z. Johnson,P. B. Cornely,1,1,pubh,pubh,,,1
+G. Franklin Edwards,Gwendolyn Z. Johnson,4,1,pubh,pubh,,,1
+Gwendolyn Z. Johnson,Preston Valien,1,4,pubh,pubh,,,1
+Gwendolyn Z. Johnson,Karl A. Smith,1,4,pubh,pubh,,,1
+Charles B. Arnold,Gwendolyn Z. Johnson,3,1,famplan,pubh,,,1
+Mariano Requena,Rolando Armijo,1,2,pubh,pubh,,,1
+J. Arias,Louis J. Ducoff,3,1,pubh,pubh,,,1
+Everett S. Lee,J. Arias,6,3,demography,pubh,Lee,,3
+A. H. Neiva,J. Arias,3,3,pubh,pubh,,,1
+Donald J. Bogue,J. Arias,10,3,demography,pubh,Bogue,,2
+J. Arias,J. C. Elizaga,3,2,pubh,pubh,,,1
+J. Arias,J. Mayone Stycos,3,13,pubh,pubh,,,1
+J. Arias,R. Delgado,3,1,pubh,pubh,,,1
+J. Arias,O. Mendoza,3,1,pubh,pubh,,,1
+J. Arias,R. O. Carleton,3,2,pubh,pubh,,,1
+Christopher Tietze,J. Arias,18,3,pubh,pubh,,,1
+F. Rath,J. Arias,1,3,pubh,pubh,,,1
+J. Arias,Mindel C. Sheps,3,14,pubh,demography,,,1
+J. Arias,R. Puffer,3,2,pubh,pubh,,,1
+J. Arias,M-F. Hall,3,2,pubh,pubh,,,1
+J. Arias,Juan C. Elizaga,3,4,pubh,demography,,,1
+Gail A. Shea,Jan Hutjes,1,1,famplan,famplan,,,1
+Jan Hutjes,Thomas K. Burch,1,6,famplan,famplan,,,1
+Gustavo Perez,Jan Hutjes,1,1,famplan,famplan,,,1
+Jan Hutjes,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Jan Hutjes,Joseph Van Kemanade,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Jan Hutjes,1,1,famplan,famplan,,,1
+J. Gilbert Hardee,Shamsuddin Bin Abdul Rahman,3,2,famplan,famplan,,,1
+Shamsuddin Bin Abdul Rahman,Tan Boon Ann,2,5,famplan,demography,,,2
+M. Subbiah,Shamsuddin Bin Abdul Rahman,1,2,famplan,famplan,,,1
+Loh Sow Khin,Shamsuddin Bin Abdul Rahman,1,2,famplan,famplan,,,1
+Shamsuddin Bin Abdul Rahman,Yusof Bakar,2,1,famplan,famplan,,,1
+Harry M. Raulet,John C. Cobb,2,1,demography,famplan,,,1
+Harry M. Raulet,Paul A. Harper,2,3,demography,famplan,,,1
+Harry M. Raulet,Rowland V. Rider,2,4,demography,demography,,,1
+Harry M. Raulet,Paul White,2,1,demography,famplan,,,1
+A. Rasheed Ghazi,Harry M. Raulet,1,2,famplan,demography,,,1
+George R. Martine,Robert H. Weller,1,8,demography,pubh,,,1
+George R. Martine,John J. Macisco Jr.,1,5,demography,pubh,,,1
+K. C. Chan,Ronald Freedman,2,33,demography,famplan,,Freedman,2
+D. N. Namboothiri,K. C. Chan,2,2,demography,demography,,,2
+A. Adlakha,K. C. Chan,2,2,demography,demography,,,2
+Joseph D. Beasley,Ralph F. Frankowski,10,3,famplan,famplan,,,3
+C. Morton Hawkins,Ralph F. Frankowski,1,3,pubh,famplan,,,1
+Gwendolyn Z. Johnson,Ralph F. Frankowski,1,3,pubh,famplan,,,1
+Joseph S. Himes,Ralph F. Frankowski,2,3,pubh,famplan,,,1
+P. B. Cornely,Ralph F. Frankowski,1,3,pubh,famplan,,,1
+G. Franklin Edwards,Ralph F. Frankowski,4,3,pubh,famplan,,,1
+Preston Valien,Ralph F. Frankowski,4,3,pubh,famplan,,,1
+Karl A. Smith,Ralph F. Frankowski,4,3,pubh,famplan,,,1
+Charles B. Arnold,Ralph F. Frankowski,3,3,famplan,famplan,,,1
+J. Mayone Stycos,R. Delgado,13,1,pubh,pubh,,,1
+O. Mendoza,R. Delgado,1,1,pubh,pubh,,,1
+R. Delgado,R. O. Carleton,1,2,pubh,pubh,,,1
+Everett S. Lee,R. Delgado,6,1,demography,pubh,Lee,,1
+Christopher Tietze,R. Delgado,18,1,pubh,pubh,,,1
+J. Arias,R. Delgado,3,1,pubh,pubh,,,1
+F. Rath,R. Delgado,1,1,pubh,pubh,,,1
+Mindel C. Sheps,R. Delgado,14,1,demography,pubh,,,1
+R. Delgado,R. Puffer,1,2,pubh,pubh,,,1
+Donald J. Bogue,R. Delgado,10,1,demography,pubh,Bogue,,1
+M-F. Hall,R. Delgado,2,1,pubh,pubh,,,1
+Elza S. Berquo,Rubens M. Marques,1,1,pubh,pubh,,,1
+Elza S. Berquo,Maria L. Milanesi,1,1,pubh,pubh,,,1
+Elza S. Berquo,Jose S. Martins,1,1,pubh,pubh,,,1
+Elza S. Berquo,Eunice Pinho,1,1,pubh,pubh,,,1
+Elza S. Berquo,Imre Simon,1,1,pubh,pubh,,,1
+Elza S. Berquo,Irene B. Taeuber,1,12,pubh,pubh,,Taeuber,1
+Carl M. Cochrane,John F. Kantner,1,10,demography,demography,,Kantner,1
+Carl M. Cochrane,Melvin Zelnik,1,10,demography,demography,,,1
+Carl M. Cochrane,Philip R. Kunz,1,1,demography,demography,,,1
+Carl M. Cochrane,Merlin B. Brinkerhoff,1,2,demography,demography,,,1
+Carl M. Cochrane,Clark E. Vincent,1,1,demography,demography,,,1
+C. Allen Haney,Carl M. Cochrane,1,1,demography,demography,,,1
+Donald W. Helbig,Habib R. Siddiqui,1,1,demography,demography,,,1
+Donald W. Helbig,Samuel B. Hopkins,1,1,demography,demography,,,1
+Donald W. Helbig,Paul A. Harper,1,3,demography,famplan,,,1
+Donald W. Helbig,Rowland V. Rider,1,4,demography,demography,,,1
+Edmund M. Murphy,Nathan Keyfitz,2,17,eugenics,statistics,,Keyfitz,1
+Dhruva N. Nagnur,Edmund M. Murphy,1,2,demography,eugenics,,,1
+Chaichana Suvanavejh,Peter J. Donaldson,2,1,famplan,famplan,,,1
+Donald O. Cowgill,Srisomang Keovichit,2,1,general,pubh,,,1
+Donald O. Cowgill,Robert G. Burnight,2,1,general,pubh,,,1
+Donald O. Cowgill,J. Richard Udry,2,8,general,pubh,,Udry,1
+Charas Yamarat,Donald O. Cowgill,1,2,pubh,general,,,1
+David Goldberg,Ronald Freedman,1,33,demography,famplan,Goldberg,Freedman,1
+David Goldberg,Larry Bumpass,1,8,demography,general,Goldberg,Bumpass,1
+John Knodel,Pichit Pitaktepsombati,9,1,famplan,famplan,,,1
+Everett S. Lee,John D. Durand,6,3,demography,general,Lee,Durand,1
+CéSar PeláEz,Everett S. Lee,1,6,pubh,demography,,Lee,1
+D. S. Thomas,Everett S. Lee,2,6,pubh,demography,,Lee,1
+Everett S. Lee,R. O. Carleton,6,2,demography,pubh,Lee,,2
+Everett S. Lee,L. Baumgartner,6,1,demography,pubh,Lee,,1
+Everett S. Lee,Louis J. Ducoff,6,1,demography,pubh,Lee,,1
+Everett S. Lee,J. Arias,6,3,demography,pubh,Lee,,3
+A. H. Neiva,Everett S. Lee,3,6,pubh,demography,,Lee,1
+Donald J. Bogue,Everett S. Lee,10,6,demography,demography,Bogue,Lee,2
+Everett S. Lee,J. C. Elizaga,6,2,demography,pubh,Lee,,1
+Everett S. Lee,J. Mayone Stycos,6,13,demography,pubh,Lee,,1
+Everett S. Lee,R. Delgado,6,1,demography,pubh,Lee,,1
+Everett S. Lee,O. Mendoza,6,1,demography,pubh,Lee,,1
+Christopher Tietze,Everett S. Lee,18,6,pubh,demography,,Lee,1
+Everett S. Lee,F. Rath,6,1,demography,pubh,Lee,,1
+Everett S. Lee,Mindel C. Sheps,6,14,demography,demography,Lee,,1
+Everett S. Lee,R. Puffer,6,2,demography,pubh,Lee,,1
+Everett S. Lee,M-F. Hall,6,2,demography,pubh,Lee,,1
+Everett S. Lee,Juan C. Elizaga,6,4,demography,demography,Lee,,1
+Enver Adil,J. Gilbert Hardee,2,3,demography,famplan,,,1
+Enver Adil,Nafis Sadik,2,1,demography,famplan,,,1
+Ann Fischer,Joseph D. Beasley,1,10,demography,famplan,,,1
+Ann Fischer,Carl L. Harter,1,6,demography,demography,,,1
+C. Horace Hamilton,Elizabeth M. Suval,4,1,sociology,sociology,Hamilton,,1
+Eduardo E. Arriaga,Kingsley Davis,7,3,pubh,demography,,Davis,1
+Anrudh K. Jain,Lien-Pin Chow,6,2,pubh,pubh,,,2
+Anrudh K. Jain,Ronald Freedman,6,33,pubh,famplan,,Freedman,3
+Anrudh K. Jain,Robert G. Potter,6,18,pubh,famplan,,,2
+Anrudh K. Jain,T. C. Hsu,6,2,pubh,demography,,,1
+Anrudh K. Jain,M. C. Chang,6,5,pubh,pubh,,,1
+Lien-Pin Chow,Ronald Freedman,2,33,pubh,famplan,,Freedman,2
+Lien-Pin Chow,Robert G. Potter,2,18,pubh,famplan,,,2
+Anrudh K. Jain,Lien-Pin Chow,6,2,pubh,pubh,,,2
+Otis Dudley Duncan,Ronald Freedman,8,33,sociology,famplan,Duncan,Freedman,1
+J. Michael Coble,Otis Dudley Duncan,1,8,demography,sociology,,Duncan,1
+Doris P. Slesinger,Otis Dudley Duncan,1,8,demography,sociology,,Duncan,1
+Arthur A. Campbell,Hernan Mendoza-Hoyos,10,1,famplan,pubh,Campbell,,1
+Christopher Tietze,Sarah Lewitt,18,1,pubh,famplan,,,1
+C. Morton Hawkins,Joseph D. Beasley,1,10,pubh,famplan,,,1
+C. Morton Hawkins,Ralph F. Frankowski,1,3,pubh,famplan,,,1
+J. Y. Peng,Silvia Pedraza,4,1,famplan,famplan,,,1
+L. P. Chow,Silvia Pedraza,10,1,famplan,famplan,,,1
+Roger Avery,Silvia Pedraza,2,1,famplan,famplan,,,1
+John B. Wyon,Stephen L. Finner,3,1,pubh,demography,,,1
+David M. Heer,Stephen L. Finner,14,1,famplan,demography,,,1
+Nadipuram R. Parthasarathy,Stephen L. Finner,1,1,demography,demography,,,1
+John E. Gordon,Stephen L. Finner,3,1,pubh,demography,,,1
+Karl E. Taeuber,Omer R. Galle,9,3,sociology,demography,,,1
+Max W. Williams,Omer R. Galle,1,3,demography,demography,,,1
+Douglas Carnahan,Omer R. Galle,1,3,sociology,demography,,,1
+Omer R. Galle,Walter Gove,3,1,demography,sociology,,,1
+Rolando Armijo,Tegualda Monreal,2,2,pubh,pubh,,,1
+R. Puffer,Tegualda Monreal,2,2,pubh,pubh,,,1
+M. Requena B.,Tegualda Monreal,1,2,pubh,pubh,,,1
+Christopher Tietze,Tegualda Monreal,18,2,pubh,pubh,,,1
+B. Mariano Requena,Tegualda Monreal,2,2,pubh,pubh,,,1
+Donald J. Bogue,Tegualda Monreal,10,2,demography,pubh,Bogue,,1
+Carmen Miro,Ferdinand Rath,5,1,demography,pubh,,,1
+Arthur A. Campbell,Ferdinand Rath,10,1,famplan,pubh,Campbell,,1
+Charles F. Westoff,Ferdinand Rath,24,1,famplan,pubh,Westoff,,1
+Ferdinand Rath,G. PéRez,1,1,pubh,pubh,,,1
+Ferdinand Rath,J. Mayone Stycos,1,13,pubh,pubh,,,1
+Ferdinand Rath,Mindel C. Sheps,1,14,pubh,demography,,,1
+F. E. Linder,Ferdinand Rath,2,1,pubh,pubh,,,1
+Ferdinand Rath,M-F. Hall,1,2,pubh,pubh,,,1
+Ferdinand Rath,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+Ferdinand Rath,T. K. Burch,1,2,pubh,pubh,,,1
+Donald J. Bogue,Ferdinand Rath,10,1,demography,pubh,Bogue,,1
+A. H. Neiva,Ferdinand Rath,3,1,pubh,pubh,,,1
+Shamsuddin Bin Abdul Rahman,Yusof Bakar,2,1,famplan,famplan,,,1
+Tan Boon Ann,Yusof Bakar,5,1,demography,famplan,,,1
+M. Subbiah,Yusof Bakar,1,1,famplan,famplan,,,1
+Loh Sow Khin,Yusof Bakar,1,1,famplan,famplan,,,1
+John A. Ross,Sook Bang,11,6,demography,demography,,,2
+J. Y. Peng,John A. Ross,4,11,famplan,demography,,,1
+John A. Ross,John Y. Takeshita,11,4,demography,demography,,,1
+Gerald Zatuchni,John A. Ross,1,11,famplan,demography,,,1
+John A. Ross,S. M. Keeny,11,4,demography,famplan,,,2
+George Cernada,John A. Ross,1,11,famplan,demography,,,1
+John A. Ross,Oliver D. Finnigan,11,2,demography,demography,,,1
+John A. Ross,Oliver D. Finnigan Iii,11,1,demography,famplan,,,1
+John A. Ross,S.M. Keeny,11,1,demography,famplan,,,1
+George P. Cernada,John A. Ross,6,11,famplan,demography,,,2
+John A. Ross,Tae Ryong Kim,11,1,demography,famplan,,,1
+David P. Smith,John A. Ross,1,11,famplan,demography,,,1
+Dae Woo Han,John A. Ross,2,11,famplan,demography,,,1
+John A. Ross,T. C. Hsu,11,2,demography,demography,,,1
+John A. Ross,T. H. Sun,11,6,demography,demography,,,1
+David M. Heer,Judith G. Bryden,14,1,famplan,demography,,,1
+Frederick S. Jaffe,Steven Polgar,17,3,general,pubh,,,2
+Frederick S. Jaffe,Oscar Harkavy,17,5,general,demography,,Harkavy,1
+Frederick S. Jaffe,Samuel M. Wishik,17,1,general,general,,,1
+Frederick S. Jaffe,Joy G. Dryfoos,17,7,general,famplan,,,3
+Frederick S. Jaffe,George Varky,17,1,general,famplan,,,1
+Frederick S. Jaffe,Marsha Corey,17,2,general,famplan,,,1
+Frederick S. Jaffe,Steven Sieverts,17,1,general,famplan,,,1
+Charlotte F. Muller,Frederick S. Jaffe,2,17,famplan,general,,,1
+Daniel R. Weintraub,Frederick S. Jaffe,2,17,famplan,general,,,1
+Frederick S. Jaffe,Jean P. Cobb,17,1,general,famplan,,,1
+Carita Jo Bernsohn,Frederick S. Jaffe,1,17,famplan,general,,,1
+Edith Fein,Frederick S. Jaffe,1,17,general,general,,,1
+Frederick S. Jaffe,Judith S. Weis,17,1,general,general,,,1
+Edgar R. Chasteen,Frederick S. Jaffe,1,17,general,general,,,1
+Donald S. Akers,Jacob S. Siegel,5,3,demography,demography,,Siegel,1
+Halliman H. Winsborough,Sarah Hobbs,1,1,demography,demography,,,1
+Halliman H. Winsborough,Reynolds Farley,1,14,demography,demography,,Farley,1
+J. Michael Coble,Otis Dudley Duncan,1,8,demography,sociology,,Duncan,1
+J. Michael Coble,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+Doris P. Slesinger,J. Michael Coble,1,1,demography,demography,,,1
+John C. Cobb,Rowland V. Rider,1,4,famplan,demography,,,1
+Harry M. Raulet,Rowland V. Rider,2,4,demography,demography,,,1
+Paul A. Harper,Rowland V. Rider,3,4,famplan,demography,,,3
+Paul White,Rowland V. Rider,1,4,famplan,demography,,,1
+A. Rasheed Ghazi,Rowland V. Rider,1,4,famplan,demography,,,1
+Chi I-Cheng,Rowland V. Rider,1,4,famplan,demography,,,1
+L. P. Chow,Rowland V. Rider,10,4,famplan,demography,,,1
+Mo-Im Kim,Rowland V. Rider,1,4,demography,demography,,,1
+Jae-Mo Yang,Rowland V. Rider,1,4,demography,demography,,,1
+Donald W. Helbig,Rowland V. Rider,1,4,demography,demography,,,1
+Habib R. Siddiqui,Rowland V. Rider,1,4,demography,demography,,,1
+Rowland V. Rider,Samuel B. Hopkins,4,1,demography,demography,,,1
+Jeanne Clare Ridley,Mindel C. Sheps,4,14,pubh,demography,,,3
+Edward B. Perrin,Mindel C. Sheps,1,14,eugenics,demography,,,1
+Carmen Miro,Mindel C. Sheps,5,14,demography,demography,,,1
+Ferdinand Rath,Mindel C. Sheps,1,14,pubh,demography,,,1
+Arthur A. Campbell,Mindel C. Sheps,10,14,famplan,demography,Campbell,,1
+Charles F. Westoff,Mindel C. Sheps,24,14,famplan,demography,Westoff,,1
+G. PéRez,Mindel C. Sheps,1,14,pubh,demography,,,1
+J. Mayone Stycos,Mindel C. Sheps,13,14,pubh,demography,,,2
+F. E. Linder,Mindel C. Sheps,2,14,pubh,demography,,,1
+M-F. Hall,Mindel C. Sheps,2,14,pubh,demography,,,2
+Mindel C. Sheps,Ronald Freedman,14,33,demography,famplan,,Freedman,1
+Mindel C. Sheps,T. K. Burch,14,2,demography,pubh,,,1
+Donald J. Bogue,Mindel C. Sheps,10,14,demography,demography,Bogue,,2
+A. H. Neiva,Mindel C. Sheps,3,14,pubh,demography,,,1
+Mindel C. Sheps,R. Delgado,14,1,demography,pubh,,,1
+Mindel C. Sheps,O. Mendoza,14,1,demography,pubh,,,1
+Mindel C. Sheps,R. O. Carleton,14,2,demography,pubh,,,1
+Everett S. Lee,Mindel C. Sheps,6,14,demography,demography,Lee,,1
+Christopher Tietze,Mindel C. Sheps,18,14,pubh,demography,,,1
+J. Arias,Mindel C. Sheps,3,14,pubh,demography,,,1
+F. Rath,Mindel C. Sheps,1,14,pubh,demography,,,1
+Mindel C. Sheps,R. Puffer,14,2,demography,pubh,,,1
+Alberto Gonzalez-Quiroga,Mindel C. Sheps,1,14,pubh,demography,,,1
+Joan W. Lingner,Mindel C. Sheps,2,14,pubh,demography,,,2
+Jane A. Menken,Mindel C. Sheps,4,14,pubh,demography,Menken,,4
+Annette P. Radick,Mindel C. Sheps,1,14,demography,demography,,,1
+H. Majumdar,Mindel C. Sheps,1,14,demography,demography,,,1
+J. Mayone Stycos,Parker G. Marden,13,2,pubh,sociology,,,1
+P. S. K. Chi,Robert G. Potter,1,18,demography,famplan,,,1
+J. M. Sakoda,P. S. K. Chi,1,1,demography,demography,,,1
+Myrna M. Weissman,Richard Reynolds,1,2,general,general,,,1
+Lewis C. Frank Jr.,Richard Reynolds,1,2,general,general,,,1
+Richard Reynolds,Willard Johnson,2,1,general,general,,,1
+Richard Reynolds,Ruth Barnhouse-Beuscher,2,1,general,general,,,1
+Judith Blake,Richard Reynolds,13,2,general,general,Blake,,1
+Raymond W. Carlaw,Richard Reynolds,1,2,demography,general,,,1
+Lawrence W. Green,Richard Reynolds,2,2,demography,general,,,1
+N. I. Khan,Richard Reynolds,1,2,demography,general,,,1
+Dorothy Nortman,W. Parker Mauldin,3,7,economics,pubh,,Mauldin,1
+Dorothy Nortman,Frederick F. Stephen,3,1,economics,famplan,,,1
+Dorothy Nortman,Dudley Kirk,3,5,economics,general,,Kirk,1
+Dorothy Nortman,Gavin Jones,3,4,economics,demography,,,1
+Lien-Ping Chow,Robert G. Potter,2,18,general,famplan,,,1
+Lien-Ping Chow,Ronald Freedman,2,33,general,famplan,,Freedman,1
+Lien-Ping Chow,Peng-Tu Liu,2,1,general,demography,,,1
+Helen Abbey,Lien-Ping Chow,2,2,demography,general,,,1
+Arthur A. Campbell,Carmen Miro,10,5,famplan,demography,Campbell,,1
+Arthur A. Campbell,Ferdinand Rath,10,1,famplan,pubh,Campbell,,1
+Arthur A. Campbell,Charles F. Westoff,10,24,famplan,famplan,Campbell,Westoff,2
+Arthur A. Campbell,G. PéRez,10,1,famplan,pubh,Campbell,,1
+Arthur A. Campbell,J. Mayone Stycos,10,13,famplan,pubh,Campbell,,1
+Arthur A. Campbell,Mindel C. Sheps,10,14,famplan,demography,Campbell,,1
+Arthur A. Campbell,F. E. Linder,10,2,famplan,pubh,Campbell,,1
+Arthur A. Campbell,M-F. Hall,10,2,famplan,pubh,Campbell,,1
+Arthur A. Campbell,Ronald Freedman,10,33,famplan,famplan,Campbell,Freedman,1
+Arthur A. Campbell,T. K. Burch,10,2,famplan,pubh,Campbell,,1
+Arthur A. Campbell,Donald J. Bogue,10,10,famplan,demography,Campbell,Bogue,1
+A. H. Neiva,Arthur A. Campbell,3,10,pubh,famplan,,Campbell,1
+Arthur A. Campbell,Hernan Mendoza-Hoyos,10,1,famplan,pubh,Campbell,,1
+Arthur A. Campbell,Bernard Berelson,10,6,famplan,demography,Campbell,Berelson,1
+Arthur A. Campbell,Norman B. Ryder,10,19,famplan,famplan,Campbell,Ryder,2
+Arthur A. Campbell,Carl L. Harter,10,6,famplan,demography,Campbell,,1
+Arthur A. Campbell,C. V. Willie,10,3,famplan,pubh,Campbell,,1
+Arthur A. Campbell,Philip M. Hauser,10,16,famplan,demography,Campbell,Hauser,2
+Arthur A. Campbell,Elliot Liebow,10,5,famplan,pubh,Campbell,,1
+Arthur A. Campbell,James E. Teele,10,4,famplan,pubh,Campbell,,1
+Arthur A. Campbell,William M. Schmidt,10,1,famplan,pubh,Campbell,,1
+Arthur A. Campbell,Daniel C. Thompson,10,5,famplan,pubh,Campbell,,1
+Arthur A. Campbell,Edwin D. Driver,10,7,famplan,demography,Campbell,,1
+John F. Kantner,Melvin Zelnik,10,10,demography,demography,Kantner,,6
+J. D. Allingham,John F. Kantner,2,10,demography,demography,,Kantner,2
+John F. Kantner,T. R. Balakrishnan,10,4,demography,demography,Kantner,,3
+John D. Allingham,John F. Kantner,2,10,demography,demography,,Kantner,1
+John F. Kantner,Philip R. Kunz,10,1,demography,demography,Kantner,,1
+John F. Kantner,Merlin B. Brinkerhoff,10,2,demography,demography,Kantner,,1
+Clark E. Vincent,John F. Kantner,1,10,demography,demography,,Kantner,1
+Carl M. Cochrane,John F. Kantner,1,10,demography,demography,,Kantner,1
+C. Allen Haney,John F. Kantner,1,10,demography,demography,,Kantner,1
+Calvin Goldscheider,Peter R. Uhlenberg,4,2,sociology,demography,,,1
+A. Lopez,Robert O. Carleton,1,2,pubh,demography,,,1
+Robert O. Carleton,Ronald Freedman,2,33,demography,famplan,,Freedman,1
+C. V. Kiser,Robert O. Carleton,1,2,pubh,demography,,,1
+Frederick F. Stephen,W. Parker Mauldin,1,7,famplan,pubh,,Mauldin,1
+Dorothy Nortman,Frederick F. Stephen,3,1,economics,famplan,,,1
+Joanna Muller,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+F. Rath,J. Mayone Stycos,1,13,pubh,pubh,,,1
+F. Rath,R. Delgado,1,1,pubh,pubh,,,1
+F. Rath,O. Mendoza,1,1,pubh,pubh,,,1
+F. Rath,R. O. Carleton,1,2,pubh,pubh,,,1
+Everett S. Lee,F. Rath,6,1,demography,pubh,Lee,,1
+Christopher Tietze,F. Rath,18,1,pubh,pubh,,,1
+F. Rath,J. Arias,1,3,pubh,pubh,,,1
+F. Rath,Mindel C. Sheps,1,14,pubh,demography,,,1
+F. Rath,R. Puffer,1,2,pubh,pubh,,,1
+Donald J. Bogue,F. Rath,10,1,demography,pubh,Bogue,,1
+F. Rath,M-F. Hall,1,2,pubh,pubh,,,1
+Kurt B. Mayer,Sidney Goldstein,2,8,demography,pubh,,Goldstein,1
+Ansley J. Coale,D. R. Mcneil,12,1,pubh,statistics,Coale,,1
+John C. Cobb,Paul White,1,1,famplan,famplan,,,1
+Harry M. Raulet,Paul White,2,1,demography,famplan,,,1
+Paul A. Harper,Paul White,3,1,famplan,famplan,,,1
+Paul White,Rowland V. Rider,1,4,famplan,demography,,,1
+A. Rasheed Ghazi,Paul White,1,1,famplan,famplan,,,1
+Gino Germani,T. K. Burch,1,2,pubh,pubh,,,1
+Donald J. Bogue,T. K. Burch,10,2,demography,pubh,Bogue,,2
+D. S. Thomas,T. K. Burch,2,2,pubh,pubh,,,1
+Ronald Freedman,T. K. Burch,33,2,famplan,pubh,Freedman,,2
+John D. Durand,T. K. Burch,3,2,general,pubh,Durand,,1
+A. H. Neiva,T. K. Burch,3,2,pubh,pubh,,,2
+J. C. Elizaga,T. K. Burch,2,2,pubh,pubh,,,1
+Carmen Miro,T. K. Burch,5,2,demography,pubh,,,1
+Ferdinand Rath,T. K. Burch,1,2,pubh,pubh,,,1
+Arthur A. Campbell,T. K. Burch,10,2,famplan,pubh,Campbell,,1
+Charles F. Westoff,T. K. Burch,24,2,famplan,pubh,Westoff,,1
+G. PéRez,T. K. Burch,1,2,pubh,pubh,,,1
+J. Mayone Stycos,T. K. Burch,13,2,pubh,pubh,,,1
+Mindel C. Sheps,T. K. Burch,14,2,demography,pubh,,,1
+F. E. Linder,T. K. Burch,2,2,pubh,pubh,,,1
+M-F. Hall,T. K. Burch,2,2,pubh,pubh,,,1
+Carmen Miro,Jorge L. Somoza,5,2,demography,demography,,,1
+Carmen Miro,Ferdinand Rath,5,1,demography,pubh,,,1
+Arthur A. Campbell,Carmen Miro,10,5,famplan,demography,Campbell,,1
+Carmen Miro,Charles F. Westoff,5,24,demography,famplan,,Westoff,1
+Carmen Miro,G. PéRez,5,1,demography,pubh,,,1
+Carmen Miro,J. Mayone Stycos,5,13,demography,pubh,,,1
+Carmen Miro,Mindel C. Sheps,5,14,demography,demography,,,1
+Carmen Miro,F. E. Linder,5,2,demography,pubh,,,1
+Carmen Miro,M-F. Hall,5,2,demography,pubh,,,1
+Carmen Miro,Ronald Freedman,5,33,demography,famplan,,Freedman,1
+Carmen Miro,T. K. Burch,5,2,demography,pubh,,,1
+Carmen Miro,Donald J. Bogue,5,10,demography,demography,,Bogue,1
+A. H. Neiva,Carmen Miro,3,5,pubh,demography,,,1
+Carmen Miro,Walter Mertens,5,2,demography,demography,,,1
+Carmen Miro,Kingsley Davis,5,3,demography,demography,,Davis,1
+Carmen Miro,Philip M. Hauser,5,16,demography,demography,,Hauser,1
+Carmen Miro,Frank Lorimer,5,2,demography,pubh,,Lorimer,1
+Carmen Miro,Wilson H. Grabill,5,6,demography,demography,,,1
+Carmen Miro,Vasilios Valaoras,5,1,demography,pubh,,,1
+Elza S. Berquo,Eunice Pinho,1,1,pubh,pubh,,,1
+Eunice Pinho,Rubens M. Marques,1,1,pubh,pubh,,,1
+Eunice Pinho,Maria L. Milanesi,1,1,pubh,pubh,,,1
+Eunice Pinho,Jose S. Martins,1,1,pubh,pubh,,,1
+Eunice Pinho,Imre Simon,1,1,pubh,pubh,,,1
+Eunice Pinho,Irene B. Taeuber,1,12,pubh,pubh,,Taeuber,1
+Ansley J. Coale,Jorge Somoza,12,1,pubh,pubh,Coale,,1
+Alvaro Lopez,Ansley J. Coale,4,12,demography,pubh,,Coale,1
+Ansley J. Coale,Norfleet W. Rives Jr.,12,1,pubh,demography,Coale,,1
+Ansley J. Coale,Dudley Kirk,12,5,pubh,general,Coale,Kirk,1
+Ansley J. Coale,Philip M. Hauser,12,16,pubh,demography,Coale,Hauser,1
+Ansley J. Coale,Wilson H. Grabill,12,6,pubh,demography,Coale,,1
+Ansley J. Coale,D. R. Mcneil,12,1,pubh,statistics,Coale,,1
+Charles B. Arnold,Millard B. Bethel,3,1,famplan,famplan,,,1
+Ann R. Sauls,Millard B. Bethel,1,1,famplan,famplan,,,1
+Millard B. Bethel,Sylvain Fribourg,1,1,famplan,famplan,,,1
+Loh Sow Khin,Shamsuddin Bin Abdul Rahman,1,2,famplan,famplan,,,1
+Loh Sow Khin,Tan Boon Ann,1,5,famplan,demography,,,1
+Loh Sow Khin,M. Subbiah,1,1,famplan,famplan,,,1
+Loh Sow Khin,Yusof Bakar,1,1,famplan,famplan,,,1
+Douglas Carnahan,Walter Gove,1,1,sociology,sociology,,,1
+Douglas Carnahan,Omer R. Galle,1,3,sociology,demography,,,1
+John E. Gordon,Robert G. Potter,3,18,pubh,famplan,,,2
+John E. Gordon,Mary L. New,3,1,pubh,pubh,,,1
+John B. Wyon,John E. Gordon,3,3,pubh,pubh,,,3
+John E. Gordon,Stephen L. Finner,3,1,pubh,demography,,,1
+David M. Heer,John E. Gordon,14,3,famplan,pubh,,,1
+John E. Gordon,Nadipuram R. Parthasarathy,3,1,pubh,demography,,,1
+John E. Gordon,Margaret Parker,3,1,pubh,demography,,,1
+John A. Ross,Oliver D. Finnigan,11,2,demography,demography,,,1
+Oliver D. Finnigan,T. H. Sun,2,6,demography,demography,,,1
+David L. Rabin,John Crawford,1,1,pubh,pubh,,,1
+Carlos Ferrero,David L. Rabin,2,1,pubh,pubh,,,1
+David L. Rabin,Dorothy Myer,1,1,pubh,pubh,,,1
+Alan Ross,David L. Rabin,1,1,pubh,pubh,,,1
+David L. Rabin,Elisabeth Schach,1,1,pubh,pubh,,,1
+John D. Durand,R. O. Carleton,3,2,general,pubh,Durand,,1
+CéSar PeláEz,R. O. Carleton,1,2,pubh,pubh,,,1
+D. S. Thomas,R. O. Carleton,2,2,pubh,pubh,,,1
+L. Baumgartner,R. O. Carleton,1,2,pubh,pubh,,,1
+Everett S. Lee,R. O. Carleton,6,2,demography,pubh,Lee,,2
+J. Mayone Stycos,R. O. Carleton,13,2,pubh,pubh,,,1
+R. Delgado,R. O. Carleton,1,2,pubh,pubh,,,1
+O. Mendoza,R. O. Carleton,1,2,pubh,pubh,,,1
+Christopher Tietze,R. O. Carleton,18,2,pubh,pubh,,,1
+J. Arias,R. O. Carleton,3,2,pubh,pubh,,,1
+F. Rath,R. O. Carleton,1,2,pubh,pubh,,,1
+Mindel C. Sheps,R. O. Carleton,14,2,demography,pubh,,,1
+R. O. Carleton,R. Puffer,2,2,pubh,pubh,,,1
+Donald J. Bogue,R. O. Carleton,10,2,demography,pubh,Bogue,,1
+M-F. Hall,R. O. Carleton,2,2,pubh,pubh,,,1
+George P. Cernada,Tessie Huang,6,1,famplan,famplan,,,1
+George P. Cernada,John A. Ross,6,11,famplan,demography,,,2
+George P. Cernada,Oliver D. Finnigan Iii,6,1,famplan,famplan,,,1
+George P. Cernada,S.M. Keeny,6,1,famplan,famplan,,,1
+F. L. Chen,George P. Cernada,1,6,famplan,famplan,,,1
+George P. Cernada,M. C. Chang,6,5,famplan,pubh,,,2
+George P. Cernada,T. H. Sun,6,6,famplan,demography,,,3
+George P. Cernada,Laura P. Lu,6,1,famplan,famplan,,,1
+Dae Woo Han,George P. Cernada,2,6,famplan,famplan,,,1
+George P. Cernada,S. M. Keeny,6,4,famplan,famplan,,,1
+George P. Cernada,T. C. Hsu,6,2,famplan,demography,,,1
+Mo-Im Kim,Rowland V. Rider,1,4,demography,demography,,,1
+Mo-Im Kim,Paul A. Harper,1,3,demography,famplan,,,1
+Jae-Mo Yang,Mo-Im Kim,1,1,demography,demography,,,1
+Milton Diamond,Roy G. Smith,1,1,famplan,famplan,,,1
+James A. Palmore,Roy G. Smith,6,1,famplan,famplan,,,1
+Patricia G. Steinhoff,Roy G. Smith,1,1,famplan,famplan,,,1
+Howard C. Taylor,Robert J. Lapham,1,4,famplan,demography,,,1
+Robert J. Lapham,W. Parker Mauldin,4,7,demography,pubh,,Mauldin,1
+George Worth,O. D. Finnigan,2,1,famplan,famplan,,,1
+O. D. Finnigan,Walter B. Watson,1,3,famplan,sociology,,,1
+Dae Woo Han,O. D. Finnigan,2,1,famplan,famplan,,,1
+O. D. Finnigan,S. M. Keeny,1,4,famplan,famplan,,,1
+Fred W. Reed,J. Richard Udry,1,8,demography,pubh,,Udry,1
+Arthur J. Norton,Paul C. Glick,3,11,demography,pubh,,Glick,2
+Arthur J. Norton,Robert O. Grymes,3,1,demography,demography,,,1
+Gerald Zatuchni,John A. Ross,1,11,famplan,demography,,,1
+J. Oscar Alers,Winich Asavasena,3,4,demography,famplan,,,2
+Chaichana Suvanavejh,Winich Asavasena,2,4,famplan,famplan,,,1
+Allan G. Rosenfield,Winich Asavasena,7,4,famplan,famplan,,,4
+Chitt Hemachudha,Winich Asavasena,2,4,famplan,famplan,,,2
+Somsak Varakamin,Winich Asavasena,2,4,famplan,famplan,,,2
+Gavin Jones,Winich Asavasena,4,4,demography,famplan,,,1
+Jumroon Mikhanorn,Winich Asavasena,1,4,famplan,famplan,,,1
+Robert Schoen,Verne E. Nelson,2,2,demography,demography,,,1
+Charles F. Westoff,Norman B. Ryder,24,19,famplan,famplan,Westoff,Ryder,10
+Norman B. Ryder,Raymond H. Potvin,19,2,famplan,demography,Ryder,,1
+Emily C. Moore,Norman B. Ryder,1,19,pubh,famplan,,Ryder,1
+Norman B. Ryder,Philip M. Hauser,19,16,famplan,demography,Ryder,Hauser,5
+Norman B. Ryder,Wilson H. Grabill,19,6,famplan,demography,Ryder,,1
+Norman B. Ryder,Reynolds Farley,19,14,famplan,demography,Ryder,Farley,2
+Norman B. Ryder,Paul R. Williams,19,2,famplan,pubh,Ryder,,1
+Karl E. Taeuber,Norman B. Ryder,9,19,sociology,famplan,,Ryder,1
+Elliot Liebow,Norman B. Ryder,5,19,pubh,famplan,,Ryder,2
+G. Franklin Edwards,Norman B. Ryder,4,19,pubh,famplan,,Ryder,1
+Clyde V. Kiser,Norman B. Ryder,7,19,pubh,famplan,Kiser,Ryder,1
+Irene B. Taeuber,Norman B. Ryder,12,19,pubh,famplan,Taeuber,Ryder,1
+Daniel O. Price,Norman B. Ryder,7,19,demography,famplan,,Ryder,2
+Joseph D. Beasley,Norman B. Ryder,10,19,famplan,famplan,,Ryder,1
+Carl L. Harter,Norman B. Ryder,6,19,demography,famplan,,Ryder,2
+C. V. Willie,Norman B. Ryder,3,19,pubh,famplan,,Ryder,2
+Arthur A. Campbell,Norman B. Ryder,10,19,famplan,famplan,Campbell,Ryder,2
+James E. Teele,Norman B. Ryder,4,19,pubh,famplan,,Ryder,1
+Norman B. Ryder,William M. Schmidt,19,1,famplan,pubh,Ryder,,1
+Daniel C. Thompson,Norman B. Ryder,5,19,pubh,famplan,,Ryder,2
+Edwin D. Driver,Norman B. Ryder,7,19,demography,famplan,,Ryder,2
+Donald J. Bogue,Norman B. Ryder,10,19,demography,famplan,Bogue,Ryder,1
+Norman B. Ryder,Paul B. Cornely,19,1,famplan,pubh,Ryder,,1
+Frank W. Notestein,Norman B. Ryder,8,19,demography,famplan,Notestein,Ryder,1
+Karl A. Smith,Norman B. Ryder,4,19,pubh,famplan,,Ryder,1
+Mildred B. Beck,Sidney H. Newman,1,1,famplan,famplan,,,1
+Sarah Lewit,Sidney H. Newman,10,1,demography,famplan,,,1
+D. Narayanan Namboothiri,Lolagene Coombs,1,3,demography,sociology,,,1
+D. Narayanan Namboothiri,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+B. Mariano Requena,F. Osborn,2,1,pubh,pubh,,,1
+Christopher Tietze,F. Osborn,18,1,pubh,pubh,,,1
+F. Osborn,R. Armijo,1,1,pubh,pubh,,,1
+Donald O. Cowgill,Srisomang Keovichit,2,1,general,pubh,,,1
+Robert G. Burnight,Srisomang Keovichit,1,1,pubh,pubh,,,1
+J. Richard Udry,Srisomang Keovichit,8,1,pubh,pubh,Udry,,1
+Charas Yamarat,Srisomang Keovichit,1,1,pubh,pubh,,,1
+Etienne Van De Walle,Louise Kantrow,9,1,economics,demography,Walle,,1
+John J. Macisco Jr.,Martha Jane Renzi,5,1,pubh,pubh,,,1
+Leon F. Bouvier,Martha Jane Renzi,5,1,pubh,pubh,,,1
+Elza S. Berquo,Jose S. Martins,1,1,pubh,pubh,,,1
+Jose S. Martins,Rubens M. Marques,1,1,pubh,pubh,,,1
+Jose S. Martins,Maria L. Milanesi,1,1,pubh,pubh,,,1
+Eunice Pinho,Jose S. Martins,1,1,pubh,pubh,,,1
+Imre Simon,Jose S. Martins,1,1,pubh,pubh,,,1
+Irene B. Taeuber,Jose S. Martins,12,1,pubh,pubh,Taeuber,,1
+Arjun Adlakha,Dudley Kirk,2,5,demography,general,,Kirk,1
+Steven Polgar,Virginia A. Hiday,3,1,pubh,demography,,,1
+Carl L. Harter,Janice Roussel,6,1,demography,pubh,,,1
+L. P. Chow,P. T. Liu,10,1,famplan,demography,,,1
+N. I. Khan,Raymond W. Carlaw,1,1,demography,demography,,,1
+N. I. Khan,Richard Reynolds,1,2,demography,general,,,1
+Lawrence W. Green,N. I. Khan,2,1,demography,demography,,,1
+J. Timothy Johnson,Leslie Corsa,1,2,demography,demography,,,1
+Leslie Corsa,Tan Boon Ann,2,5,demography,demography,,,1
+Frederick S. Jaffe,Steven Sieverts,17,1,general,famplan,,,1
+Linda Atkinson,Robert Castadot,1,1,famplan,famplan,,,1
+Alvaro Cuadros,Linda Atkinson,1,1,famplan,famplan,,,1
+Allan G. Rosenfield,Linda Atkinson,7,1,famplan,famplan,,,1
+G. Edward Ebanks,P. M. George,2,1,demography,demography,,,1
+Charles E. Nobbe,P. M. George,3,1,sociology,demography,,,1
+D. N. Namboothiri,Ronald Freedman,2,33,demography,famplan,,Freedman,2
+A. Adlakha,D. N. Namboothiri,2,2,demography,demography,,,2
+D. N. Namboothiri,K. C. Chan,2,2,demography,demography,,,2
+Carmen Miro,Philip M. Hauser,5,16,demography,demography,,Hauser,1
+Evelyn M. Kitagawa,Philip M. Hauser,2,16,eugenics,demography,Kitagawa,Hauser,1
+Jorge L. Somoza,Philip M. Hauser,2,16,demography,demography,,Hauser,1
+Judith Blake,Philip M. Hauser,13,16,general,demography,Blake,Hauser,1
+Paul Demeny,Philip M. Hauser,6,16,famplan,demography,Demeny,Hauser,1
+Ansley J. Coale,Philip M. Hauser,12,16,pubh,demography,Coale,Hauser,1
+Dudley Kirk,Philip M. Hauser,5,16,general,demography,Kirk,Hauser,1
+Philip M. Hauser,Wilson H. Grabill,16,6,demography,demography,Hauser,,2
+Norman B. Ryder,Philip M. Hauser,19,16,famplan,demography,Ryder,Hauser,5
+Philip M. Hauser,Preston Valien,16,4,demography,pubh,Hauser,,3
+Irene B. Taeuber,Philip M. Hauser,12,16,pubh,demography,Taeuber,Hauser,3
+Paul C. Glick,Philip M. Hauser,11,16,pubh,demography,Glick,Hauser,2
+Daniel O. Price,Philip M. Hauser,7,16,demography,demography,,Hauser,5
+Donald J. Bogue,Philip M. Hauser,10,16,demography,demography,Bogue,Hauser,3
+Joseph D. Beasley,Philip M. Hauser,10,16,famplan,demography,,Hauser,3
+Daniel C. Thompson,Philip M. Hauser,5,16,pubh,demography,,Hauser,5
+Philip M. Hauser,Reynolds Farley,16,14,demography,demography,Hauser,Farley,5
+Paul R. Williams,Philip M. Hauser,2,16,pubh,demography,,Hauser,2
+Karl E. Taeuber,Philip M. Hauser,9,16,sociology,demography,,Hauser,3
+Elliot Liebow,Philip M. Hauser,5,16,pubh,demography,,Hauser,5
+G. Franklin Edwards,Philip M. Hauser,4,16,pubh,demography,,Hauser,3
+Clyde V. Kiser,Philip M. Hauser,7,16,pubh,demography,Kiser,Hauser,1
+Charles F. Westoff,Philip M. Hauser,24,16,famplan,demography,Westoff,Hauser,1
+Carl L. Harter,Philip M. Hauser,6,16,demography,demography,,Hauser,2
+C. V. Willie,Philip M. Hauser,3,16,pubh,demography,,Hauser,3
+Arthur A. Campbell,Philip M. Hauser,10,16,famplan,demography,Campbell,Hauser,2
+James E. Teele,Philip M. Hauser,4,16,pubh,demography,,Hauser,4
+Philip M. Hauser,William M. Schmidt,16,1,demography,pubh,Hauser,,1
+Edwin D. Driver,Philip M. Hauser,7,16,demography,demography,,Hauser,4
+James A. Jones,Philip M. Hauser,1,16,pubh,demography,,Hauser,1
+Jessie S. Bernard,Philip M. Hauser,2,16,pubh,demography,,Hauser,2
+Frank W. Notestein,Philip M. Hauser,8,16,demography,demography,Notestein,Hauser,3
+C. R. Lawrence,Philip M. Hauser,2,16,pubh,demography,,Hauser,2
+Philip M. Hauser,W. Parker Mauldin,16,7,demography,pubh,Hauser,Mauldin,1
+Joseph S. Himes,Philip M. Hauser,2,16,pubh,demography,,Hauser,1
+Paul B. Cornely,Philip M. Hauser,1,16,pubh,demography,,Hauser,1
+Karl A. Smith,Philip M. Hauser,4,16,pubh,demography,,Hauser,1
+Harriet B. Presser,Philip M. Hauser,7,16,pubh,demography,Presser,Hauser,1
+Charles B. Arnold,Philip M. Hauser,3,16,famplan,demography,,Hauser,1
+L. P. Chow,M. C. Chang,10,5,famplan,pubh,,,2
+L. P. Chow,T. H. Liu,10,2,famplan,pubh,,,2
+Chi I-Cheng,L. P. Chow,1,10,famplan,famplan,,,1
+L. P. Chow,Rowland V. Rider,10,4,famplan,demography,,,1
+J. Y. Peng,L. P. Chow,4,10,famplan,famplan,,,2
+L. P. Chow,Silvia Pedraza,10,1,famplan,famplan,,,1
+L. P. Chow,Roger Avery,10,2,famplan,famplan,,,1
+L. P. Chow,Leslie Corsa Jr.,10,2,famplan,pubh,,,1
+L. P. Chow,P. T. Liu,10,1,famplan,demography,,,1
+CéSar PeláEz,John D. Durand,1,3,pubh,general,,Durand,1
+CéSar PeláEz,D. S. Thomas,1,2,pubh,pubh,,,1
+CéSar PeláEz,R. O. Carleton,1,2,pubh,pubh,,,1
+CéSar PeláEz,L. Baumgartner,1,1,pubh,pubh,,,1
+CéSar PeláEz,Everett S. Lee,1,6,pubh,demography,,Lee,1
+Linda Atkinson,Robert Castadot,1,1,famplan,famplan,,,1
+Alvaro Cuadros,Robert Castadot,1,1,famplan,famplan,,,1
+Allan G. Rosenfield,Robert Castadot,7,1,famplan,famplan,,,1
+Donald J. Bogue,Gino Germani,10,1,demography,pubh,Bogue,,1
+D. S. Thomas,Gino Germani,2,1,pubh,pubh,,,1
+Gino Germani,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+Gino Germani,T. K. Burch,1,2,pubh,pubh,,,1
+Gino Germani,John D. Durand,1,3,pubh,general,,Durand,1
+A. H. Neiva,Gino Germani,3,1,pubh,pubh,,,1
+Gino Germani,J. C. Elizaga,1,2,pubh,pubh,,,1
+Ariffin Bin Marzuki,Ten Love,5,1,demography,famplan,,,1
+Ariffin Bin Marzuki,James A. Palmore,5,6,demography,famplan,,,3
+Ariffin Bin Marzuki,Robert E. Klein,5,1,demography,sociology,,,1
+Ariffin Bin Marzuki,J. Gilbert Hardee,5,3,demography,famplan,,,1
+Ariffin Bin Marzuki,Tan Boon Ann,5,5,demography,demography,,,1
+Ariffin Bin Marzuki,Hew Wai Sin,5,1,demography,famplan,,,1
+Ariffin Bin Marzuki,Paul M. Hirsch,5,1,demography,demography,,,1
+J. Richard Udry,Marvin Levy,8,1,pubh,famplan,Udry,,1
+Lydia T. Clark,Marvin Levy,1,1,famplan,famplan,,,1
+Charles L. Chase,Marvin Levy,2,1,demography,famplan,,,1
+John F. Kantner,Melvin Zelnik,10,10,demography,demography,Kantner,,6
+Melvin Zelnik,Philip R. Kunz,10,1,demography,demography,,,1
+Melvin Zelnik,Merlin B. Brinkerhoff,10,2,demography,demography,,,1
+Clark E. Vincent,Melvin Zelnik,1,10,demography,demography,,,1
+Carl M. Cochrane,Melvin Zelnik,1,10,demography,demography,,,1
+C. Allen Haney,Melvin Zelnik,1,10,demography,demography,,,1
+James A. Palmore,Lee-Jay Cho,6,5,famplan,famplan,,,1
+James A. Palmore,Lyle Saunders,6,2,famplan,demography,,,1
+Ariffin Bin Marzuki,James A. Palmore,5,6,demography,famplan,,,3
+James A. Palmore,Robert E. Klein,6,1,famplan,sociology,,,1
+James A. Palmore,Paul M. Hirsch,6,1,famplan,demography,,,1
+James A. Palmore,Milton Diamond,6,1,famplan,famplan,,,1
+James A. Palmore,Roy G. Smith,6,1,famplan,famplan,,,1
+James A. Palmore,Patricia G. Steinhoff,6,1,famplan,famplan,,,1
+Charles B. Nam,Henry S. Shryock Jr.,3,1,sociology,sociology,Nam,Shryock,1
+George C. Worth,Kyung Shik Chang,2,2,famplan,famplan,,,2
+Kyung Shik Chang,Walter B. Watson,2,3,famplan,sociology,,,1
+Kyung Shik Chang,Peter H. Michael,2,2,famplan,famplan,,,2
+Enver Adil,Nafis Sadik,2,1,demography,famplan,,,1
+J. Gilbert Hardee,Nafis Sadik,3,1,famplan,famplan,,,1
+Karl E. Taeuber,Omer R. Galle,9,3,sociology,demography,,,1
+Alma F. Taeuber,Karl E. Taeuber,2,9,demography,sociology,,,2
+Karl E. Taeuber,Reynolds Farley,9,14,sociology,demography,,Farley,4
+Karl E. Taeuber,Paul R. Williams,9,2,sociology,pubh,,,1
+Karl E. Taeuber,Norman B. Ryder,9,19,sociology,famplan,,Ryder,1
+Karl E. Taeuber,Philip M. Hauser,9,16,sociology,demography,,Hauser,3
+Elliot Liebow,Karl E. Taeuber,5,9,pubh,sociology,,,3
+G. Franklin Edwards,Karl E. Taeuber,4,9,pubh,sociology,,,3
+Clyde V. Kiser,Karl E. Taeuber,7,9,pubh,sociology,Kiser,,1
+Irene B. Taeuber,Karl E. Taeuber,12,9,pubh,sociology,Taeuber,,2
+Daniel O. Price,Karl E. Taeuber,7,9,demography,sociology,,,3
+Joseph D. Beasley,Karl E. Taeuber,10,9,famplan,sociology,,,2
+James A. Jones,Karl E. Taeuber,1,9,pubh,sociology,,,1
+Jessie S. Bernard,Karl E. Taeuber,2,9,pubh,sociology,,,1
+Karl E. Taeuber,Paul C. Glick,9,11,sociology,pubh,,Glick,1
+Frank W. Notestein,Karl E. Taeuber,8,9,demography,sociology,Notestein,,2
+C. R. Lawrence,Karl E. Taeuber,2,9,pubh,sociology,,,2
+Karl E. Taeuber,W. Parker Mauldin,9,7,sociology,pubh,,Mauldin,1
+Donald J. Bogue,Karl E. Taeuber,10,9,demography,sociology,Bogue,,1
+Edwin D. Driver,Karl E. Taeuber,7,9,demography,sociology,,,1
+James E. Teele,Karl E. Taeuber,4,9,pubh,sociology,,,2
+Joseph S. Himes,Karl E. Taeuber,2,9,pubh,sociology,,,1
+Karl E. Taeuber,Preston Valien,9,4,sociology,pubh,,,1
+Daniel C. Thompson,Karl E. Taeuber,5,9,pubh,sociology,,,1
+J. Richard Udry,Karl E. Bauman,8,6,pubh,demography,Udry,,4
+Charles L. Chase,Karl E. Bauman,2,6,demography,demography,,,1
+B. Mariano Requena,Christopher Tietze,2,18,pubh,pubh,,,1
+B. Mariano Requena,F. Osborn,2,1,pubh,pubh,,,1
+B. Mariano Requena,R. Armijo,2,1,pubh,pubh,,,1
+B. Mariano Requena,Tegualda Monreal,2,2,pubh,pubh,,,1
+B. Mariano Requena,Donald J. Bogue,2,10,pubh,demography,,Bogue,1
+Ernest A. T. Barth,Walter B. Watson,1,3,sociology,sociology,,,1
+Kyung Shik Chang,Walter B. Watson,2,3,famplan,sociology,,,1
+George C. Worth,Walter B. Watson,2,3,famplan,sociology,,,1
+Peter H. Michael,Walter B. Watson,2,3,famplan,sociology,,,1
+George Worth,Walter B. Watson,2,3,famplan,sociology,,,1
+Dae Woo Han,Walter B. Watson,2,3,famplan,sociology,,,1
+O. D. Finnigan,Walter B. Watson,1,3,famplan,sociology,,,1
+S. M. Keeny,Walter B. Watson,4,3,famplan,sociology,,,1
+Evelyn M. Kitagawa,Philip M. Hauser,2,16,eugenics,demography,Kitagawa,Hauser,1
+Etienne Van De Walle,John Knodel,9,9,economics,famplan,Walle,,3
+Etienne Van De Walle,Hilary Page,9,1,economics,demography,Walle,,1
+Edward Shorter,Etienne Van De Walle,2,9,history,economics,,Walle,1
+Etienne Van De Walle,Louise Kantrow,9,1,economics,demography,Walle,,1
+L. P. Chow,M. C. Chang,10,5,famplan,pubh,,,2
+M. C. Chang,T. H. Liu,5,2,pubh,pubh,,,2
+F. L. Chen,M. C. Chang,1,5,famplan,pubh,,,1
+M. C. Chang,T. H. Sun,5,6,pubh,demography,,,2
+George P. Cernada,M. C. Chang,6,5,famplan,pubh,,,2
+Anrudh K. Jain,M. C. Chang,6,5,pubh,pubh,,,1
+M. C. Chang,T. C. Hsu,5,2,pubh,demography,,,1
+M. C. Chang,Ronald Freedman,5,33,pubh,famplan,,Freedman,1
+J. Timothy Johnson,Tan Boon Ann,1,5,demography,demography,,,1
+J. Timothy Johnson,Leslie Corsa,1,2,demography,demography,,,1
+Charles F. Westoff,Raymond H. Potvin,24,2,famplan,demography,Westoff,,2
+Norman B. Ryder,Raymond H. Potvin,19,2,famplan,demography,Ryder,,1
+Carl F. Grindstaff,G. Edward Ebanks,1,2,demography,demography,,,1
+G. Edward Ebanks,P. M. George,2,1,demography,demography,,,1
+Charles E. Nobbe,G. Edward Ebanks,3,2,sociology,demography,,,1
+James A. Jones,Karl E. Taeuber,1,9,pubh,sociology,,,1
+James A. Jones,Jessie S. Bernard,1,2,pubh,pubh,,,1
+James A. Jones,Paul C. Glick,1,11,pubh,pubh,,Glick,1
+Frank W. Notestein,James A. Jones,8,1,demography,pubh,Notestein,,1
+C. R. Lawrence,James A. Jones,2,1,pubh,pubh,,,1
+James A. Jones,W. Parker Mauldin,1,7,pubh,pubh,,Mauldin,1
+Donald J. Bogue,James A. Jones,10,1,demography,pubh,Bogue,,1
+Elliot Liebow,James A. Jones,5,1,pubh,pubh,,,1
+James A. Jones,Philip M. Hauser,1,16,pubh,demography,,Hauser,1
+Edwin D. Driver,James A. Jones,7,1,demography,pubh,,,1
+G. Franklin Edwards,James A. Jones,4,1,pubh,pubh,,,1
+James A. Jones,Joseph D. Beasley,1,10,pubh,famplan,,,1
+Daniel O. Price,James A. Jones,7,1,demography,pubh,,,1
+James A. Jones,James E. Teele,1,4,pubh,pubh,,,1
+Anna L. Southam,Oscar Harkavy,1,5,demography,demography,,Harkavy,1
+Anna L. Southam,Lyle Saunders,1,2,demography,demography,,,1
+Beatrice R. Pollack,H. William Mooney,1,1,pubh,pubh,,,1
+Beatrice R. Pollack,Leslie Corsa Jr.,1,2,pubh,pubh,,,1
+Jae Mo Yang,Man Gap Lee,1,1,demography,demography,,,1
+Man Gap Lee,Sook Bang,1,6,demography,demography,,,1
+Man Gap Lee,Myung Ho Kim,1,1,demography,demography,,,1
+James A. Palmore,Milton Diamond,6,1,famplan,famplan,,,1
+Milton Diamond,Roy G. Smith,1,1,famplan,famplan,,,1
+Milton Diamond,Patricia G. Steinhoff,1,1,famplan,famplan,,,1
+David M. Heer,Elsa S. Turner,14,1,famplan,demography,,,1
+Ann Fischer,Joseph D. Beasley,1,10,demography,famplan,,,1
+Carl L. Harter,Joseph D. Beasley,6,10,demography,famplan,,,1
+Joseph D. Beasley,Ralph F. Frankowski,10,3,famplan,famplan,,,3
+C. Morton Hawkins,Joseph D. Beasley,1,10,pubh,famplan,,,1
+John P. Wells,Joseph D. Beasley,1,10,famplan,famplan,,,1
+Gwendolyn Z. Johnson,Joseph D. Beasley,1,10,pubh,famplan,,,1
+Joseph D. Beasley,Joseph S. Himes,10,2,famplan,pubh,,,1
+Joseph D. Beasley,P. B. Cornely,10,1,famplan,pubh,,,1
+G. Franklin Edwards,Joseph D. Beasley,4,10,pubh,famplan,,,3
+Joseph D. Beasley,Preston Valien,10,4,famplan,pubh,,,2
+Joseph D. Beasley,Karl A. Smith,10,4,famplan,pubh,,,1
+Charles B. Arnold,Joseph D. Beasley,3,10,famplan,famplan,,,1
+Irene B. Taeuber,Joseph D. Beasley,12,10,pubh,famplan,Taeuber,,2
+Joseph D. Beasley,Paul C. Glick,10,11,famplan,pubh,,Glick,2
+Daniel O. Price,Joseph D. Beasley,7,10,demography,famplan,,,3
+Joseph D. Beasley,Philip M. Hauser,10,16,famplan,demography,,Hauser,3
+Donald J. Bogue,Joseph D. Beasley,10,10,demography,famplan,Bogue,,2
+Daniel C. Thompson,Joseph D. Beasley,5,10,pubh,famplan,,,1
+Joseph D. Beasley,Reynolds Farley,10,14,famplan,demography,,Farley,3
+Joseph D. Beasley,Paul R. Williams,10,2,famplan,pubh,,,1
+Joseph D. Beasley,Norman B. Ryder,10,19,famplan,famplan,,Ryder,1
+Joseph D. Beasley,Karl E. Taeuber,10,9,famplan,sociology,,,2
+Elliot Liebow,Joseph D. Beasley,5,10,pubh,famplan,,,2
+Clyde V. Kiser,Joseph D. Beasley,7,10,pubh,famplan,Kiser,,1
+James A. Jones,Joseph D. Beasley,1,10,pubh,famplan,,,1
+Jessie S. Bernard,Joseph D. Beasley,2,10,pubh,famplan,,,1
+Frank W. Notestein,Joseph D. Beasley,8,10,demography,famplan,Notestein,,1
+C. R. Lawrence,Joseph D. Beasley,2,10,pubh,famplan,,,1
+Joseph D. Beasley,W. Parker Mauldin,10,7,famplan,pubh,,Mauldin,1
+Edwin D. Driver,Joseph D. Beasley,7,10,demography,famplan,,,1
+James E. Teele,Joseph D. Beasley,4,10,pubh,famplan,,,1
+Reynolds Farley,Sarah Hobbs,14,1,demography,demography,Farley,,1
+Halliman H. Winsborough,Sarah Hobbs,1,1,demography,demography,,,1
+Clyde V. Kiser,Myrna E. Frank,7,2,pubh,pubh,Kiser,,2
+Clyde V. Kiser,Reynolds Farley,7,14,pubh,demography,Kiser,Farley,2
+Clyde V. Kiser,Paul R. Williams,7,2,pubh,pubh,Kiser,,1
+Clyde V. Kiser,Norman B. Ryder,7,19,pubh,famplan,Kiser,Ryder,1
+Clyde V. Kiser,Karl E. Taeuber,7,9,pubh,sociology,Kiser,,1
+Clyde V. Kiser,Philip M. Hauser,7,16,pubh,demography,Kiser,Hauser,1
+Clyde V. Kiser,Elliot Liebow,7,5,pubh,pubh,Kiser,,1
+Clyde V. Kiser,G. Franklin Edwards,7,4,pubh,pubh,Kiser,,1
+Clyde V. Kiser,Irene B. Taeuber,7,12,pubh,pubh,Kiser,Taeuber,1
+Clyde V. Kiser,Daniel O. Price,7,7,pubh,demography,Kiser,,1
+Clyde V. Kiser,Joseph D. Beasley,7,10,pubh,famplan,Kiser,,1
+Clyde V. Kiser,Dorothy G. Wiehl,7,1,pubh,pubh,Kiser,,1
+Clyde V. Kiser,Paul C. Glick,7,11,pubh,pubh,Kiser,Glick,1
+Clyde V. Kiser,Wilson H. Grabill,7,6,pubh,demography,Kiser,,1
+B. Mariano Requena,Christopher Tietze,2,18,pubh,pubh,,,1
+Christopher Tietze,F. Osborn,18,1,pubh,pubh,,,1
+Christopher Tietze,R. Armijo,18,1,pubh,pubh,,,1
+Christopher Tietze,J. Mayone Stycos,18,13,pubh,pubh,,,2
+Christopher Tietze,R. Delgado,18,1,pubh,pubh,,,1
+Christopher Tietze,O. Mendoza,18,1,pubh,pubh,,,1
+Christopher Tietze,R. O. Carleton,18,2,pubh,pubh,,,1
+Christopher Tietze,Everett S. Lee,18,6,pubh,demography,,Lee,1
+Christopher Tietze,J. Arias,18,3,pubh,pubh,,,1
+Christopher Tietze,F. Rath,18,1,pubh,pubh,,,1
+Christopher Tietze,Mindel C. Sheps,18,14,pubh,demography,,,1
+Christopher Tietze,R. Puffer,18,2,pubh,pubh,,,2
+Christopher Tietze,Donald J. Bogue,18,10,pubh,demography,,Bogue,1
+Christopher Tietze,M-F. Hall,18,2,pubh,pubh,,,1
+Christopher Tietze,Rolando Armijo,18,2,pubh,pubh,,,1
+Christopher Tietze,Tegualda Monreal,18,2,pubh,pubh,,,1
+Christopher Tietze,M. Requena B.,18,1,pubh,pubh,,,1
+Christopher Tietze,M-FrançOise Hall,18,2,pubh,pubh,,,1
+Charles F. Westoff,Christopher Tietze,24,18,famplan,pubh,Westoff,,1
+Christopher Tietze,Karl A. Smith,18,4,pubh,pubh,,,2
+Christopher Tietze,Sarah Lewit,18,10,pubh,demography,,,7
+Christopher Tietze,Sarah Lewitt,18,1,pubh,famplan,,,1
+David A. May,David M. Heer,1,14,demography,famplan,,,1
+John B. Wyon,Nadipuram R. Parthasarathy,3,1,pubh,demography,,,1
+Nadipuram R. Parthasarathy,Stephen L. Finner,1,1,demography,demography,,,1
+David M. Heer,Nadipuram R. Parthasarathy,14,1,famplan,demography,,,1
+John E. Gordon,Nadipuram R. Parthasarathy,3,1,pubh,demography,,,1
+Mildred B. Beck,Sidney H. Newman,1,1,famplan,famplan,,,1
+Mildred B. Beck,Sarah Lewit,1,10,famplan,demography,,,1
+John P. Wells,Joseph D. Beasley,1,10,famplan,famplan,,,1
+Jane A. Menken,Jeanne Clare Ridley,4,4,pubh,pubh,Menken,,2
+Jane A. Menken,Mindel C. Sheps,4,14,pubh,demography,Menken,,4
+Jane A. Menken,Joan W. Lingner,4,2,pubh,pubh,Menken,,2
+Annette P. Radick,Jane A. Menken,1,4,demography,pubh,,Menken,1
+Basil G. Zimmer,Calvin Goldscheider,2,4,demography,sociology,,,1
+A. K. Jain,Robert G. Potter,1,18,demography,famplan,,,1
+A. K. Jain,B. Mccann,1,1,demography,demography,,,1
+Elza S. Berquo,Imre Simon,1,1,pubh,pubh,,,1
+Imre Simon,Rubens M. Marques,1,1,pubh,pubh,,,1
+Imre Simon,Maria L. Milanesi,1,1,pubh,pubh,,,1
+Imre Simon,Jose S. Martins,1,1,pubh,pubh,,,1
+Eunice Pinho,Imre Simon,1,1,pubh,pubh,,,1
+Imre Simon,Irene B. Taeuber,1,12,pubh,pubh,,Taeuber,1
+Lee-Jay Cho,Lyle Saunders,5,2,famplan,demography,,,1
+James A. Palmore,Lyle Saunders,6,2,famplan,demography,,,1
+Lyle Saunders,Oscar Harkavy,2,5,demography,demography,,Harkavy,1
+Anna L. Southam,Lyle Saunders,1,2,demography,demography,,,1
+David P. Smith,Tae Ryong Kim,1,1,famplan,famplan,,,1
+David P. Smith,John A. Ross,1,11,famplan,demography,,,1
+Daniel R. Weintraub,Susan B. Wald,2,1,famplan,famplan,,,1
+Daniel R. Weintraub,Joy G. Dryfoos,2,7,famplan,famplan,,,1
+Daniel R. Weintraub,Frederick S. Jaffe,2,17,famplan,general,,,1
+Daniel R. Weintraub,Jean P. Cobb,2,1,famplan,famplan,,,1
+Carita Jo Bernsohn,Daniel R. Weintraub,1,2,famplan,famplan,,,1
+Charles B. Nam,Henry S. Shryock Jr.,3,1,sociology,sociology,Nam,Shryock,1
+Charles B. Nam,Susan O. Gustavus,3,3,sociology,famplan,Nam,,2
+Kyung Shik Chang,Peter H. Michael,2,2,famplan,famplan,,,2
+George C. Worth,Peter H. Michael,2,2,famplan,famplan,,,2
+Peter H. Michael,Walter B. Watson,2,3,famplan,sociology,,,1
+Elza S. Berquo,Irene B. Taeuber,1,12,pubh,pubh,,Taeuber,1
+Irene B. Taeuber,Rubens M. Marques,12,1,pubh,pubh,Taeuber,,1
+Irene B. Taeuber,Maria L. Milanesi,12,1,pubh,pubh,Taeuber,,1
+Irene B. Taeuber,Jose S. Martins,12,1,pubh,pubh,Taeuber,,1
+Eunice Pinho,Irene B. Taeuber,1,12,pubh,pubh,,Taeuber,1
+Imre Simon,Irene B. Taeuber,1,12,pubh,pubh,,Taeuber,1
+Irene B. Taeuber,Preston Valien,12,4,pubh,pubh,Taeuber,,2
+Irene B. Taeuber,Paul C. Glick,12,11,pubh,pubh,Taeuber,Glick,1
+Daniel O. Price,Irene B. Taeuber,7,12,demography,pubh,,Taeuber,3
+Irene B. Taeuber,Philip M. Hauser,12,16,pubh,demography,Taeuber,Hauser,3
+Donald J. Bogue,Irene B. Taeuber,10,12,demography,pubh,Bogue,Taeuber,1
+Irene B. Taeuber,Joseph D. Beasley,12,10,pubh,famplan,Taeuber,,2
+Daniel C. Thompson,Irene B. Taeuber,5,12,pubh,pubh,,Taeuber,2
+Irene B. Taeuber,Reynolds Farley,12,14,pubh,demography,Taeuber,Farley,4
+Irene B. Taeuber,Paul R. Williams,12,2,pubh,pubh,Taeuber,,1
+Irene B. Taeuber,Norman B. Ryder,12,19,pubh,famplan,Taeuber,Ryder,1
+Irene B. Taeuber,Karl E. Taeuber,12,9,pubh,sociology,Taeuber,,2
+Elliot Liebow,Irene B. Taeuber,5,12,pubh,pubh,,Taeuber,2
+G. Franklin Edwards,Irene B. Taeuber,4,12,pubh,pubh,,Taeuber,2
+Clyde V. Kiser,Irene B. Taeuber,7,12,pubh,pubh,Kiser,Taeuber,1
+Irene B. Taeuber,Joseph S. Himes,12,2,pubh,pubh,Taeuber,,1
+C. R. Lawrence,Irene B. Taeuber,2,12,pubh,pubh,,Taeuber,1
+Irene B. Taeuber,James E. Teele,12,4,pubh,pubh,Taeuber,,1
+Frank W. Notestein,Irene B. Taeuber,8,12,demography,pubh,Notestein,Taeuber,1
+Gino Germani,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+Donald J. Bogue,Ronald Freedman,10,33,demography,famplan,Bogue,Freedman,2
+D. S. Thomas,Ronald Freedman,2,33,pubh,famplan,,Freedman,1
+Ronald Freedman,T. K. Burch,33,2,famplan,pubh,Freedman,,2
+John D. Durand,Ronald Freedman,3,33,general,famplan,Durand,Freedman,1
+A. H. Neiva,Ronald Freedman,3,33,pubh,famplan,,Freedman,2
+J. C. Elizaga,Ronald Freedman,2,33,pubh,famplan,,Freedman,1
+Lolagene Coombs,Ronald Freedman,3,33,sociology,famplan,,Freedman,3
+Robert O. Carleton,Ronald Freedman,2,33,demography,famplan,,Freedman,1
+A. Lopez,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+C. V. Kiser,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+Lolagene C. Coombs,Ronald Freedman,8,33,demography,famplan,,Freedman,6
+Judith Friedman,Ronald Freedman,2,33,sociology,famplan,,Freedman,2
+Carmen Miro,Ronald Freedman,5,33,demography,famplan,,Freedman,1
+Ferdinand Rath,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+Arthur A. Campbell,Ronald Freedman,10,33,famplan,famplan,Campbell,Freedman,1
+Charles F. Westoff,Ronald Freedman,24,33,famplan,famplan,Westoff,Freedman,1
+G. PéRez,Ronald Freedman,1,33,pubh,famplan,,Freedman,1
+J. Mayone Stycos,Ronald Freedman,13,33,pubh,famplan,,Freedman,1
+Mindel C. Sheps,Ronald Freedman,14,33,demography,famplan,,Freedman,1
+F. E. Linder,Ronald Freedman,2,33,pubh,famplan,,Freedman,1
+M-F. Hall,Ronald Freedman,2,33,pubh,famplan,,Freedman,1
+David Goldberg,Ronald Freedman,1,33,demography,famplan,Goldberg,Freedman,1
+Larry Bumpass,Ronald Freedman,8,33,general,famplan,Bumpass,Freedman,3
+Otis Dudley Duncan,Ronald Freedman,8,33,sociology,famplan,Duncan,Freedman,1
+J. Michael Coble,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+Doris P. Slesinger,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+John Y. Takeshita,Ronald Freedman,4,33,demography,famplan,,Freedman,2
+Lien-Pin Chow,Ronald Freedman,2,33,pubh,famplan,,Freedman,2
+Robert G. Potter,Ronald Freedman,18,33,famplan,famplan,,Freedman,3
+Anrudh K. Jain,Ronald Freedman,6,33,pubh,famplan,,Freedman,3
+Albert I. Hermalin,Ronald Freedman,6,33,sociology,famplan,Hermalin,Freedman,2
+Arjun L. Adlakha,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+Lien-Ping Chow,Ronald Freedman,2,33,general,famplan,,Freedman,1
+Joanna Muller,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+Ronald Freedman,T. H. Sun,33,6,famplan,demography,Freedman,,2
+D. N. Namboothiri,Ronald Freedman,2,33,demography,famplan,,Freedman,2
+A. Adlakha,Ronald Freedman,2,33,demography,famplan,,Freedman,2
+K. C. Chan,Ronald Freedman,2,33,demography,famplan,,Freedman,2
+D. Narayanan Namboothiri,Ronald Freedman,1,33,demography,famplan,,Freedman,1
+Ronald Freedman,William F. Pratt,33,1,famplan,sociology,Freedman,,1
+Ming-Chen Chang,Ronald Freedman,1,33,famplan,famplan,,Freedman,1
+Roger Avery,Ronald Freedman,2,33,famplan,famplan,,Freedman,1
+Ming-Cheng Chang,Ronald Freedman,1,33,famplan,famplan,,Freedman,1
+Ronald Freedman,Te-Hsiung Sun,33,1,famplan,famplan,Freedman,,1
+Ronald Freedman,T. C. Hsu,33,2,famplan,demography,Freedman,,1
+M. C. Chang,Ronald Freedman,5,33,pubh,famplan,,Freedman,1
+Howard C. Taylor,Robert J. Lapham,1,4,famplan,demography,,,1
+J. D. Allingham,T. R. Balakrishnan,2,4,demography,demography,,,2
+J. D. Allingham,John F. Kantner,2,10,demography,demography,,Kantner,2
+Merlin B. Brinkerhoff,Phillip R. Kunz,2,3,demography,demography,,,1
+Brian L. Pitcher,Phillip R. Kunz,1,3,demography,demography,,,1
+Evan T. Peterson,Phillip R. Kunz,1,3,demography,demography,,,1
+Andre E. Hellegers,Gail A. Shea,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Thomas K. Burch,1,6,famplan,famplan,,,1
+Andre E. Hellegers,Gustavo Perez,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Miriam OrdoñEz,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Joseph Van Kemanade,1,1,famplan,famplan,,,1
+Andre E. Hellegers,Jan Hutjes,1,1,famplan,famplan,,,1
+Lolagene C. Coombs,William F. Pratt,8,1,demography,sociology,,,1
+Ronald Freedman,William F. Pratt,33,1,famplan,sociology,Freedman,,1
+Judith Friedman,William F. Pratt,2,1,sociology,sociology,,,1
+James A. Sweet,Larry L. Bumpass,5,4,famplan,sociology,,Bumpass,1
+James A. Sweet,Sarah Betsy Cohen,5,1,famplan,demography,,,1
+Charas Yamarat,Donald O. Cowgill,1,2,pubh,general,,,1
+Charas Yamarat,Srisomang Keovichit,1,1,pubh,pubh,,,1
+Charas Yamarat,Robert G. Burnight,1,1,pubh,pubh,,,1
+Charas Yamarat,J. Richard Udry,1,8,pubh,pubh,,Udry,1
+Jean Van Der Tak,Murray Gendell,1,5,demography,demography,,,1
+Myrna M. Weissman,Ruth Barnhouse-Beuscher,1,1,general,general,,,1
+Lewis C. Frank Jr.,Ruth Barnhouse-Beuscher,1,1,general,general,,,1
+Richard Reynolds,Ruth Barnhouse-Beuscher,2,1,general,general,,,1
+Ruth Barnhouse-Beuscher,Willard Johnson,1,1,general,general,,,1
+Judith Blake,Ruth Barnhouse-Beuscher,13,1,general,general,Blake,,1
+John D. Allingham,T. R. Balakrishnan,2,4,demography,demography,,,1
+John D. Allingham,John F. Kantner,2,10,demography,demography,,Kantner,1
+Chi Hoon Choi,Sook Bang,1,6,famplan,demography,,,1
+Chi Hoon Choi,Sang Whan Song,1,1,famplan,famplan,,,1
+Lee Jay Cho,Wilson H. Grabill,1,6,demography,demography,,,1
+J. D. Allingham,T. R. Balakrishnan,2,4,demography,demography,,,2
+John F. Kantner,T. R. Balakrishnan,10,4,demography,demography,Kantner,,3
+John D. Allingham,T. R. Balakrishnan,2,4,demography,demography,,,1
+Frank W. Notestein,Frederick W. Osborn,8,1,demography,pubh,Notestein,Osborn,1
+Frank W. Notestein,Karl E. Taeuber,8,9,demography,sociology,Notestein,,2
+Frank W. Notestein,James A. Jones,8,1,demography,pubh,Notestein,,1
+Frank W. Notestein,Jessie S. Bernard,8,2,demography,pubh,Notestein,,1
+Frank W. Notestein,Paul C. Glick,8,11,demography,pubh,Notestein,Glick,1
+C. R. Lawrence,Frank W. Notestein,2,8,pubh,demography,,Notestein,2
+Frank W. Notestein,W. Parker Mauldin,8,7,demography,pubh,Notestein,Mauldin,1
+Donald J. Bogue,Frank W. Notestein,10,8,demography,demography,Bogue,Notestein,2
+Elliot Liebow,Frank W. Notestein,5,8,pubh,demography,,Notestein,2
+Frank W. Notestein,Philip M. Hauser,8,16,demography,demography,Notestein,Hauser,3
+Edwin D. Driver,Frank W. Notestein,7,8,demography,demography,,Notestein,2
+Frank W. Notestein,G. Franklin Edwards,8,4,demography,pubh,Notestein,,2
+Frank W. Notestein,Joseph D. Beasley,8,10,demography,famplan,Notestein,,1
+Daniel O. Price,Frank W. Notestein,7,8,demography,demography,,Notestein,3
+Frank W. Notestein,James E. Teele,8,4,demography,pubh,Notestein,,2
+Frank W. Notestein,Joseph S. Himes,8,2,demography,pubh,Notestein,,1
+Frank W. Notestein,Preston Valien,8,4,demography,pubh,Notestein,,1
+Daniel C. Thompson,Frank W. Notestein,5,8,pubh,demography,,Notestein,2
+Frank W. Notestein,Reynolds Farley,8,14,demography,demography,Notestein,Farley,1
+Frank W. Notestein,Irene B. Taeuber,8,12,demography,pubh,Notestein,Taeuber,1
+Carl L. Harter,Frank W. Notestein,6,8,demography,demography,,Notestein,1
+Frank W. Notestein,Norman B. Ryder,8,19,demography,famplan,Notestein,Ryder,1
+Frank W. Notestein,Paul B. Cornely,8,1,demography,pubh,Notestein,,1
+C. V. Willie,Frank W. Notestein,3,8,pubh,demography,,Notestein,1
+Frank W. Notestein,Karl A. Smith,8,4,demography,pubh,Notestein,,1
+Charles B. Nam,Susan O. Gustavus,3,3,sociology,famplan,Nam,,2
+Carmen Miro,Walter Mertens,5,2,demography,demography,,,1
+Kingsley Davis,Walter Mertens,3,2,demography,demography,Davis,,1
+Reynolds Farley,Sarah Hobbs,14,1,demography,demography,Farley,,1
+Halliman H. Winsborough,Reynolds Farley,1,14,demography,demography,,Farley,1
+Karl E. Taeuber,Reynolds Farley,9,14,sociology,demography,,Farley,4
+Albert I. Hermalin,Reynolds Farley,6,14,sociology,demography,Hermalin,Farley,2
+Preston Valien,Reynolds Farley,4,14,pubh,demography,,Farley,3
+Irene B. Taeuber,Reynolds Farley,12,14,pubh,demography,Taeuber,Farley,4
+Paul C. Glick,Reynolds Farley,11,14,pubh,demography,Glick,Farley,1
+Daniel O. Price,Reynolds Farley,7,14,demography,demography,,Farley,4
+Philip M. Hauser,Reynolds Farley,16,14,demography,demography,Hauser,Farley,5
+Donald J. Bogue,Reynolds Farley,10,14,demography,demography,Bogue,Farley,1
+Joseph D. Beasley,Reynolds Farley,10,14,famplan,demography,,Farley,3
+Daniel C. Thompson,Reynolds Farley,5,14,pubh,demography,,Farley,3
+Paul R. Williams,Reynolds Farley,2,14,pubh,demography,,Farley,3
+Norman B. Ryder,Reynolds Farley,19,14,famplan,demography,Ryder,Farley,2
+Elliot Liebow,Reynolds Farley,5,14,pubh,demography,,Farley,4
+G. Franklin Edwards,Reynolds Farley,4,14,pubh,demography,,Farley,3
+Clyde V. Kiser,Reynolds Farley,7,14,pubh,demography,Kiser,Farley,2
+Reynolds Farley,Reynolds Farley,14,14,demography,demography,Farley,Farley,1
+Joseph S. Himes,Reynolds Farley,2,14,pubh,demography,,Farley,1
+C. R. Lawrence,Reynolds Farley,2,14,pubh,demography,,Farley,1
+James E. Teele,Reynolds Farley,4,14,pubh,demography,,Farley,2
+Frank W. Notestein,Reynolds Farley,8,14,demography,demography,Notestein,Farley,1
+Jessie S. Bernard,Reynolds Farley,2,14,pubh,demography,,Farley,1
+Edwin D. Driver,Reynolds Farley,7,14,demography,demography,,Farley,1
+Harriet B. Presser,Reynolds Farley,7,14,pubh,demography,Presser,Farley,1
+C. V. Willie,Reynolds Farley,3,14,pubh,demography,,Farley,1
+Charles B. Arnold,Reynolds Farley,3,14,famplan,demography,,Farley,1
+Margaret Parker,Robert G. Potter,1,18,demography,famplan,,,1
+John B. Wyon,Margaret Parker,3,1,pubh,demography,,,1
+John E. Gordon,Margaret Parker,3,1,pubh,demography,,,1
+Calvin F. Schmid,Charles E. Nobbe,3,3,sociology,sociology,Schmid,,2
+M. Subbiah,Shamsuddin Bin Abdul Rahman,1,2,famplan,famplan,,,1
+M. Subbiah,Tan Boon Ann,1,5,famplan,demography,,,1
+Loh Sow Khin,M. Subbiah,1,1,famplan,famplan,,,1
+M. Subbiah,Yusof Bakar,1,1,famplan,famplan,,,1
+J. Mayone Stycos,O. Mendoza,13,1,pubh,pubh,,,1
+O. Mendoza,R. Delgado,1,1,pubh,pubh,,,1
+O. Mendoza,R. O. Carleton,1,2,pubh,pubh,,,1
+Everett S. Lee,O. Mendoza,6,1,demography,pubh,Lee,,1
+Christopher Tietze,O. Mendoza,18,1,pubh,pubh,,,1
+J. Arias,O. Mendoza,3,1,pubh,pubh,,,1
+F. Rath,O. Mendoza,1,1,pubh,pubh,,,1
+Mindel C. Sheps,O. Mendoza,14,1,demography,pubh,,,1
+O. Mendoza,R. Puffer,1,2,pubh,pubh,,,1
+Donald J. Bogue,O. Mendoza,10,1,demography,pubh,Bogue,,1
+M-F. Hall,O. Mendoza,2,1,pubh,pubh,,,1
+Frank Lorimer,Vasilios Valaoras,2,1,pubh,pubh,Lorimer,,1
+Carmen Miro,Vasilios Valaoras,5,1,demography,pubh,,,1
+Vasilios Valaoras,Wilson H. Grabill,1,6,pubh,demography,,,1
+Lolagene C. Coombs,Ronald Freedman,8,33,demography,famplan,,Freedman,6
+Judith Friedman,Lolagene C. Coombs,2,8,sociology,demography,,,2
+Larry Bumpass,Lolagene C. Coombs,8,8,general,demography,Bumpass,,1
+Lolagene C. Coombs,William F. Pratt,8,1,demography,sociology,,,1
+Lolagene C. Coombs,Ming-Chen Chang,8,1,demography,famplan,,,1
+Lolagene C. Coombs,Ming-Cheng Chang,8,1,demography,famplan,,,1
+Lolagene C. Coombs,Te-Hsiung Sun,8,1,demography,famplan,,,1
+F. L. Chen,M. C. Chang,1,5,famplan,pubh,,,1
+F. L. Chen,T. H. Sun,1,6,famplan,demography,,,1
+F. L. Chen,George P. Cernada,1,6,famplan,famplan,,,1
+Gavin Jones,Paul Gingrich,4,2,demography,demography,,,1
+Dorothy Nortman,Gavin Jones,3,4,economics,demography,,,1
+Chitt Hemachudha,Gavin Jones,2,4,famplan,demography,,,1
+Gavin Jones,Winich Asavasena,4,4,demography,famplan,,,1
+Gavin Jones,Somsak Varakamin,4,2,demography,famplan,,,1
+Allan G. Rosenfield,Gavin Jones,7,4,famplan,demography,,,1
+Gavin Jones,J. Oscar Alers,4,3,demography,demography,,,1
+Gavin Jones,N. Iskandar,4,1,demography,famplan,,,1
+Evelyne Lapierre-Adamcyk,Thomas K. Burch,1,6,famplan,famplan,,,1
+Allan G. Rosenfield,Jumroon Mikhanorn,7,1,famplan,famplan,,,1
+Jumroon Mikhanorn,Winich Asavasena,1,4,famplan,famplan,,,1
+Christopher Tietze,Karl A. Smith,18,4,pubh,pubh,,,2
+Joseph D. Beasley,Karl A. Smith,10,4,famplan,pubh,,,1
+Karl A. Smith,Ralph F. Frankowski,4,3,pubh,famplan,,,1
+Gwendolyn Z. Johnson,Karl A. Smith,1,4,pubh,pubh,,,1
+Joseph S. Himes,Karl A. Smith,2,4,pubh,pubh,,,1
+Karl A. Smith,P. B. Cornely,4,1,pubh,pubh,,,1
+G. Franklin Edwards,Karl A. Smith,4,4,pubh,pubh,,,1
+Karl A. Smith,Preston Valien,4,4,pubh,pubh,,,1
+Charles B. Arnold,Karl A. Smith,3,4,famplan,pubh,,,1
+Donald J. Bogue,Karl A. Smith,10,4,demography,pubh,Bogue,,1
+Edwin D. Driver,Karl A. Smith,7,4,demography,pubh,,,1
+Carl L. Harter,Karl A. Smith,6,4,demography,pubh,,,1
+Karl A. Smith,Norman B. Ryder,4,19,pubh,famplan,,Ryder,1
+Karl A. Smith,Paul B. Cornely,4,1,pubh,pubh,,,1
+Daniel C. Thompson,Karl A. Smith,5,4,pubh,pubh,,,1
+C. V. Willie,Karl A. Smith,3,4,pubh,pubh,,,1
+Karl A. Smith,Philip M. Hauser,4,16,pubh,demography,,Hauser,1
+Frank W. Notestein,Karl A. Smith,8,4,demography,pubh,Notestein,,1
+Daniel O. Price,Karl A. Smith,7,4,demography,pubh,,,1
+Paul C. Glick,Walt Saveland,11,1,pubh,demography,Glick,,1
+J. Y. Peng,John Y. Takeshita,4,4,famplan,demography,,,1
+John A. Ross,John Y. Takeshita,11,4,demography,demography,,,1
+John Y. Takeshita,Ronald Freedman,4,33,demography,famplan,,Freedman,2
+Albert I. Hermalin,John Y. Takeshita,6,4,sociology,demography,Hermalin,,1
+John Y. Takeshita,Tan Boon Ann,4,5,demography,demography,,,1
+John Y. Takeshita,Lois M. Verbrugge,4,1,demography,famplan,,,1
+Alma F. Taeuber,Karl E. Taeuber,2,9,demography,sociology,,,2
+Robert Schoen,Verne E. Nelson,2,2,demography,demography,,,1
+Samuel H. Preston,Verne E. Nelson,6,2,statistics,demography,Preston,,1
+Paul Demeny,T. Paul Schultz,6,3,famplan,demography,Demeny,,1
+Donald J. Bogue,Gino Germani,10,1,demography,pubh,Bogue,,1
+D. S. Thomas,Donald J. Bogue,2,10,pubh,demography,,Bogue,1
+Donald J. Bogue,Ronald Freedman,10,33,demography,famplan,Bogue,Freedman,2
+Donald J. Bogue,T. K. Burch,10,2,demography,pubh,Bogue,,2
+Donald J. Bogue,John D. Durand,10,3,demography,general,Bogue,Durand,1
+A. H. Neiva,Donald J. Bogue,3,10,pubh,demography,,Bogue,3
+Donald J. Bogue,J. C. Elizaga,10,2,demography,pubh,Bogue,,2
+Donald J. Bogue,Louis J. Ducoff,10,1,demography,pubh,Bogue,,1
+Donald J. Bogue,J. Arias,10,3,demography,pubh,Bogue,,2
+Donald J. Bogue,Everett S. Lee,10,6,demography,demography,Bogue,Lee,2
+Carmen Miro,Donald J. Bogue,5,10,demography,demography,,Bogue,1
+Donald J. Bogue,Ferdinand Rath,10,1,demography,pubh,Bogue,,1
+Arthur A. Campbell,Donald J. Bogue,10,10,famplan,demography,Campbell,Bogue,1
+Charles F. Westoff,Donald J. Bogue,24,10,famplan,demography,Westoff,Bogue,1
+Donald J. Bogue,G. PéRez,10,1,demography,pubh,Bogue,,1
+Donald J. Bogue,J. Mayone Stycos,10,13,demography,pubh,Bogue,,2
+Donald J. Bogue,Mindel C. Sheps,10,14,demography,demography,Bogue,,2
+Donald J. Bogue,F. E. Linder,10,2,demography,pubh,Bogue,,1
+Donald J. Bogue,M-F. Hall,10,2,demography,pubh,Bogue,,2
+Donald J. Bogue,R. Delgado,10,1,demography,pubh,Bogue,,1
+Donald J. Bogue,O. Mendoza,10,1,demography,pubh,Bogue,,1
+Donald J. Bogue,R. O. Carleton,10,2,demography,pubh,Bogue,,1
+Christopher Tietze,Donald J. Bogue,18,10,pubh,demography,,Bogue,1
+Donald J. Bogue,F. Rath,10,1,demography,pubh,Bogue,,1
+Donald J. Bogue,R. Puffer,10,2,demography,pubh,Bogue,,1
+B. Mariano Requena,Donald J. Bogue,2,10,pubh,demography,,Bogue,1
+Donald J. Bogue,Tegualda Monreal,10,2,demography,pubh,Bogue,,1
+Donald J. Bogue,Preston Valien,10,4,demography,pubh,Bogue,,1
+Donald J. Bogue,Irene B. Taeuber,10,12,demography,pubh,Bogue,Taeuber,1
+Donald J. Bogue,Paul C. Glick,10,11,demography,pubh,Bogue,Glick,2
+Daniel O. Price,Donald J. Bogue,7,10,demography,demography,,Bogue,3
+Donald J. Bogue,Philip M. Hauser,10,16,demography,demography,Bogue,Hauser,3
+Donald J. Bogue,Joseph D. Beasley,10,10,demography,famplan,Bogue,,2
+Daniel C. Thompson,Donald J. Bogue,5,10,pubh,demography,,Bogue,2
+Donald J. Bogue,Reynolds Farley,10,14,demography,demography,Bogue,Farley,1
+Donald J. Bogue,Karl E. Taeuber,10,9,demography,sociology,Bogue,,1
+Donald J. Bogue,James A. Jones,10,1,demography,pubh,Bogue,,1
+Donald J. Bogue,Jessie S. Bernard,10,2,demography,pubh,Bogue,,1
+Donald J. Bogue,Frank W. Notestein,10,8,demography,demography,Bogue,Notestein,2
+C. R. Lawrence,Donald J. Bogue,2,10,pubh,demography,,Bogue,1
+Donald J. Bogue,W. Parker Mauldin,10,7,demography,pubh,Bogue,Mauldin,1
+Donald J. Bogue,Elliot Liebow,10,5,demography,pubh,Bogue,,1
+Donald J. Bogue,Edwin D. Driver,10,7,demography,demography,Bogue,,2
+Donald J. Bogue,G. Franklin Edwards,10,4,demography,pubh,Bogue,,1
+Donald J. Bogue,James E. Teele,10,4,demography,pubh,Bogue,,1
+Carl L. Harter,Donald J. Bogue,6,10,demography,demography,,Bogue,1
+Donald J. Bogue,Norman B. Ryder,10,19,demography,famplan,Bogue,Ryder,1
+Donald J. Bogue,Paul B. Cornely,10,1,demography,pubh,Bogue,,1
+C. V. Willie,Donald J. Bogue,3,10,pubh,demography,,Bogue,1
+Donald J. Bogue,Karl A. Smith,10,4,demography,pubh,Bogue,,1
+Ann Fischer,Carl L. Harter,1,6,demography,demography,,,1
+Carl L. Harter,Joseph D. Beasley,6,10,demography,famplan,,,1
+Carl L. Harter,Vestal W. Parrish Jr.,6,1,demography,demography,,,1
+Carl L. Harter,Janice Roussel,6,1,demography,pubh,,,1
+Carl L. Harter,Charles F. Westoff,6,24,demography,famplan,,Westoff,1
+Carl L. Harter,Norman B. Ryder,6,19,demography,famplan,,Ryder,2
+C. V. Willie,Carl L. Harter,3,6,pubh,demography,,,2
+Carl L. Harter,Philip M. Hauser,6,16,demography,demography,,Hauser,2
+Arthur A. Campbell,Carl L. Harter,10,6,famplan,demography,Campbell,,1
+Carl L. Harter,Elliot Liebow,6,5,demography,pubh,,,1
+Carl L. Harter,Donald J. Bogue,6,10,demography,demography,,Bogue,1
+Carl L. Harter,Edwin D. Driver,6,7,demography,demography,,,1
+Carl L. Harter,Paul B. Cornely,6,1,demography,pubh,,,1
+Carl L. Harter,Daniel C. Thompson,6,5,demography,pubh,,,1
+Carl L. Harter,Frank W. Notestein,6,8,demography,demography,,Notestein,1
+Carl L. Harter,Daniel O. Price,6,7,demography,demography,,,1
+Carl L. Harter,Karl A. Smith,6,4,demography,pubh,,,1
+George P. Cernada,Tessie Huang,6,1,famplan,famplan,,,1
+Harriet B. Presser,Larry L. Bumpass,7,4,pubh,sociology,Presser,Bumpass,2
+Elliot Liebow,Harriet B. Presser,5,7,pubh,pubh,,Presser,1
+Harriet B. Presser,Jessie S. Bernard,7,2,pubh,pubh,Presser,,1
+Harriet B. Presser,Philip M. Hauser,7,16,pubh,demography,Presser,Hauser,1
+Harriet B. Presser,Preston Valien,7,4,pubh,pubh,Presser,,1
+Harriet B. Presser,Reynolds Farley,7,14,pubh,demography,Presser,Farley,1
+Edwin D. Driver,Harriet B. Presser,7,7,demography,pubh,,Presser,1
+Harriet B. Presser,Paul R. Williams,7,2,pubh,pubh,Presser,,1
+Harriet B. Presser,James E. Teele,7,4,pubh,pubh,Presser,,1
+Daniel C. Thompson,Harriet B. Presser,5,7,pubh,pubh,,Presser,1
+C. V. Willie,Harriet B. Presser,3,7,pubh,pubh,,Presser,1
+Charles B. Arnold,Harriet B. Presser,3,7,famplan,pubh,,Presser,1
+Enver Adil,J. Gilbert Hardee,2,3,demography,famplan,,,1
+J. Gilbert Hardee,Nafis Sadik,3,1,famplan,famplan,,,1
+J. Gilbert Hardee,Shamsuddin Bin Abdul Rahman,3,2,famplan,famplan,,,1
+J. Gilbert Hardee,Tan Boon Ann,3,5,famplan,demography,,,2
+Ariffin Bin Marzuki,J. Gilbert Hardee,5,3,demography,famplan,,,1
+Hew Wai Sin,J. Gilbert Hardee,1,3,famplan,famplan,,,1
+Frederick S. Jaffe,Marsha Corey,17,2,general,famplan,,,1
+Joy G. Dryfoos,Marsha Corey,7,2,famplan,famplan,,,1
+Jeanne Clare Ridley,Mindel C. Sheps,4,14,pubh,demography,,,3
+Jeanne Clare Ridley,Joan W. Lingner,4,2,pubh,pubh,,,2
+Jane A. Menken,Jeanne Clare Ridley,4,4,pubh,pubh,Menken,,2
+J. Mayone Stycos,R. Puffer,13,2,pubh,pubh,,,1
+R. Delgado,R. Puffer,1,2,pubh,pubh,,,1
+O. Mendoza,R. Puffer,1,2,pubh,pubh,,,1
+R. O. Carleton,R. Puffer,2,2,pubh,pubh,,,1
+Everett S. Lee,R. Puffer,6,2,demography,pubh,Lee,,1
+Christopher Tietze,R. Puffer,18,2,pubh,pubh,,,2
+J. Arias,R. Puffer,3,2,pubh,pubh,,,1
+F. Rath,R. Puffer,1,2,pubh,pubh,,,1
+Mindel C. Sheps,R. Puffer,14,2,demography,pubh,,,1
+Donald J. Bogue,R. Puffer,10,2,demography,pubh,Bogue,,1
+M-F. Hall,R. Puffer,2,2,pubh,pubh,,,1
+R. Puffer,Rolando Armijo,2,2,pubh,pubh,,,1
+R. Puffer,Tegualda Monreal,2,2,pubh,pubh,,,1
+M. Requena B.,R. Puffer,1,2,pubh,pubh,,,1
+George Worth,Walter Watson,2,1,famplan,famplan,,,1
+George Worth,Walter B. Watson,2,3,famplan,sociology,,,1
+Dae Woo Han,George Worth,2,2,famplan,famplan,,,1
+George Worth,O. D. Finnigan,2,1,famplan,famplan,,,1
+George Worth,S. M. Keeny,2,4,famplan,famplan,,,1
+Chi I-Cheng,L. P. Chow,1,10,famplan,famplan,,,1
+Chi I-Cheng,Rowland V. Rider,1,4,famplan,demography,,,1
+James A. Palmore,Robert E. Klein,6,1,famplan,sociology,,,1
+Ariffin Bin Marzuki,Robert E. Klein,5,1,demography,sociology,,,1
+Edward B. Perrin,Mindel C. Sheps,1,14,eugenics,demography,,,1
+Kurt B. Mayer,Sidney Goldstein,2,8,demography,pubh,,Goldstein,1
+Calvin Goldscheider,Sidney Goldstein,4,8,sociology,pubh,,Goldstein,1
+Lewis C. Frank Jr.,Myrna M. Weissman,1,1,general,general,,,1
+Myrna M. Weissman,Richard Reynolds,1,2,general,general,,,1
+Myrna M. Weissman,Willard Johnson,1,1,general,general,,,1
+Myrna M. Weissman,Ruth Barnhouse-Beuscher,1,1,general,general,,,1
+Judith Blake,Myrna M. Weissman,13,1,general,general,Blake,,1
+James A. Palmore,Paul M. Hirsch,6,1,famplan,demography,,,1
+Ariffin Bin Marzuki,Paul M. Hirsch,5,1,demography,demography,,,1
+Charles L. Chase,J. Richard Udry,2,8,demography,pubh,,Udry,2
+Charles L. Chase,Lydia T. Clark,2,1,demography,famplan,,,1
+Charles L. Chase,Marvin Levy,2,1,demography,famplan,,,1
+Charles L. Chase,Karl E. Bauman,2,6,demography,demography,,,1
+Jeanne Clare Ridley,Joan W. Lingner,4,2,pubh,pubh,,,2
+Joan W. Lingner,Mindel C. Sheps,2,14,pubh,demography,,,2
+Jane A. Menken,Joan W. Lingner,4,2,pubh,pubh,Menken,,2
+Calvin F. Schmid,Charles E. Nobbe,3,3,sociology,sociology,Schmid,,2
+Charles E. Nobbe,G. Edward Ebanks,3,2,sociology,demography,,,1
+Charles E. Nobbe,P. M. George,3,1,sociology,demography,,,1
+C. Horace Hamilton,Elizabeth M. Suval,4,1,sociology,sociology,Hamilton,,1
+David M. Heer,Thomas P. Monahan,14,3,famplan,demography,,,1
+Frank W. Notestein,Frederick W. Osborn,8,1,demography,pubh,Notestein,Osborn,1
+Elza S. Berquo,Maria L. Milanesi,1,1,pubh,pubh,,,1
+Maria L. Milanesi,Rubens M. Marques,1,1,pubh,pubh,,,1
+Jose S. Martins,Maria L. Milanesi,1,1,pubh,pubh,,,1
+Eunice Pinho,Maria L. Milanesi,1,1,pubh,pubh,,,1
+Imre Simon,Maria L. Milanesi,1,1,pubh,pubh,,,1
+Irene B. Taeuber,Maria L. Milanesi,12,1,pubh,pubh,Taeuber,,1
+Daniel C. Thompson,Preston Valien,5,4,pubh,pubh,,,3
+Daniel C. Thompson,Irene B. Taeuber,5,12,pubh,pubh,,Taeuber,2
+Daniel C. Thompson,Paul C. Glick,5,11,pubh,pubh,,Glick,1
+Daniel C. Thompson,Daniel O. Price,5,7,pubh,demography,,,3
+Daniel C. Thompson,Philip M. Hauser,5,16,pubh,demography,,Hauser,5
+Daniel C. Thompson,Donald J. Bogue,5,10,pubh,demography,,Bogue,2
+Daniel C. Thompson,Joseph D. Beasley,5,10,pubh,famplan,,,1
+Daniel C. Thompson,Reynolds Farley,5,14,pubh,demography,,Farley,3
+Daniel C. Thompson,James E. Teele,5,4,pubh,pubh,,,3
+Daniel C. Thompson,William M. Schmidt,5,1,pubh,pubh,,,1
+Arthur A. Campbell,Daniel C. Thompson,10,5,famplan,pubh,Campbell,,1
+Daniel C. Thompson,Norman B. Ryder,5,19,pubh,famplan,,Ryder,2
+Daniel C. Thompson,Edwin D. Driver,5,7,pubh,demography,,,3
+Daniel C. Thompson,Joseph S. Himes,5,2,pubh,pubh,,,1
+C. R. Lawrence,Daniel C. Thompson,2,5,pubh,pubh,,,1
+Daniel C. Thompson,G. Franklin Edwards,5,4,pubh,pubh,,,1
+Daniel C. Thompson,Karl E. Taeuber,5,9,pubh,sociology,,,1
+Daniel C. Thompson,Frank W. Notestein,5,8,pubh,demography,,Notestein,2
+Daniel C. Thompson,Elliot Liebow,5,5,pubh,pubh,,,2
+Carl L. Harter,Daniel C. Thompson,6,5,demography,pubh,,,1
+Daniel C. Thompson,Paul B. Cornely,5,1,pubh,pubh,,,1
+C. V. Willie,Daniel C. Thompson,3,5,pubh,pubh,,,2
+Daniel C. Thompson,Karl A. Smith,5,4,pubh,pubh,,,1
+Daniel C. Thompson,Jessie S. Bernard,5,2,pubh,pubh,,,1
+Daniel C. Thompson,Paul R. Williams,5,2,pubh,pubh,,,1
+Daniel C. Thompson,Harriet B. Presser,5,7,pubh,pubh,,Presser,1
+Charles B. Arnold,Daniel C. Thompson,3,5,famplan,pubh,,,1
+Maria Nydia Maraviglia,Murray Gendell,1,5,demography,demography,,,1
+Murray Gendell,Philip C. Kreitner,5,1,demography,demography,,,1
+Murray Gendell,Robert G. Potter,5,18,demography,famplan,,,1
+G. Stephan Masnick,Murray Gendell,1,5,demography,demography,,,1
+Murray Gendell,Thomas K. Burch,5,6,demography,famplan,,,1
+Jean Van Der Tak,Murray Gendell,1,5,demography,demography,,,1
+James E. Teele,William M. Schmidt,4,1,pubh,pubh,,,1
+Arthur A. Campbell,James E. Teele,10,4,famplan,pubh,Campbell,,1
+James E. Teele,Norman B. Ryder,4,19,pubh,famplan,,Ryder,1
+James E. Teele,Philip M. Hauser,4,16,pubh,demography,,Hauser,4
+Daniel C. Thompson,James E. Teele,5,4,pubh,pubh,,,3
+Edwin D. Driver,James E. Teele,7,4,demography,pubh,,,3
+James E. Teele,Karl E. Taeuber,4,9,pubh,sociology,,,2
+James A. Jones,James E. Teele,1,4,pubh,pubh,,,1
+James E. Teele,Jessie S. Bernard,4,2,pubh,pubh,,,2
+James E. Teele,Paul C. Glick,4,11,pubh,pubh,,Glick,1
+Frank W. Notestein,James E. Teele,8,4,demography,pubh,Notestein,,2
+C. R. Lawrence,James E. Teele,2,4,pubh,pubh,,,2
+James E. Teele,W. Parker Mauldin,4,7,pubh,pubh,,Mauldin,1
+Donald J. Bogue,James E. Teele,10,4,demography,pubh,Bogue,,1
+Elliot Liebow,James E. Teele,5,4,pubh,pubh,,,3
+G. Franklin Edwards,James E. Teele,4,4,pubh,pubh,,,2
+James E. Teele,Joseph D. Beasley,4,10,pubh,famplan,,,1
+Daniel O. Price,James E. Teele,7,4,demography,pubh,,,2
+James E. Teele,Joseph S. Himes,4,2,pubh,pubh,,,1
+James E. Teele,Preston Valien,4,4,pubh,pubh,,,2
+James E. Teele,Reynolds Farley,4,14,pubh,demography,,Farley,2
+Irene B. Taeuber,James E. Teele,12,4,pubh,pubh,Taeuber,,1
+James E. Teele,Paul R. Williams,4,2,pubh,pubh,,,1
+Harriet B. Presser,James E. Teele,7,4,pubh,pubh,Presser,,1
+C. V. Willie,James E. Teele,3,4,pubh,pubh,,,1
+Charles B. Arnold,James E. Teele,3,4,famplan,pubh,,,1
+Frederick S. Jaffe,George Varky,17,1,general,famplan,,,1
+George Varky,Joy G. Dryfoos,1,7,famplan,famplan,,,1
+John B. Wyon,Robert G. Potter,3,18,pubh,famplan,,,2
+John B. Wyon,Mary L. New,3,1,pubh,pubh,,,1
+John B. Wyon,John E. Gordon,3,3,pubh,pubh,,,3
+John B. Wyon,Stephen L. Finner,3,1,pubh,demography,,,1
+David M. Heer,John B. Wyon,14,3,famplan,pubh,,,1
+John B. Wyon,Nadipuram R. Parthasarathy,3,1,pubh,demography,,,1
+John B. Wyon,Margaret Parker,3,1,pubh,demography,,,1
+John C. Cobb,Paul A. Harper,1,3,famplan,famplan,,,1
+Harry M. Raulet,Paul A. Harper,2,3,demography,famplan,,,1
+Paul A. Harper,Rowland V. Rider,3,4,famplan,demography,,,3
+Paul A. Harper,Paul White,3,1,famplan,famplan,,,1
+A. Rasheed Ghazi,Paul A. Harper,1,3,famplan,famplan,,,1
+Mo-Im Kim,Paul A. Harper,1,3,demography,famplan,,,1
+Jae-Mo Yang,Paul A. Harper,1,3,demography,famplan,,,1
+Donald W. Helbig,Paul A. Harper,1,3,demography,famplan,,,1
+Habib R. Siddiqui,Paul A. Harper,1,3,demography,famplan,,,1
+Paul A. Harper,Samuel B. Hopkins,3,1,famplan,demography,,,1
+George S. Masnick,Robert G. Potter,1,18,demography,famplan,,,1
+John F. Kantner,Philip R. Kunz,10,1,demography,demography,Kantner,,1
+Melvin Zelnik,Philip R. Kunz,10,1,demography,demography,,,1
+Merlin B. Brinkerhoff,Philip R. Kunz,2,1,demography,demography,,,1
+Clark E. Vincent,Philip R. Kunz,1,1,demography,demography,,,1
+Carl M. Cochrane,Philip R. Kunz,1,1,demography,demography,,,1
+C. Allen Haney,Philip R. Kunz,1,1,demography,demography,,,1
+Gavin W. Jones,W. Parker Mauldin,1,7,famplan,pubh,,Mauldin,1
+George P. Cernada,Laura P. Lu,6,1,famplan,famplan,,,1
+Arthur A. Campbell,Bernard Berelson,10,6,famplan,demography,Campbell,Berelson,1
+Gavin Jones,N. Iskandar,4,1,demography,famplan,,,1
+Charles B. Arnold,Sylvain Fribourg,3,1,famplan,famplan,,,1
+Ann R. Sauls,Sylvain Fribourg,1,1,famplan,famplan,,,1
+Millard B. Bethel,Sylvain Fribourg,1,1,famplan,famplan,,,1
+Mary L. New,Robert G. Potter,1,18,pubh,famplan,,,1
+John B. Wyon,Robert G. Potter,3,18,pubh,famplan,,,2
+John E. Gordon,Robert G. Potter,3,18,pubh,famplan,,,2
+Margaret Parker,Robert G. Potter,1,18,demography,famplan,,,1
+James M. Sakoda,Robert G. Potter,3,18,pubh,famplan,,,3
+Lien-Pin Chow,Robert G. Potter,2,18,pubh,famplan,,,2
+Robert G. Potter,Ronald Freedman,18,33,famplan,famplan,,Freedman,3
+Anrudh K. Jain,Robert G. Potter,6,18,pubh,famplan,,,2
+Lien-Ping Chow,Robert G. Potter,2,18,general,famplan,,,1
+George S. Masnick,Robert G. Potter,1,18,demography,famplan,,,1
+G. Stephan Masnick,Robert G. Potter,1,18,demography,famplan,,,1
+Murray Gendell,Robert G. Potter,5,18,demography,famplan,,,1
+A. K. Jain,Robert G. Potter,1,18,demography,famplan,,,1
+B. Mccann,Robert G. Potter,1,18,demography,famplan,,,1
+A. Perez,Robert G. Potter,1,18,demography,famplan,,,1
+P. Vela,Robert G. Potter,1,18,demography,famplan,,,1
+G. S. Masnick,Robert G. Potter,2,18,demography,famplan,,,1
+P. S. K. Chi,Robert G. Potter,1,18,demography,famplan,,,1
+J. M. Sakoda,Robert G. Potter,1,18,demography,famplan,,,1
+Barbara Mc Cann,Robert G. Potter,1,18,pubh,famplan,,,1
+J. Y. Peng,John Y. Takeshita,4,4,famplan,demography,,,1
+J. Y. Peng,John A. Ross,4,11,famplan,demography,,,1
+J. Y. Peng,L. P. Chow,4,10,famplan,famplan,,,2
+J. Y. Peng,Silvia Pedraza,4,1,famplan,famplan,,,1
+J. Y. Peng,Roger Avery,4,2,famplan,famplan,,,1
+J. Y. Peng,Leslie Corsa Jr.,4,2,famplan,pubh,,,1
+Daniel O. Price,Preston Valien,7,4,demography,pubh,,,2
+Daniel O. Price,Irene B. Taeuber,7,12,demography,pubh,,Taeuber,3
+Daniel O. Price,Paul C. Glick,7,11,demography,pubh,,Glick,2
+Daniel O. Price,Philip M. Hauser,7,16,demography,demography,,Hauser,5
+Daniel O. Price,Donald J. Bogue,7,10,demography,demography,,Bogue,3
+Daniel O. Price,Joseph D. Beasley,7,10,demography,famplan,,,3
+Daniel C. Thompson,Daniel O. Price,5,7,pubh,demography,,,3
+Daniel O. Price,Reynolds Farley,7,14,demography,demography,,Farley,4
+Daniel O. Price,Paul R. Williams,7,2,demography,pubh,,,1
+Daniel O. Price,Norman B. Ryder,7,19,demography,famplan,,Ryder,2
+Daniel O. Price,Karl E. Taeuber,7,9,demography,sociology,,,3
+Daniel O. Price,Elliot Liebow,7,5,demography,pubh,,,3
+Daniel O. Price,G. Franklin Edwards,7,4,demography,pubh,,,3
+Clyde V. Kiser,Daniel O. Price,7,7,pubh,demography,Kiser,,1
+Daniel O. Price,James A. Jones,7,1,demography,pubh,,,1
+Daniel O. Price,Jessie S. Bernard,7,2,demography,pubh,,,1
+Daniel O. Price,Frank W. Notestein,7,8,demography,demography,,Notestein,3
+C. R. Lawrence,Daniel O. Price,2,7,pubh,demography,,,2
+Daniel O. Price,W. Parker Mauldin,7,7,demography,pubh,,Mauldin,1
+Daniel O. Price,Edwin D. Driver,7,7,demography,demography,,,2
+Daniel O. Price,James E. Teele,7,4,demography,pubh,,,2
+Daniel O. Price,Joseph S. Himes,7,2,demography,pubh,,,1
+Carl L. Harter,Daniel O. Price,6,7,demography,demography,,,1
+Daniel O. Price,Paul B. Cornely,7,1,demography,pubh,,,1
+C. V. Willie,Daniel O. Price,3,7,pubh,demography,,,1
+Daniel O. Price,Karl A. Smith,7,4,demography,pubh,,,1
+Clyde V. Kiser,Dorothy G. Wiehl,7,1,pubh,pubh,Kiser,,1
+Dorothy G. Wiehl,Paul C. Glick,1,11,pubh,pubh,,Glick,1
+Dorothy G. Wiehl,Wilson H. Grabill,1,6,pubh,demography,,,1

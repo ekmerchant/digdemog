@@ -1,0 +1,56 @@
+doc,year,authors,title,journal,topic,pct,firsttop,firstpct,secondtop,secondpct
+2172360,1949,Julius Isaac,European Migration Potential And Prospects,Population Studies,topic 18,0.273692039635,topic 22,0.198147895955,topic 9,0.187687680411
+2172313,1950,Giorgio Mortara,Immigration To Brazil,Population Studies,topic 18,0.3655447639,topic 22,0.247211349134,topic 10,0.161456441883
+2172178,1951,H. B. M. Murphy,The Resettlement Of Jewish Refugees In Israel_ With Special Reference To Those Known As Displaced,Population Studies,topic 18,0.213678940614,topic 22,0.430964747223,topic 9,0.208226154931
+2172030,1953,S. N. Eisenstadt,Analysis Of Patterns Of Immigration And Absorption Of Immigrants,Population Studies,topic 18,0.203669727574,topic 22,0.376176706192,topic 20,0.283701594575
+2172110,1957,Bertram Hutchinson,Some Evidence Related To Matrimonial Selection And Immigrant Assimilation In Brazil,Population Studies,topic 18,0.315170506426,topic 10,0.218387852026,topic 22,0.195642366532
+2172213,1958,Jerzy Zubrzycki,The Role Of The Foreign-Language Press In Migrant Integration,Population Studies,topic 18,0.334545783358,topic 22,0.30521540369,topic 9,0.175435954833
+2172065,1959,W. D. Borrie,The Growth Of The Australian Population With Particular Reference To The Period Since 1947,Population Studies,topic 18,0.311022896519,topic 3,0.369678635102,topic 9,0.135596356746
+2172725,1962,R. T. Appleyard,The Return Movement Of United Kingdom Migrants From Australia,Population Studies,topic 18,0.526275904758,topic 9,0.183334285055,topic 21,0.151338458532
+2172845,1963,Judah Matras,Some Data On Intergenerational Occupational Mobility In Israel,Population Studies,topic 18,0.227019811288,topic 3,0.240911828635,topic 28,0.216438315414
+2172631,1964,Anthony H. Richmond,Social Mobility Of Immigrants In Canada,Population Studies,topic 18,0.294599742637,topic 9,0.236906720103,topic 28,0.142939623287
+2173162,1965,Charles A. Price,Some Problems Of International Migration Statistics,Population Studies,topic 18,0.491013747703,topic 3,0.243485764547,topic 22,0.148355970767
+2060065,1966,Kurt B. Mayer,The Impact Of Postwar Immigration On The Demographic And Social Structure Of Switzerland,Demography,topic 18,0.423170247436,topic 22,0.166532765819,topic 28,0.137716664361
+2060367,1967,Donald S. Akers,Immigration Data And National Population Estimates For The United States,Demography,topic 18,0.388609715703,topic 3,0.289241800691,topic 28,0.163461192007
+2173023,1968,Anthony H. Richmond,Return Migration From Canada To Britain,Population Studies,topic 18,0.39119375738,topic 3,0.277305664703,topic 9,0.138119259579
+2060082,1969,Harley L. Browning,Selectivity Of Migrants To A Metropolis In A Developing Country,Demography,topic 18,0.206568361098,topic 10,0.368984229814,topic 21,0.115619538231
+2172655,1970,Judith A. Fortney,International Migration Of Professionals,Population Studies,topic 18,0.388069144364,topic 30,0.136200080119,topic 22,0.0763871233705
+2060606,1971,Charles B. Keely,Effects Of The Immigration Act Of 1965 On Selected Population Characteristics Of Immigrants To The,Demography,topic 18,0.402626948359,topic 30,0.204407489067,topic 28,0.126041375993
+2060639,1972,Desmond O'Rourke,A Stocks And Flows Approach To A Theory Of Human Migration With Examples From Past,Demography,topic 18,0.30493993133,topic 6,0.271355226306,topic 7,0.150844995194
+2060817,1973,James D. Tarver,A Test And Modification Of Zipf'S Hypothesis For Predicting Interstate Migration,Demography,topic 18,0.41208849171,topic 7,0.284031531741,topic 6,0.125503036204
+2173800,1974,R. Paul Shaw,A Note On Cost-Return Calculations And Decisions To Migrate,Population Studies,topic 18,0.213464794259,topic 29,0.275465740685,topic 10,0.17491778126
+2060759,1975,Charles B. Keely,Effects Of U. S. Immigration Law On Manpower Characteristics Of Immigrants,Demography,topic 18,0.400355314211,topic 28,0.20359600095,topic 30,0.130130683095
+2060422,1976,Monica Boyd,Immigration Policies And Trends,Demography,topic 18,0.548717498255,topic 30,0.156407418615,topic 28,0.138418586147
+2173375,1977,W. L. Marr,The United Kingdom'S International Migration In The Inter-War Period,Population Studies,topic 18,0.413377220884,topic 7,0.208225182346,topic 9,0.139508009198
+2060523,1978,Michael B. Toney,The Simultaneous Examination Of Economic And Social Factors In Destination Selection,Demography,topic 18,0.260143249441,topic 7,0.27589817668,topic 10,0.17048030052
+2173869,1979,L. W. St John-Jones,Emigration From Canada In The 1960S,Population Studies,topic 18,0.414704889353,topic 3,0.389416019217,topic 2,0.0937391337459
+2060964,1980,Robert Warren,Foreign-Born Emigration From The United States,Demography,topic 18,0.388719017978,topic 3,0.475327213245,topic 28,0.080907748473
+2061051,1981,Julie S. Davanzo,Return And Other Sequences Of Migration In The United States,Demography,topic 18,0.43939334372,topic 21,0.172078772274,topic 22,0.110479990802
+1972494,1982,[Alan K. Simpson],United States Immigration Policy,Population and Development Review,topic 18,0.427396412149,topic 30,0.340837533645,topic 22,0.173735428663
+1973319,1983,Susan Ranney,Profiles Of Temporary Mexican Labor Migrants To The United States,Population and Development Review,topic 18,0.449728650349,topic 10,0.17700747578,topic 27,0.126968524249
+2060912,1984,Douglas S. Massey,A Demonstration Of The Effect Of Seasonal Migration On Fertility,Demography,topic 18,0.286355450734,topic 16,0.236619454302,topic 7,0.229442588214
+1973247,1985,Myron Weiner,On International Migration And International Relations,Population and Development Review,topic 18,0.386549034144,topic 22,0.251118250062,topic 30,0.205341386261
+2061432,1986,Guillermina Jasso,Family Reunification And The Immigration Multiplier,Demography,topic 18,0.547982486699,topic 7,0.218445746906,topic 17,0.1012902682
+1973027,1987,Frank D. Bean,Undocumented Migration To The United States,Population and Development Review,topic 18,0.486988197106,topic 7,0.200190697956,topic 30,0.0744786686938
+2061476,1988,Frank D. Bean,Undocumented Mexican Immigrants And The Earnings Of Other Workers In The United States,Demography,topic 18,0.370584672787,topic 7,0.292194670118,topic 27,0.114263528885
+1972595,1989,Wayne A. Cornelius,Impacts Of The 1986 Us Immigration Law On Emigration From Rural Mexican Sending Communities,Population and Development Review,topic 18,0.562407568532,topic 21,0.114146715148,topic 30,0.0859142576341
+1972356,1991,Gil Feiler,Migration And Recession,Population and Development Review,topic 18,0.424307357097,topic 25,0.199702759967,topic 30,0.164539817376
+2061855,1992,Ellen Percy Kraly,Estimates Of Long-Term Immigration To The United States,Demography,topic 18,0.532373786383,topic 21,0.165222076709,topic 3,0.153284991707
+2938462,1993,Douglas S. Massey,Theories Of International Migration,Population and Development Review,topic 18,0.283740465915,topic 29,0.344133145179,topic 22,0.221317711824
+2137667,1994,Thomas J. Espenshade,Does The Threat Of Border Apprehension Deter Undocumented Us Immigration?,Population and Development Review,topic 18,0.526547662349,topic 7,0.251588280277,topic 30,0.0872545151371
+2061740,1995,Douglas S. Massey,New Estimates Of Undocumented Mexican Migration And The Probability Of Apprehension,Demography,topic 18,0.522476678315,topic 6,0.23528478232,topic 3,0.0897367683979
+2061767,1996,David P. Lindstrom,Economic Opportunity In Mexico And Return Migration From The United States,Demography,topic 18,0.435970481191,topic 7,0.25308249876,topic 29,0.112645484404
+2061699,1997,Yinon Cohen,The Number Of Israeli Immigrants In The United States In 1990,Demography,topic 18,0.676063072678,topic 3,0.188299244297,topic 21,0.0842625142635
+2808027,1998,MaríA E. Enchautegui,Low-Skilled Immigrants And The Changing American Labor Market,Population and Development Review,topic 18,0.358444214329,topic 27,0.264996456494,topic 28,0.126534750911
+2648111,1999,Julie A. Phillips,The New Labor Market,Demography,topic 18,0.509123764036,topic 7,0.233188658168,topic 27,0.146084707179
+2648101,2000,Guillermina Jasso,The New Immigrant Survey Pilot (Nis-P),Demography,topic 18,0.455832649636,topic 21,0.251662658378,topic 27,0.0787252942033
+3088354,2001,Barry R. Chiswick,A Model Of Destination-Language Acquisition,Demography,topic 18,0.535419669225,topic 7,0.242369278737,topic 29,0.0623415382715
+3092983,2002,Benjamin Davis,Domestic And International Migration From Rural Mexico,Population Studies,topic 18,0.42260149398,topic 7,0.314853383558,topic 17,0.118039917092
+1515154,2003,Pia M. Orrenius,Do Amnesty Programs Reduce Undocumented Immigration? Evidence From Irca,Demography,topic 18,0.564055607861,topic 7,0.236867530192,topic 30,0.0867478539734
+1515217,2004,Elizabeth Fussell,The Limits To Cumulative Causation,Demography,topic 18,0.463671666883,topic 7,0.211776412996,topic 10,0.172297132588
+1515180,2005,Cynthia Feliciano,Educational Selectivity In U.S. Immigration,Demography,topic 18,0.468473287238,topic 7,0.236866587211,topic 19,0.115840391824
+20058899,2006,Ruben G. Rumbaut,Linguistic Life Expectancies,Population and Development Review,topic 18,0.439159200646,topic 21,0.155127078838,topic 2,0.112922263674
+30053106,2007,Yinon Cohen,Self-Selection And Earnings Assimilation,Demography,topic 18,0.570171257956,topic 7,0.187145213825,topic 27,0.0870871188855
+25434751,2008,,Immigration Assumptions In Projecting The Us Social Security Burden,Population and Development Review,topic 18,0.419092097397,topic 30,0.150866216859,topic 6,0.14637656491
+25476012,2009,Francesca Mazzolari,Dual Citizenship Rights,Demography,topic 18,0.43573636986,topic 7,0.280777025676,topic 27,0.105785407348
+40800842,2010,Mariano Sana,Immigrants And Natives In U.S. Science And Engineering Occupations_ 1994-2006,Demography,topic 18,0.359879448402,topic 7,0.20501688556,topic 29,0.170886113083

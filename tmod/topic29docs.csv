@@ -1,0 +1,52 @@
+doc,year,authors,title,journal,topic,pct,firsttop,firstpct,secondtop,secondpct
+2172294,1950,A. Henderson,The Cost Of Children. Parts Ii And Iii,Population Studies,topic 29,0.234544774111,topic 9,0.371001074583,topic 17,0.177245545283
+2171997,1952,Alan T. Peacock,Theory Of Population And Modern Economic Analysis. I,Population Studies,topic 29,0.475847564517,topic 22,0.391761664239,topic 9,0.0854963766199
+2172481,1954,Alan T. Peacock,Theory Of Population And Modern Economic Analysis. Ii,Population Studies,topic 29,0.448614515189,topic 22,0.409710987561,topic 9,0.0577317638011
+2172464,1955,J. J. Spengler,Marshall On The Population Question. I,Population Studies,topic 29,0.354251957436,topic 22,0.427847633419,topic 9,0.174040931238
+2172108,1957,Bert F. Hoselitz,Population Pressure_ Industrialization And Social Mobility,Population Studies,topic 29,0.205734256644,topic 10,0.279309131241,topic 22,0.207586016883
+2060114,1965,Paul Demeny,Investment Allocation And Population Growth,Demography,topic 29,0.488470711113,topic 22,0.245950032311,topic 6,0.0889174294195
+2060068,1966,Richard A. Easterlin,On The Relation Of Economic Factors To Recent And Projected Fertility Changes,Demography,topic 29,0.267512161375,topic 16,0.330510929811,topic 28,0.213780255485
+2060316,1967,John V. D. Saunders,Demographic And Economic Correlates Of Development As Measured By Energy Consumption,Demography,topic 29,0.225991636018,topic 6,0.254902794034,topic 7,0.143659635918
+2060218,1968,Leonard G. Bower,The Return From Investment In Population Control In Less Developed Countries,Demography,topic 29,0.546159433792,topic 22,0.17470086975,topic 28,0.0976794902731
+2172883,1969,Peter J. Lloyd,A Growth Model With Population As An Endogenous Variable,Population Studies,topic 29,0.55324877765,topic 6,0.251243442105,topic 16,0.0528127213132
+2060156,1970,Julian L. Simon,The Per-Capita-Income Criterion And Natality Policies In Poor Countries,Demography,topic 29,0.559197778588,topic 22,0.230390532443,topic 3,0.0995894347434
+2172756,1971,Harvey Leibenstein,A Final Remark On Pitfalls,Population Studies,topic 29,0.429570776127,topic 22,0.402331184478,topic 21,0.0562661717182
+2060636,1972,Robert E. Cole,Optimal Population And Increasing Returns To Scale,Demography,topic 29,0.634299073116,topic 22,0.251526886812,topic 6,0.0580028686709
+2173761,1973,Allen C. Kelley,Population Growth_ The Dependency Rate_ And The Pace Of Economic Development,Population Studies,topic 29,0.656369276708,topic 22,0.178762868582,topic 3,0.0617791938732
+2060479,1974,Daniel B. Suits,Fertility And Per Capita Income,Demography,topic 29,0.390037586386,topic 6,0.300620933788,topic 3,0.201567363287
+2060735,1975,Julian L. Simon,The Welfare Effect On An Additional Child Cannot Be Stated Simply And Unequivocally,Demography,topic 29,0.522925712176,topic 22,0.261244425602,topic 17,0.109042802553
+1971618,1976,Deborah Freedman,Fertility_ Aspirations_ And Resources,Population and Development Review,topic 29,0.522672966066,topic 22,0.144290786635,topic 12,0.102496080809
+1971757,1977,Eva Mueller,The Impact Of Demographic Factors On Economic Development In Taiwan,Population and Development Review,topic 29,0.64293309529,topic 22,0.138390972582,topic 4,0.0879171250711
+1972146,1978,Richard A. Easterlin,Demographic Influences On Economic Stability,Population and Development Review,topic 29,0.596052035064,topic 16,0.136813320639,topic 22,0.131958324384
+2061223,1979,Michael E. Conroy,Population Growth_ Life-Cycle Saving_ And International Differences In Steady-State Optimal Saving Rates,Demography,topic 29,0.543029989909,topic 6,0.192612598188,topic 3,0.168721024481
+2174804,1980,Julian L. Simon,There Is No Low-Level Fertility And Development Trap,Population Studies,topic 29,0.548125969227,topic 22,0.252459733944,topic 3,0.0603040780729
+1972803,1981,Oded Stark,The Asset Demand For Children During Agricultural Modernization,Population and Development Review,topic 29,0.483789626073,topic 22,0.187155580576,topic 20,0.116079172902
+2808116,1982,Robert J. Willis,The Direction Of Intergenerational Transfers And Demographic Transition,Population and Development Review,topic 29,0.557734687627,topic 22,0.244675466615,topic 17,0.127761043729
+2174377,1983,J. L. Simon,The Present Value Of Population Growth In The Western World,Population Studies,topic 29,0.594095585063,topic 22,0.275210309757,topic 9,0.0533567412723
+1973513,1984,Allen C. Kelley,Population Growth_ Industrial Revolutions_ And The Urban Transition,Population and Development Review,topic 29,0.485436664564,topic 6,0.173762630337,topic 10,0.163346304878
+1973486,1985,Jeffrey G. Williamson,The Historical Content Of The Classical Labor Surplus Model,Population and Development Review,topic 29,0.577986065461,topic 22,0.189629554522,topic 9,0.172619453802
+1973216,1986,David E. Bloom,The Effects Of Rapid Population Growth On Labor Supply And Employment In Developing Countries,Population and Development Review,topic 29,0.586643679619,topic 22,0.12590891248,topic 2,0.0799954899423
+2061302,1987,Jere R. Behram,Is Child Schooling A Poor Proxy For Child Quality?,Demography,topic 29,0.461120476241,topic 6,0.248323359683,topic 17,0.149238574196
+1972502,1988,Andrew Mason,Saving_ Economic Growth_ And Demographic Change,Population and Development Review,topic 29,0.641460810895,topic 22,0.104466063382,topic 7,0.0833050055906
+1972597,1989,Allen C. Kelley,The "International Human Suffering Index",Population and Development Review,topic 29,0.415749841705,topic 7,0.245285049587,topic 22,0.179379862072
+2808061,1990,Herman E. Daly,Sustainable Development,Population and Development Review,topic 29,0.515164033362,topic 22,0.328851138239,topic 25,0.107825593877
+1972354,1991,Didier Blanchet,On Interpreting Observed Relationships Between Population Growth And Economic Growth,Population and Development Review,topic 29,0.595504707375,topic 22,0.216433993274,topic 6,0.0898116753857
+1973759,1992,Elwood Carlson,Inverted Easterlin Fertility Cycles And Kornai'S "Soft" Budget Constraint,Population and Development Review,topic 29,0.428650798911,topic 22,0.215501905363,topic 2,0.127773843032
+2938464,1993,Richard A. Easterlin,Will The Baby Boomers Be Less Well Off Than Their Parents ? Income_ Wealth_ And,Population and Development Review,topic 29,0.324897207858,topic 16,0.257847457221,topic 17,0.189799890428
+2137599,1994,D. Gale Johnson,Effects Of Institutions And Policies On Rural Population Growth With Application To China,Population and Development Review,topic 29,0.421090836357,topic 22,0.117061823342,topic 4,0.10878111366
+2137751,1995,Thomas Homer-Dixon,The Ingenuity Gap,Population and Development Review,topic 29,0.460140235764,topic 22,0.336858567736,topic 25,0.092128379732
+2137709,1996,,The Council Of Economic Advisers On The Economic Effects Of Aging,Population and Development Review,topic 29,0.464869445369,topic 11,0.187262495233,topic 30,0.185309910366
+2137565,1997,,The Council Of Economic Advisers On The Challenge Of An Aging Population,Population and Development Review,topic 29,0.523714797901,topic 30,0.189767046687,topic 22,0.117214281866
+2807977,1998,Dennis A. Ahlburg,Julian Simon And The Population Growth Debate,Population and Development Review,topic 29,0.574283043649,topic 22,0.275714045238,topic 30,0.101635329116
+172429,1999,,J. R. Hicks On The Economics Of Population,Population and Development Review,topic 29,0.386114392477,topic 22,0.452335081615,topic 9,0.0992807691819
+3115217,2000,Ronald Lee,Life Cycle Saving And The Demographic Transition,Population and Development Review,topic 29,0.560854139161,topic 6,0.166095350592,topic 11,0.125341043384
+2695185,2001,D. Gale Johnson,On Population And Resources,Population and Development Review,topic 29,0.493828923145,topic 22,0.168780236347,topic 2,0.0868556205891
+3092754,2002,Vernon W. Ruttan,Can Economic Growth Be Sustained? A Post-Malthusian Perspective,Population and Development Review,topic 29,0.781187024829,topic 22,0.146715980058,topic 9,0.023821231058
+3092732,2003,Paul Demeny,Population Policy Dilemmas In Europe At The Dawn Of The Twenty-First Century,Population and Development Review,topic 29,0.277074570466,topic 22,0.300359414018,topic 2,0.226208495966
+3657352,2004,,Alan Greenspan On The Economic Implications Of Population Aging,Population and Development Review,topic 29,0.514788551776,topic 22,0.193569480195,topic 30,0.187236545307
+3401360,2005,Nikos Alexandratos,Countries With Rapid Population Growth And Resource Constraints,Population and Development Review,topic 29,0.266880994064,topic 25,0.443148650237,topic 22,0.117804344391
+20058947,2006,Deepak Lal,India,Population and Development Review,topic 29,0.342806967704,topic 22,0.244543441859,topic 1,0.146232764456
+25434600,2007,,Ben S. Bernanke On Long-Term Fiscal Challenges Facing The United States,Population and Development Review,topic 29,0.50340463889,topic 30,0.202155121608,topic 22,0.172090583689
+25434759,2008,Axel H. BöRsch-Supan,The Impact Of Global Aging On Labor_ Product_ And Capital Markets,Population and Development Review,topic 29,0.548506537419,topic 2,0.193241192163,topic 22,0.117478954771
+25487684,2009,,The Imf On The Fiscal Impact Of Population Aging,Population and Development Review,topic 29,0.41436845582,topic 30,0.236062642103,topic 2,0.1869979514
+40983118,2010,Ronald Lee,Some Macroeconomic Aspects Of Global Population Aging,Demography,topic 29,0.602051859285,topic 11,0.127499496825,topic 6,0.125856998634

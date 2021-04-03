@@ -1,0 +1,52 @@
+source,target,scount,tcount,sfield,tfield,slast,tlast,weight
+Frederick Osborn,,1,,sociology,,Osborn,,0
+Joseph J. Spengler,,1,,sociology,,Spengler,,0
+C. Horace Hamilton,,2,,sociology,,Hamilton,,0
+Richard T. Ely,Robinson C. Newcomb,1,1,economics,economics,,,1
+Pascal K. Whelpton,Robinson C. Newcomb,11,1,statistics,economics,Whelpton,,1
+Louis I. Dublin,Robinson C. Newcomb,5,1,economics,economics,Dublin,,1
+H. Morton Bodfish,Robinson C. Newcomb,1,1,economics,economics,,,1
+Edgar Sydenstricker,G. St. J. Perrott,7,4,statistics,statistics,,,2
+G. St. J. Perrott,Selwyn D. Collins,4,5,statistics,statistics,,,3
+Harold F. Dorn,Samuel A. Stouffer,2,2,statistics,statistics,Dorn,Stouffer,1
+Frank W. Notestein,Regine K. Stix,8,1,sociology,pubh,Notestein,,1
+Frank W. Notestein,Xarifa Sallume,8,2,sociology,sociology,Notestein,,2
+Clyde V. Kiser,Frank W. Notestein,4,8,eugenics,sociology,Kiser,Notestein,1
+Edgar Sydenstricker,Frank W. Notestein,7,8,statistics,sociology,,Notestein,1
+Frank W. Notestein,Regine K. Stix,8,1,sociology,pubh,Notestein,,1
+Alfred J. Lotka,Louis I. Dublin,5,5,general,economics,Lotka,Dublin,1
+Herbert H. Marks,Louis I. Dublin,1,5,eugenics,economics,,Dublin,1
+Louis I. Dublin,Richard T. Ely,5,1,economics,economics,Dublin,,1
+Louis I. Dublin,Pascal K. Whelpton,5,11,economics,statistics,Dublin,Whelpton,1
+H. Morton Bodfish,Louis I. Dublin,1,5,economics,economics,,Dublin,1
+Louis I. Dublin,Robinson C. Newcomb,5,1,economics,economics,Dublin,,1
+Frank Lorimer,Louis I. Dublin,1,5,sociology,economics,Lorimer,Dublin,1
+Earl T. Engle,Louis I. Dublin,1,5,sociology,economics,,Dublin,1
+H. Morton Bodfish,Richard T. Ely,1,1,economics,economics,,,1
+H. Morton Bodfish,Pascal K. Whelpton,1,11,economics,statistics,,Whelpton,1
+H. Morton Bodfish,Louis I. Dublin,1,5,economics,economics,,Dublin,1
+H. Morton Bodfish,Robinson C. Newcomb,1,1,economics,economics,,,1
+Herbert H. Marks,Louis I. Dublin,1,5,eugenics,economics,,Dublin,1
+Dewitt Pearl,Raymond Pearl,1,8,eugenics,pubh,,Pearl,1
+Alfred J. Lotka,Louis I. Dublin,5,5,general,economics,Lotka,Dublin,1
+Frank W. Notestein,Xarifa Sallume,8,2,sociology,sociology,Notestein,,2
+Pascal K. Whelpton,Richard T. Ely,11,1,statistics,economics,Whelpton,,1
+Louis I. Dublin,Pascal K. Whelpton,5,11,economics,statistics,Dublin,Whelpton,1
+H. Morton Bodfish,Pascal K. Whelpton,1,11,economics,statistics,,Whelpton,1
+Pascal K. Whelpton,Robinson C. Newcomb,11,1,statistics,economics,Whelpton,,1
+Pascal K. Whelpton,Richard T. Ely,11,1,statistics,economics,Whelpton,,1
+Louis I. Dublin,Richard T. Ely,5,1,economics,economics,Dublin,,1
+H. Morton Bodfish,Richard T. Ely,1,1,economics,economics,,,1
+Richard T. Ely,Robinson C. Newcomb,1,1,economics,economics,,,1
+Harold F. Dorn,Samuel A. Stouffer,2,2,statistics,statistics,Dorn,Stouffer,1
+Dewitt Pearl,Raymond Pearl,1,8,eugenics,pubh,,Pearl,1
+G. St. J. Perrott,Selwyn D. Collins,4,5,statistics,statistics,,,3
+Edgar Sydenstricker,Selwyn D. Collins,7,5,statistics,statistics,,,1
+Edgar Sydenstricker,G. St. J. Perrott,7,4,statistics,statistics,,,2
+Edgar Sydenstricker,Frank W. Notestein,7,8,statistics,sociology,,Notestein,1
+Edgar Sydenstricker,Selwyn D. Collins,7,5,statistics,statistics,,,1
+Frank Lorimer,Louis I. Dublin,1,5,sociology,economics,Lorimer,Dublin,1
+Earl T. Engle,Frank Lorimer,1,1,sociology,sociology,,Lorimer,1
+Earl T. Engle,Frank Lorimer,1,1,sociology,sociology,,Lorimer,1
+Earl T. Engle,Louis I. Dublin,1,5,sociology,economics,,Dublin,1
+Clyde V. Kiser,Frank W. Notestein,4,8,eugenics,sociology,Kiser,Notestein,1

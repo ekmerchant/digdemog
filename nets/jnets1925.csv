@@ -1,0 +1,36 @@
+source,target,scount,tcount,sfield,tfield,sabbrev,tabbrev,weight
+AAAPSS,,25,,general,,AAAPSS,,0
+J. of the American Statistical Association,,55,,statistics,,JASA,,0
+Transactions of the Faculty of Actuaries,,3,,statistics,,Actuaries,,0
+PNAS,,4,,general,,PNAS,,0
+Social Forces,,28,,sociology,,Social Forces,,0
+Public Health Reports,,256,,pubh,,PHR,,0
+Science,,5,,general,,Science,,0
+American Economic Review,,34,,economics,,AER,,0
+Human Biology,,40,,eugenics,,Human Biology,,0
+Biometrika,,1,,eugenics,,Biometrika,,0
+American Journal of Sociology,,53,,sociology,,AJS,,0
+Milbank Quarterly,,25,,pubh,,Milbank,,0
+American Journal of Sociology,Social Forces,53,28,sociology,sociology,AJS,Social Forces,11
+J. of the American Statistical Association,Milbank Quarterly,55,25,statistics,pubh,JASA,Milbank,5
+Milbank Quarterly,Public Health Reports,25,256,pubh,pubh,Milbank,PHR,3
+J. of the American Statistical Association,Public Health Reports,55,256,statistics,pubh,JASA,PHR,4
+American Journal of Sociology,Human Biology,53,40,sociology,eugenics,AJS,Human Biology,4
+Human Biology,Social Forces,40,28,eugenics,sociology,Human Biology,Social Forces,3
+J. of the American Statistical Association,Social Forces,55,28,statistics,sociology,JASA,Social Forces,3
+American Economic Review,Social Forces,34,28,economics,sociology,AER,Social Forces,2
+American Journal of Sociology,J. of the American Statistical Association,53,55,sociology,statistics,AJS,JASA,4
+American Economic Review,J. of the American Statistical Association,34,55,economics,statistics,AER,JASA,2
+American Economic Review,American Journal of Sociology,34,53,economics,sociology,AER,AJS,1
+AAAPSS,American Journal of Sociology,25,53,general,sociology,AAAPSS,AJS,5
+Human Biology,J. of the American Statistical Association,40,55,eugenics,statistics,Human Biology,JASA,8
+AAAPSS,Human Biology,25,40,general,eugenics,AAAPSS,Human Biology,1
+AAAPSS,J. of the American Statistical Association,25,55,general,statistics,AAAPSS,JASA,1
+American Economic Review,Human Biology,34,40,economics,eugenics,AER,Human Biology,1
+J. of the American Statistical Association,PNAS,55,4,statistics,general,JASA,PNAS,1
+Human Biology,PNAS,40,4,eugenics,general,Human Biology,PNAS,1
+American Journal of Sociology,Milbank Quarterly,53,25,sociology,pubh,AJS,Milbank,2
+AAAPSS,Social Forces,25,28,general,sociology,AAAPSS,Social Forces,1
+Milbank Quarterly,Social Forces,25,28,pubh,sociology,Milbank,Social Forces,1
+Human Biology,Milbank Quarterly,40,25,eugenics,pubh,Human Biology,Milbank,2
+Human Biology,Public Health Reports,40,256,eugenics,pubh,Human Biology,PHR,1

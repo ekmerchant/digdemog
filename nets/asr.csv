@@ -1,0 +1,673 @@
+source,target,scount,tcount,weight
+S. N. Eisenstadt,,3,,0
+John P. Hewitt,Peter M. Hall,1,1,1
+Judy Corder Tully,Marvin E. Olsen,1,4,1
+Leo Srole,,1,,0
+Jon P. Miller,,1,,0
+F. Lancaster Jones,Leonard Broom,2,3,2
+Edna E. Raphael,,1,,0
+Brenda Danet,Elihu Katz,2,2,1
+Merlyn Matthews,Robert K. Leik,1,3,1
+E. V. Walter,,1,,0
+Derek L. Phillips,Kevin J. Clancy,4,2,2
+Desmond Ellis,,1,,0
+Harry M. Scoble,Robert R. Alford,1,2,1
+Saburo Yasuda,,1,,0
+Charles E. Werts,Robert L. Linn,2,2,2
+Robert H. Lauer,,2,,0
+Robert E. Cole,,1,,0
+Glen H. Elder Jr.,,3,,0
+R. J. Smircich,William R. Catton Jr.,1,1,1
+Jerome G. Manis,Milton J. Brawer,1,4,1
+Chester L. Hunt,Jerome G. Manis,1,1,1
+Jerome G. Manis,Leonard C. Kercher,1,1,1
+Chester L. Hunt,Milton J. Brawer,1,4,1
+Leonard C. Kercher,Milton J. Brawer,1,4,1
+Chester L. Hunt,Leonard C. Kercher,1,1,1
+William H. Form,,3,,0
+Florence Rosenberg,Roberta G. Simmons,1,2,1
+Morris Rosenberg,Roberta G. Simmons,2,2,2
+Florence Rosenberg,Morris Rosenberg,1,2,1
+David Street,,1,,0
+M. Herbert Danzger,,1,,0
+Don Bushell Jr.,Robert L. Burgess,1,1,1
+Elton F. Jackson,William S. Fox,5,1,1
+Elton F. Jackson,Harry J. Crockett Jr.,5,2,2
+Harry J. Crockett Jr.,William S. Fox,2,1,1
+Robert Hagedorn,Sanford Labovitz,1,3,1
+Morris F. Friedell,,1,,0
+Frank P. Stafford,John F. Marsh Jr.,1,1,1
+William J. Goode,,2,,0
+Jerald Hage,Michael Aiken,5,5,4
+Sarah L. Boggs,,1,,0
+David L. Featherman,,4,,0
+John H. Barnsley,,1,,0
+Kenneth D. Bailey,,1,,0
+David Britt,Omer R. Galle,1,2,1
+Elihu Katz,Hadassah Haas,2,1,1
+Elihu Katz,Michael Gurevitch,2,1,1
+Hadassah Haas,Michael Gurevitch,1,1,1
+James Petras,Maurice Zeitlin,1,2,1
+Charles N. Halaby,,1,,0
+Rodolfo Alvarez,,1,,0
+Charles Westie,Victor Matthews,1,1,1
+Thomas K. Burch,,1,,0
+Andrew M. Greeley,Seymour Warkov,2,1,1
+Seymour Spilerman,,5,,0
+Kurt Mayer,Sidney Goldstein,2,2,2
+Ralph H. Turner,Vincent Jeffries,2,1,1
+Richard T. Morris,Vincent Jeffries,1,1,1
+Ralph H. Turner,Richard T. Morris,2,1,1
+Beverly Duncan,,2,,0
+Anita Gershenovitz,Charles V. Willie,1,1,1
+Gerald Marwell,,2,,0
+Jeffery M. Paige,,1,,0
+Riley Dunlap,,1,,0
+Edward Shils,,1,,0
+John D. Allingham,,1,,0
+Joel I. Nelson,,3,,0
+Lee Freese,,2,,0
+Arvin W. Murch,,1,,0
+Guenther Roth,,1,,0
+Gerhard Lenski,,1,,0
+James D. Thompson,Kenneth McNeil,1,1,1
+Ralf Dahrendorf,,1,,0
+E. Michael Bannester,,1,,0
+Bruce H. Mayhew,Roger L. Levinger,2,1,1
+Bruce H. Mayhew,J. Miller McPherson,2,1,1
+Bruce H. Mayhew,Thomas F. James,2,2,1
+J. Miller McPherson,Roger L. Levinger,1,1,1
+Roger L. Levinger,Thomas F. James,1,2,1
+J. Miller McPherson,Thomas F. James,1,2,1
+Janet L. Abu-Lughod,,1,,0
+Mark Abrahamson,,1,,0
+Whitney Pope,,1,,0
+Edward A. Holdaway,Thomas A. Blowers,1,1,1
+Richard F. Hamilton,,3,,0
+Randall Collins,,2,,0
+Richard H. Hall,,2,,0
+Mary R. Jackman,,4,,0
+J. David Edelstein,,1,,0
+Richard A. Rehberg,Walter E. Schafer,2,1,1
+Judie Sinclair,Richard A. Rehberg,1,2,1
+Judie Sinclair,Walter E. Schafer,1,1,1
+Gerald Marwell,Jerald Hage,2,5,1
+Lois-Ellin Datta,,1,,0
+Alex Carey,,1,,0
+David W. Minar,,1,,0
+James A. Davis,,2,,0
+Max Heirich,,1,,0
+J. David Martin,,2,,0
+Cora Bagley Marrett,Jerald Hage,2,5,2
+Cora Bagley Marrett,Michael Aiken,2,5,2
+Howard J. Ehrlich,Mary Lou Bauer,1,1,1
+Rhona Rapoport,Robert Rapoport,1,1,1
+H. Warren Dunham,,2,,0
+Donald I. Warren,,1,,0
+Neil W. Henry,Norman P. Hummon,1,2,1
+Carmi Schooler,Melvin L. Kohn,2,4,2
+Maurice Zeitlin,,2,,0
+Frank Cancian,,1,,0
+Arthur S. Goldberger,,1,,0
+Daniel R. Goldman,,1,,0
+Keith F. Otterbein,,1,,0
+E. A. Holdaway,T. A. Blowers,1,1,1
+Edward A. Tiryakian,,1,,0
+W. Penn Handwerker,,1,,0
+Jack P. Gibbs,,5,,0
+John H. Kunkel,Richard H. Nagasawa,1,1,1
+Miles E. Simpson,,2,,0
+Michael Fullan,,1,,0
+Calvin F. Schmid,Charles E. Nobbe,2,1,1
+Richard A. Ball,,1,,0
+Charles R. Wright,Herbert H. Hyman,1,1,1
+Ray H. Elling,,1,,0
+Charles E. Werts,Karl G. Jöreskog,2,1,1
+Karl G. Jöreskog,Robert L. Linn,1,2,1
+John P. Clark,Larry L. Tifft,1,1,1
+Allan Mazur,,3,,0
+Wilbert E. Moore,,3,,0
+Olaf F. Larson,Ruth C. Young,1,1,1
+Robert M. Marsh,William L. Parish,1,1,1
+A. Lewis Rhodes,Charles B. Nam,1,2,1
+Ira L. Reiss,,3,,0
+William Erbe,,1,,0
+Edward O. Laumann,Louis Guttman,4,1,1
+Richard P. Boyle,,1,,0
+Milton J. Brawer,Peter Y. DeJong,4,2,2
+Peter Y. DeJong,Stanley S. Robin,2,2,2
+Milton J. Brawer,Stanley S. Robin,4,2,2
+Elizabeth G. Cohen,Susan S. Roper,1,1,1
+James F. Short Jr.,Ramon Rivera,1,1,1
+James F. Short Jr.,Ray A. Tennyson,1,1,1
+Ramon Rivera,Ray A. Tennyson,1,1,1
+Richard A. Rehberg,,2,,0
+Peter J. Burke,,2,,0
+Jeanne E. Gullahorn,John T. Gullahorn,1,1,1
+Bruce H. Mayhew,,2,,0
+Manfred Stanley,,1,,0
+Ronald G. Corwin,,1,,0
+Leo A. Goodman,,2,,0
+Lincoln H. Day,,1,,0
+Michael Mann,,1,,0
+Gordon H. Lewis,,4,,0
+Benton Johnson,,2,,0
+Gerald E. Markle,Roland J. Chilton,1,3,1
+Walter D. Connor,,2,,0
+David L. Altheide,Robert P. Gilmore,1,1,1
+John Porter,,1,,0
+Lyle G. Warner,Melvin L. DeFleur,1,3,1
+Zick Rubin,,1,,0
+Edna Bonacich,,2,,0
+H. Edward Ransford,,1,,0
+Diana Crane,,2,,0
+Jeffrey M. Paige,,2,,0
+Bruce P. Dohrenwend,Edwin Chin-Shong,2,1,1
+Brenda Danet,,2,,0
+Robert McGinnis,,1,,0
+Jack Sawyer,Margaret A. Parkman,1,1,1
+Lawrence D. Haber,Richard T. Smith,1,1,1
+Gary B. Rush,,1,,0
+Barbara Jacobson,John M. Kendrick,1,1,1
+Foster G. Dieckhoff,,1,,0
+Keith Hope,,2,,0
+Kenneth Kammeyer,,1,,0
+David R. Heise,,3,,0
+Robert I. Rhodes,,1,,0
+Michael Aiken,Robert R. Alford,5,2,1
+Gary Cyphers,Robert Brannon,1,1,1
+Robert Brannon,Sharlene Hesse,1,1,1
+Robert Brannon,Susan Hesselbart,1,1,1
+Robert Brannon,Roberta Keane,1,1,1
+Howard Schuman,Robert Brannon,3,1,1
+Robert Brannon,Thomas Viccaro,1,1,1
+Diana Wright,Robert Brannon,1,1,1
+Gary Cyphers,Sharlene Hesse,1,1,1
+Gary Cyphers,Susan Hesselbart,1,1,1
+Gary Cyphers,Roberta Keane,1,1,1
+Gary Cyphers,Howard Schuman,1,3,1
+Gary Cyphers,Thomas Viccaro,1,1,1
+Diana Wright,Gary Cyphers,1,1,1
+Sharlene Hesse,Susan Hesselbart,1,1,1
+Roberta Keane,Sharlene Hesse,1,1,1
+Howard Schuman,Sharlene Hesse,3,1,1
+Sharlene Hesse,Thomas Viccaro,1,1,1
+Diana Wright,Sharlene Hesse,1,1,1
+Roberta Keane,Susan Hesselbart,1,1,1
+Howard Schuman,Susan Hesselbart,3,1,1
+Susan Hesselbart,Thomas Viccaro,1,1,1
+Diana Wright,Susan Hesselbart,1,1,1
+Howard Schuman,Roberta Keane,3,1,1
+Roberta Keane,Thomas Viccaro,1,1,1
+Diana Wright,Roberta Keane,1,1,1
+Howard Schuman,Thomas Viccaro,3,1,1
+Diana Wright,Howard Schuman,1,3,1
+Diana Wright,Thomas Viccaro,1,1,1
+Charles E. Hurst,,1,,0
+Donald McIntosh,,1,,0
+Alma F. Taeuber,Karl E. Taeuber,1,2,1
+Robert H. Somers,,1,,0
+Thomas J. Scheff,,1,,0
+Joseph Lopreato,Lawrence E. Hazelrigg,5,1,1
+G. Edward Stephan,,2,,0
+Milton Bloombaum,,1,,0
+Philip D. Roos,,1,,0
+Egon Bittner,,1,,0
+David Yaukey,William Griffiths,1,1,1
+Beryl J. Roberts,David Yaukey,1,1,1
+Beryl J. Roberts,William Griffiths,1,1,1
+Alan Booth,,3,,0
+Louis G. Vargo,,1,,0
+Charles R. Tittle,,1,,0
+Herman R. Lantz,Raymond Schmitt,1,1,1
+Herman R. Lantz,Margaret Britton,1,1,1
+Eloise C. Snyder,Herman R. Lantz,1,1,1
+Margaret Britton,Raymond Schmitt,1,1,1
+Eloise C. Snyder,Raymond Schmitt,1,1,1
+Eloise C. Snyder,Margaret Britton,1,1,1
+Leslie G. Carr,,2,,0
+Norman K. Denzin,,1,,0
+Wan Sang Han,,1,,0
+Sanford Labovitz,,3,,0
+Darwin L. Thomas,,2,,0
+Charles P. Loomis,,3,,0
+Herbert McClosky,John H. Schaar,2,2,2
+James S. Coleman,,2,,0
+Kenneth C. Land,,1,,0
+Robert R. Blain,,1,,0
+Howard Schuman,,3,,0
+Janet Saltzman Chafetz,Joseph Lopreato,2,5,2
+James E. Teele,Sydney H. Croog,1,1,1
+Hubert M. Blalock Jr.,,2,,0
+Fred L. Strodtbeck,William Bezdek,1,1,1
+Arthur L. Stinchcombe,,1,,0
+Glenn V. Fuguitt,,1,,0
+Irene Taviss,,1,,0
+Gordon H. Lewis,Joseph B. Kadane,4,2,2
+Jack P. Gibbs,Walter T. Martin,5,1,1
+Rosabeth Moss Kanter,,1,,0
+Theodore D. Kemper,,2,,0
+Robert A. Gordon,,1,,0
+Allan Schnaiberg,Michael Armer,1,2,1
+Alan Little,,1,,0
+John A. Clausen,,1,,0
+John A. Vonk,John W. Fox,1,1,1
+Archibald O. Haller,Joseph Woelfel,4,2,2
+Edward W. Lehman,,1,,0
+George A. Miller,,1,,0
+D. J. Aigner,,1,,0
+Norman P. Hummon,,2,,0
+George Andrew Kourvetaris,,1,,0
+Beverly Duncan,Otis Dudley Duncan,2,2,1
+Frank Harary,,1,,0
+Louis Schneider,,1,,0
+Nicholas C. Mullins,,1,,0
+Lois B. DeFleur,Melvin L. DeFleur,1,3,1
+K. Dennis Kelly,William J. Chambliss,1,2,1
+Terry Nichols Clark,William R. Morgan,1,1,1
+Paul Lerman,,2,,0
+Arnold Meadow,Louis A. Zurcher Jr.,1,1,1
+Louis A. Zurcher Jr.,Susan Lee Zurcher,1,1,1
+Arnold Meadow,Susan Lee Zurcher,1,1,1
+Phillips Cutright,,2,,0
+Herbert L. Costner,Robert K. Leik,2,3,1
+Edward O. Laumann,James M. Beshers,4,1,1
+Moshe Schwartz,William L. Parish Jr.,1,1,1
+John Scanzoni,,1,,0
+Joan Huber,,2,,0
+Albert I. Hermalin,Reynolds Farley,2,3,2
+Kenneth H. Thompson,,1,,0
+Karen Oppenheim Mason,William M. Mason,1,1,1
+H. H. Winsborough,Karen Oppenheim Mason,1,1,1
+Karen Oppenheim Mason,W. Kenneth Poole,1,1,1
+H. H. Winsborough,William M. Mason,1,1,1
+W. Kenneth Poole,William M. Mason,1,1,1
+H. H. Winsborough,W. Kenneth Poole,1,1,1
+Carolyn Cummings Perrucci,,2,,0
+David P. Phillips,Kenneth A. Feldman,1,1,1
+Russell Middleton,,2,,0
+David L. Westby,Richard G. Braungart,1,1,1
+H. M. Blalock Jr.,,2,,0
+John C. McKinney,Linda Brookover Bourque,2,2,2
+Frank F. Furstenberg Jr.,,1,,0
+Stanley Lieberson,,4,,0
+David A. Specht,,1,,0
+David Willer,Murray Webster Jr.,2,2,1
+Murray Webster Jr.,,2,,0
+Richard G. Dumont,William J. Wilson,1,1,1
+David D. McFarland,,1,,0
+David Nasatir,,1,,0
+Reinhard Bendix,,2,,0
+Gerald T. Slatin,,1,,0
+James C. McCann,,1,,0
+Shirley Hartley,,1,,0
+Herman Israel,,1,,0
+Kurt W. Back,,2,,0
+M. Patrick McCabe,Robert C. Atchley,1,1,1
+Duncan MacRae Jr.,,1,,0
+Philip M. Marcus,,1,,0
+Harold L. Wilensky,Jack Ladinsky,2,2,1
+David R. Segal,,1,,0
+Clayton Haven,Marjorie Fiske Lowenthal,1,2,1
+James A. Sweet,Larry L. Bumpass,1,1,1
+Arnold M. Rose,,1,,0
+Mirra Komarovsky,,1,,0
+Lewis A. Coser,,2,,0
+Amos H. Hawley,,2,,0
+Marvin E. Olsen,,4,,0
+Kathleen S. Crittenden,Richard J. Hill,1,1,1
+Erdman B. Palmore,Phillip E. Hammond,1,1,1
+Charles B. Nam,Mary G. Powers,2,1,1
+Jonathan R. Cole,Stephen Cole,2,3,2
+B. C. Cartwright,R. D. Schwartz,1,1,1
+Marion Blute,,1,,0
+Alvin L. Jacobson,Gary L. Buck,1,1,1
+Michael Armer,William H. Sewell,2,7,1
+Bruce K. Eckland,,2,,0
+William E. Snizek,,2,,0
+Herman Turk,,1,,0
+Desmond P. Ellis,,1,,0
+Thomas P. Wilson,,1,,0
+Karl E. Taeuber,Omer R. Galle,2,2,1
+Raymond D. Gastil,,1,,0
+Melvin Seeman,,3,,0
+George Brager,,1,,0
+George W. Bohrnstedt,,1,,0
+Albert K. Cohen,,1,,0
+Michael Schwartz,Sandra S. Tangri,1,1,1
+William A. Gamson,,1,,0
+John Colombotos,,1,,0
+Herbert Blumer,,1,,0
+Albert J. Reiss Jr.,Leon Mayhew,2,1,1
+Jonathan Kelley,,2,,0
+David E. Wiley,James A. Wiley,1,1,1
+Alan Ross,John C. Ball,1,1,1
+Alice Simpson,John C. Ball,1,1,1
+Alan Ross,Alice Simpson,1,1,1
+Vytautas Kavolis,,1,,0
+Carl A. Sheingold,,1,,0
+Norval D. Glenn,Ruth Hyland,3,1,1
+Edward Z. Dager,Raymond J. Adamek,1,1,1
+Bernard E. Segal,Derek L. Phillips,2,4,1
+David Armor,Howard E. Freeman,1,1,1
+Howard E. Freeman,J. Michael Ross,1,1,1
+Howard E. Freeman,Thomas F. Pettigrew,1,1,1
+David Armor,J. Michael Ross,1,1,1
+David Armor,Thomas F. Pettigrew,1,1,1
+J. Michael Ross,Thomas F. Pettigrew,1,1,1
+Dianne Timbers Fairbank,Reta D. Artz,1,1,1
+Reta D. Artz,Richard F. Curtis,1,2,1
+Elton F. Jackson,Reta D. Artz,5,1,1
+Dianne Timbers Fairbank,Richard F. Curtis,1,2,1
+Dianne Timbers Fairbank,Elton F. Jackson,1,5,1
+Elton F. Jackson,Richard F. Curtis,5,2,2
+John L. Hammond,,1,,0
+Paul-Henri Chombart de Lauwe,,1,,0
+Carrell W. Abbott,Charles R. Brown,1,1,1
+Carrell W. Abbott,Paul V. Crosbie,1,1,1
+Charles R. Brown,Paul V. Crosbie,1,1,1
+Gertrude Jaeger,Philip Selznick,1,1,1
+Charles Tilly,David Snyder,2,2,2
+Harry Perlstadt,,1,,0
+J. David Martin,Louis N. Gray,2,2,1
+Raymond Boudon,,1,,0
+Harvey H. Marshall Jr.,Robert M. Jiobu,2,2,2
+Edward Harvey,,1,,0
+Peter Singelmann,,2,,0
+Norman J. Johnson,Richard H. Hall,1,2,1
+J. Eugene Haas,Richard H. Hall,2,2,1
+J. Eugene Haas,Norman J. Johnson,2,1,1
+John C. Leggett,,1,,0
+Archibald O. Haller,William H. Sewell,4,7,2
+George W. Ohlendorf,William H. Sewell,1,7,1
+Archibald O. Haller,George W. Ohlendorf,4,1,1
+Natalie Rogoff Ramsøy,,2,,0
+Jerold Heiss,,1,,0
+Paul R. Eberts,Ronald A. Witton,1,1,1
+Thomas Ewin Smith,,1,,0
+Reynolds Farley,,3,,0
+Edward Green,,1,,0
+Curtis R. Miller,Edgar W. Butler,1,1,1
+William H. Sewell,,7,,0
+Irving Kenneth Zola,,1,,0
+Lawrence S. Mayer,,3,,0
+Robert N. Bellah,,1,,0
+Roland J. Chilton,,3,,0
+Ephraim Yuchtman,Stanley E. Seashore,2,1,1
+Anselm L. Strauss,Barney G. Glaser,1,1,1
+J. Allen Williams Jr.,Nicholas Babchuk,1,2,1
+David R. Johnson,J. Allen Williams Jr.,1,1,1
+David R. Johnson,Nicholas Babchuk,1,2,1
+Patrick M. Horan,,1,,0
+Arthur G. Neal,Salomon Rettig,3,2,1
+Derek Pugh,,1,,0
+Joseph Julian,,1,,0
+Thomas S. Smith,,1,,0
+Lewis Lipsitz,,1,,0
+Bertram H. Raven,Richard Centers,1,1,1
+Aroldo Rodrigues,Richard Centers,1,1,1
+Aroldo Rodrigues,Bertram H. Raven,1,1,1
+Denise B. Kandel,Gerald S. Lesser,1,1,1
+Martin King Whyte,,1,,0
+Stephen V. Stephens,,1,,0
+Irving Krauss,,1,,0
+Milton C. Albrecht,,1,,0
+Mariam K. Slater,,1,,0
+Samuel Leinhardt,,2,,0
+Leslie Kish,,1,,0
+Otis Dudley Duncan,,2,,0
+David Mechanic,,1,,0
+Judah Matras,,1,,0
+H. Warren Dunham,Patricia Phillips,2,1,1
+Barbara Srinivasan,H. Warren Dunham,1,2,1
+Barbara Srinivasan,Patricia Phillips,1,1,1
+John Lofland,Rodney Stark,1,3,1
+Marshall W. Meyer,,3,,0
+Marshall H. Becker,,2,,0
+George C. Homans,,1,,0
+Paul Davidson Reynolds,,1,,0
+Charles Y. Glock,Rodney Stark,1,3,1
+Seymour Martin Lipset,,1,,0
+John W. Loy Jr.,,1,,0
+James Noell,Wolf Heydebrand,1,1,1
+Norman B. Ryder,,1,,0
+James M. Fendrich,,1,,0
+Norbert Wiley,,1,,0
+Robert A. Feldmesser,,1,,0
+Andrew Hopkins,,1,,0
+James M. Williams,,2,,0
+Alan Booth,Nicholas Babchuk,3,2,1
+C. T. Husbands,Roy W. Money,1,1,1
+Edward Gross,John G. Craig,2,1,1
+Charles Terry,Joshua A. Fishman,1,1,1
+Carolyn Cummings Perrucci,Robert Perrucci,2,2,1
+John Walton,,1,,0
+Bernard E. Segal,Robert J. Weiss,2,1,1
+Bernard E. Segal,Robert Sokol,2,1,1
+Robert J. Weiss,Robert Sokol,1,1,1
+Rex A. Lucas,,1,,0
+Robert A. Ellis,W. Clayton Lane,1,1,1
+Hyman Rodman,,2,,0
+Robert F. Winch,Samuel A. Mueller,2,1,1
+Lois Godiksen,Robert F. Winch,1,2,1
+Lois Godiksen,Samuel A. Mueller,1,1,1
+Joel H. Levine,,1,,0
+Gary T. Marx,,1,,0
+Salomon Rettig,,2,,0
+James G. Anderson,,1,,0
+Donald G. McTavish,,1,,0
+C. Norman Alexander Jr.,,2,,0
+David L. Klemmack,Thomas A. Leggette,1,1,1
+David L. Klemmack,Lawrence S. Mayer,1,3,1
+Lawrence S. Mayer,Thomas A. Leggette,3,1,1
+Walter R. Gove,,3,,0
+Roland L. Warren,,1,,0
+Ted G. Harvey,,1,,0
+Richard H. Ogles,Siamak Movahedi,1,1,1
+Philip M. Hauser,,1,,0
+Dorrian Apple Sweetser,,1,,0
+Jon P. Alston,Norval D. Glenn,1,3,1
+Arnold R. Silverman,Stanley Lieberson,1,4,1
+Robert K. Leik,,3,,0
+Yeheskel Hasenfeld,,1,,0
+Jerry Gaston,,1,,0
+Austin T. Turk,,1,,0
+Donald B. Rosenthal,Robert L. Crain,1,1,1
+Donald W. Hastings,J. Gregory Robinson,1,1,1
+David Gold,,1,,0
+Eric O. Hoiberg,Jerry S. Cloyd,1,2,1
+Andrew M. Greeley,,2,,0
+Roland K. Hawkes,,1,,0
+Peter M. Blau,,4,,0
+Sandra J. Ball-Rokeach,,1,,0
+David C. Epperson,,1,,0
+Albert J. Reiss Jr.,Donald J. Black,2,2,1
+Alice S. Rossi,,1,,0
+Bill Tudor,,1,,0
+Morris Freilich,,1,,0
+Charles Kadushin,,2,,0
+Charles Perrow,,1,,0
+Gerald Gordon,Janice Beyer Lodahl,1,1,1
+Charles C. Gordon,Hugh P. Whitt,1,1,1
+Hugh P. Whitt,John R. Hofley,1,1,1
+Charles C. Gordon,John R. Hofley,1,1,1
+David F. Sly,Robert H. Weller,2,1,1
+Frank W. Young,,1,,0
+Jeffrey M. Paige,Karen E. Paige,2,1,1
+Ruth Sinclair,S. S. Blume,1,1,1
+Paul Ritterband,Richard Silberstein,1,1,1
+John A. Ross,Perry Smith,1,1,1
+Joseph Ben-David,Randall Collins,1,2,1
+Terry N. Clark,,1,,0
+Charles W. Mueller,Duane F. Alwin,2,2,2
+James A. Davis,Paul Holland,2,1,1
+James A. Davis,Samuel Leinhardt,2,2,1
+Paul Holland,Samuel Leinhardt,1,2,1
+H. W. Smith,,1,,0
+Charles H. Proctor,,1,,0
+Donald J. Treiman,Robert W. Hodge,2,2,2
+Michael Grimes,Norval D. Glenn,1,3,1
+Howard E. Aldrich,Richard A. Berk,1,2,1
+Marion F. Steele,William J. Chambliss,1,2,1
+Albert Pierce,,1,,0
+Paul Hollander,,1,,0
+Alejandro Portes,William H. Sewell,3,7,1
+Alejandro Portes,Archibald O. Haller,3,4,1
+Bert N. Adams,,1,,0
+Claude S. Fischer,,1,,0
+Marvin B. Scott,Stanford M. Lyman,1,1,1
+Alan C. Acock,Melvin L. DeFleur,1,3,1
+John Finley Scott,,1,,0
+Ralph H. Turner,,2,,0
+Alan F. Blum,Peter McHugh,1,1,1
+Desmond S. Cartwright,,2,,0
+Daniel N. Gordon,,1,,0
+James R. Wood,,1,,0
+Arthur G. Neal,Melvin Seeman,3,3,1
+Barclay D. Johnson,,1,,0
+Amitai Etzioni,,2,,0
+Leonard I. Pearlin,Melvin L. Kohn,1,4,1
+James Curtis,,1,,0
+William A. Rushing,,1,,0
+Charles E. Bowerman,Glen H. Elder Jr.,1,3,1
+M. Joseph Smucker,William A. Faunce,1,1,1
+Colin J. Williams,Martin S. Weinberg,1,1,1
+Robert F. Winch,Scott Greer,2,1,1
+Rae Lesser Blumberg,Robert F. Winch,1,2,1
+Rae Lesser Blumberg,Scott Greer,1,1,1
+Michael A. Faia,,1,,0
+Sanford I. Labovitz,,1,,0
+David Knoke,,1,,0
+J. Eugene Haas,Thomas E. Drabek,2,1,1
+Jerry S. Cloyd,,2,,0
+LaMar T. Empey,Steven G. Lubeck,1,1,1
+Harvey Molotch,,1,,0
+Lionel Tiger,,1,,0
+Leon R. Jansyn Jr.,,1,,0
+Lolagene Coombs,Ronald Freedman,1,1,1
+Robert Lejeune,Stephen Cole,1,3,1
+David O. Smith,Desmond S. Cartwright,1,2,1
+Ronald Akers,,1,,0
+Guy E. Swanson,,1,,0
+Hart M. Nelsen,Raytha L. Yokley,1,1,1
+Hart M. Nelsen,Thomas W. Madron,1,1,1
+Raytha L. Yokley,Thomas W. Madron,1,1,1
+Alejandro Portes,,3,,0
+Joseph Lopreato,Letitia Alston,5,1,1
+Joseph W. Scott,Mohamed El-Assal,2,1,1
+B. F. Meeker,,1,,0
+Bruce P. Dohrenwend,,2,,0
+Ronald W. Maris,,1,,0
+John Henry Freeman,,1,,0
+Robert Price,,1,,0
+Amos H. Hawley,Walter Boland,2,1,1
+Amos H. Hawley,Margaret Boland,2,1,1
+Margaret Boland,Walter Boland,1,1,1
+Yonina Talmon,,1,,0
+Arthur H. Richardson,Elmer L. Struening,1,1,1
+Henry Winthrop,,1,,0
+Mary R. Jackman,Robert W. Jackman,4,1,1
+Edward O. Laumann,,4,,0
+Anthony R. Oberschall,Paul F. Lazarsfeld,1,1,1
+Glen G. Cain,Harold W. Watts,1,1,1
+Paul Eckstein,,1,,0
+Joan Rytina,William H. Form,1,3,1
+Stephan Thernstrom,,1,,0
+Frank R. Westie,,1,,0
+Gerhard E. Lenski,,1,,0
+Stephen Black,,1,,0
+Charles F. Westoff,Raymond H. Potvin,1,1,1
+Herbert L. Costner,,2,,0
+Harley L. Browning,Jack P. Gibbs,2,5,1
+David F. Sly,,2,,0
+Clark McPhail,David Miller,2,1,1
+Francesca M. Cancian,,1,,0
+William Petersen,,1,,0
+Jack P. Gibbs,Leonard Broom,5,3,1
+Robert E. Kennedy Jr.,,1,,0
+Ephraim Yuchtman,,2,,0
+Hans-Dieter Evers,,1,,0
+Marc Pilisuk,Robert Perrucci,1,2,1
+Walter Korpi,,1,,0
+Jack Ladinsky,,2,,0
+Harold Fallding,,1,,0
+Harriet Zuckerman,,1,,0
+John Brewer,,1,,0
+Daya Krishna,,1,,0
+Melvin L. Kohn,,4,,0
+J. Milton Yinger,Kiyoshi Ikeda,1,2,1
+Frank Laycock,J. Milton Yinger,1,1,1
+Frank Laycock,Kiyoshi Ikeda,1,2,1
+James L. Heap,Phillip A. Roth,1,1,1
+Murray L. Wax,,1,,0
+Arthur G. Neal,H. Theodore Groat,3,1,1
+Marjorie Fiske Lowenthal,,2,,0
+Talcott Parsons,,2,,0
+Eugene Litwak,Ivan Szelenyi,1,1,1
+Leonard Gordon,,1,,0
+Calvin F. Schmid,Maurice Donald Van Arsdol,2,1,1
+Calvin F. Schmid,Earle H. MacCannell,2,1,1
+Earle H. MacCannell,Maurice Donald Van Arsdol,1,1,1
+Gerry E. Hendershot,Thomas F. James,1,2,1
+Robert Edward Mitchell,,1,,0
+Clark McPhail,,2,,0
+Rodney Stark,,3,,0
+Elizabeth M. Havens,,1,,0
+Hanan C. Selvin,Warren O. Hagstrom,1,1,1
+Vimal P. Shah,William H. Sewell,1,7,1
+Richard A. Berk,,2,,0
+K. I. MacDonald,,1,,0
+Milton J. Brawer,Peter Y. De Jong,4,1,1
+Stephen Turner,,1,,0
+Gwynn Nettler,,1,,0
+H. Laurence Ross,,1,,0
+Andrew J. Weigert,Darwin L. Thomas,1,2,1
+George A. Hillery Jr.,,1,,0
+Robert E. Lane,,1,,0
+Donald C. Pelz,Frank M. Andrews,1,1,1
+Edward Gross,,2,,0
+Mark Lefton,William R. Rosengren,1,1,1
+Don Gray,,1,,0
+James Wilkins,,1,,0
+Harold L. Wilensky,,2,,0
+Elton F. Jackson,Peter J. Burke,5,2,1
+Peter M. Blau,Wolf V. Heydebrand,4,1,1
+Peter M. Blau,Robert E. Stauffer,4,1,1
+Robert E. Stauffer,Wolf V. Heydebrand,1,1,1
+Angela Lane,,1,,0
+Bernard C. Rosen,,1,,0
+Louis N. Gray,Maximilian H. vonBroembsen,2,1,1
+Pitirim A. Sorokin,,1,,0
+Fred H. Goldner,,1,,0
+Gudmund Hernes,,1,,0
+Gosta Carlsson,Katarina Karlsson,1,1,1
+David Willer,Judith Willer,2,1,1
+Donald G. Schweitzer,Sybil Schweitzer,1,1,1
+J. Michael Armer,William H. Sewell,1,7,1
+Morton O. Wagenfeld,R. Jay Turner,1,1,1
+Bernard P. Cohen,Joseph Berger,1,1,1
+Joseph Berger,Morris Zelditch Jr.,1,1,1
+Bernard P. Cohen,Morris Zelditch Jr.,1,1,1
+Ronald Maris,,1,,0
+James Frideres,K. W. Taylor,1,1,1
+James F. O'Connor,Stanley Lieberson,1,4,1
+Charles F. Cannell,Floyd J. Fowler Jr.,1,1,1
+Harley L. Browning,Sally C. Lopreato,2,1,1
+Dudley L. Poston Jr.,Harley L. Browning,1,2,1
+Dudley L. Poston Jr.,Sally C. Lopreato,1,1,1
+Joseph W. Scott,,2,,0
+Kiyoshi Ikeda,Richard Lempert,2,1,1
+David L. Featherman,Robert M. Hauser,4,1,1
+Edward O. Laumann,Franz Urban Pappi,4,1,1
+Derek L. Phillips,,4,,0
+C. Norman Alexander Jr.,Ernest Q. Campbell,2,1,1
+Donald J. Black,,2,,0
+David Rothstein,,1,,0
+Curt Tausky,Robert Dubin,1,1,1
+Anthony M. Orum,Roberta S. Cohen,1,1,1
+Cornelis J. Lammers,,1,,0
+Richard Quinney,Ronald L. Akers,1,1,1
+Joseph Lopreato,,5,,0
+Tai S. Kang,,1,,0
+James DeFronzo,,1,,0
+Charles P. Loomis,Joan Huber Rytina,3,1,1

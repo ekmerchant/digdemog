@@ -1,0 +1,64 @@
+doc,year,authors,title,journal,topic,pct,firsttop,firstpct,secondtop,secondpct
+2172301,1947,E. J. Buckatzsch,The Influence Of Social Conditions On Mortality Rates,Population Studies,topic 6,0.4381230757,topic 9,0.195515494371,topic 7,0.181856714543
+2172334,1948,J. B. D. Derksen,The Calculation Of Mortality-Rates In The Construction Of Life Tables. A Mathematical Statistical Study,Population Studies,topic 6,0.614536617177,topic 3,0.269459242408,topic 24,0.0794679049995
+2172364,1949,Hannes Hyrenius,Summary Indices Of The Age Distribution Of A Population,Population Studies,topic 6,0.498510444856,topic 3,0.428061930233,topic 18,0.0315492055643
+2172503,1950,Henry S. Shryock_ Jr.,Forecasts Of Population In The United States,Population Studies,topic 6,0.260906337798,topic 28,0.239667803171,topic 30,0.226043916621
+2172179,1951,Cyril J. Adcock,The Decline Of Intelligence,Population Studies,topic 6,0.3475857143,topic 3,0.338024725224,topic 17,0.117605766499
+2171998,1952,N. Keyfitz,Differential Fertility In Ontario. An Application Of Factorial Design To A Demographic Problem,Population Studies,topic 6,0.3285013286,topic 12,0.493634850544,topic 10,0.071718769683
+2172029,1953,W. Brass,The Derivation Of Fertility And Reproduction Rates From Restricted Data On Reproductive Histories,Population Studies,topic 6,0.302653000668,topic 3,0.497045496752,topic 16,0.0946419902338
+2172549,1954,H. Silcock,Note On Mr. Schneider'S Analysis,Population Studies,topic 6,0.643397796754,topic 3,0.24278574961,topic 17,0.0314495322964
+2172346,1955,J. Durbin,Appendix Note On A Statistical Question Raised In The Preceding Paper,Population Studies,topic 6,0.707790454076,topic 28,0.140407656461,topic 22,0.117543702833
+2172513,1957,Ansley J. Coale,A New Method For Calculating Lotka 'S R -- The Intrinsic Rate Of Growth In,Population Studies,topic 6,0.606286944311,topic 3,0.338199414519,topic 16,0.0202980454531
+2172212,1958,W. Brass,The Distribution Of Births In Human Populations,Population Studies,topic 6,0.553149110069,topic 16,0.310980992953,topic 9,0.037642521696
+2172410,1959,H. Silcock,The Comparison Of Occupational Mortality Rates,Population Studies,topic 6,0.634223401358,topic 3,0.170841446846,topic 24,0.0896012999752
+2172011,1960,W. Brass,The Graduation Of Fertility Distributions By Polynomial Functions,Population Studies,topic 6,0.503473945289,topic 3,0.375229946482,topic 16,0.0898878981092
+2173315,1961,Judah Matras,Differential Fertility_ Intergenerational Occupational Mobility_ And Change In The Occupational Distribution,Population Studies,topic 6,0.405425097948,topic 28,0.392268896852,topic 20,0.0818182054619
+2173125,1962,Hugh H. Wolfenden,On The Theoretical And Practical Considerations Underlying The Direct And Indirect Standardization Of Death Rates,Population Studies,topic 6,0.531919036294,topic 3,0.306051317214,topic 9,0.0495830078562
+2172694,1963,W. H. James,Estimates Of Fecundability,Population Studies,topic 6,0.310495857259,topic 8,0.524224609754,topic 21,0.0589811801345
+2060032,1964,N. B. Ryder,The Process Of Demographic Translation,Demography,topic 6,0.62899300573,topic 16,0.262078602614,topic 22,0.0303284958522
+2173290,1965,N. Keyfitz,The Intrinsic Rate Of Natural Increase And The Dominant Root Of The Projection Matrix,Population Studies,topic 6,0.585277520823,topic 3,0.332680233729,topic 22,0.0230863761618
+2060077,1966,E. M. Murphy,The Latent Roots Of The Population Projection Matrix,Demography,topic 6,0.844394437044,topic 28,0.0561810200043,topic 16,0.0312140234328
+2060308,1967,Alvaro Lopez,Asymptotic Properties Of A Human Age Distribution Under A Continuous Net Maternity Function,Demography,topic 6,0.746122970696,topic 16,0.139599669131,topic 28,0.062532957764
+2060216,1968,Leo A. Goodman,An Elementary Approach To The Population Projection-Matrix_ To The Population Reproductive Value_ And To Related,Demography,topic 6,0.693756886514,topic 3,0.227056419159,topic 20,0.0380283941441
+2060391,1969,J. H. Pollard,A Discrete-Time Two-Sex Age-Specific Stochastic Population Program Incorporating Marriage,Demography,topic 6,0.751742957236,topic 3,0.153928349233,topic 26,0.070271120324
+2060406,1970,J. H. Pollard,A Taylor Series Expansion For Lotka'S R,Demography,topic 6,0.873341883863,topic 16,0.0973248265003,topic 9,0.00974078333359
+2060681,1971,Tore Schweder,The Precision Of Population Projections Studied By Multiple Prediction Methods,Demography,topic 6,0.734044717509,topic 3,0.199925149897,topic 2,0.0216384932657
+2060865,1972,N. Krishnan Namboodiri,On The Ratio-Correlation And Related Methods Of Subnational Population Estimation,Demography,topic 6,0.775556345461,topic 3,0.0901596352167,topic 21,0.0709681552504
+2060883,1973,James C. Mccann,A More Accurate Short Method Of Approximating Lotka'S R,Demography,topic 6,0.770731479749,topic 3,0.126385607701,topic 28,0.0476539875459
+2060440,1974,Joao L. M. Saboia,Modeling And Forecasting Populations By Time Series,Demography,topic 6,0.777874332116,topic 3,0.127251005681,topic 2,0.0657186376634
+2060838,1975,,Author'S Correction Notice,Demography,topic 6,0.805746385613,topic 3,0.0429484762618,topic 29,0.0409491838722
+2060808,1976,Robert Schoen,Reply To Rogers And Ledent,Demography,topic 6,0.805640425361,topic 11,0.0780971288654,topic 7,0.0648925646995
+2060581,1977,Donald R. Mcneil,Spline Interpolation Of Demographic Data,Demography,topic 6,0.788018117189,topic 16,0.114150407208,topic 28,0.0589303779381
+2060496,1978,P. Cerone,The Stable Births Resulting From A Time Dependent Change Between Two Net Maternity Functions,Demography,topic 6,0.846805458914,topic 16,0.122246239597,topic 3,0.018520663168
+2060937,1979,John Mcdonald,A Time Series Approach To Forecasting Australian Total Live-Births,Demography,topic 6,0.747904330125,topic 16,0.114043281994,topic 7,0.0814485914367
+2061154,1980,David A. Swanson,Improving Accuracy In Multiple Regression Estimates Of Population Using Principles From Causal Modelling,Demography,topic 6,0.702308062537,topic 7,0.142044701101,topic 28,0.0948011756717
+2174668,1981,C. M. Suchindran,A Reply To Avery And Hakkert,Population Studies,topic 6,0.815588308832,topic 16,0.137785408725,topic 3,0.0138181017289
+2061011,1982,W. Brian Arthur,The Ergodic Theorems Of Demography,Demography,topic 6,0.710617469619,topic 16,0.218969473079,topic 22,0.0333288284647
+2060902,1983,P. Cerone,The Long-Term Effects Of Time-Dependent Maternity Behavior,Demography,topic 6,0.767800634212,topic 16,0.0966465833902,topic 20,0.075627596804
+2174081,1984,El-Sayed Nour,The Construction Of Multi-State Life Tables,Population Studies,topic 6,0.69506446711,topic 11,0.243914415638,topic 20,0.0254787839216
+2061072,1985,Young J. Kim,On The Dynamics Of Populations With Two Age Groups,Demography,topic 6,0.778235897718,topic 16,0.183930955438,topic 2,0.0159106357636
+2061412,1986,Joel E. Cohen,Population Forecasts And Confidence Intervals For Sweden,Demography,topic 6,0.782593645725,topic 3,0.128243333425,topic 2,0.0508486253955
+2061308,1987,Pietro Cerone,On Stable Population Theory With Immigration,Demography,topic 6,0.76115776655,topic 16,0.10099932846,topic 18,0.0731593250407
+2061297,1988,,Correction,Demography,topic 6,0.84814537842,topic 7,0.0618625187402,topic 3,0.0284772557612
+2061268,1989,Yu Xie,An Alternative Purging Method,Demography,topic 6,0.763212051417,topic 7,0.122955694992,topic 3,0.0820478579092
+2061456,1990,Juha M. Alho,Estimation Of Exposure Time Distributions,Demography,topic 6,0.629301962856,topic 3,0.189245529128,topic 23,0.0691805699753
+2061467,1991,Robert Schoen,Movement Toward Stability As A Fundamental Principle Of Population Dynamics,Demography,topic 6,0.696011268522,topic 3,0.244377798908,topic 16,0.0237517512861
+2174711,1992,Evert Van Imhoff,A General Characterization Of Consistency Algorithms In Multidimensional Demographic Projection Models,Population Studies,topic 6,0.733432725052,topic 3,0.137072780215,topic 26,0.0404638082448
+2174729,1993,Jim Oeppen,Back Projection And Inverse Projection,Population Studies,topic 6,0.623267289694,topic 3,0.264856445446,topic 18,0.0332163788616
+2174896,1994,Nico Keilman,Translation Formulae For Non-Repeatable Events,Population Studies,topic 6,0.47903115868,topic 16,0.448033114648,topic 26,0.0232682947463
+2175161,1995,Nico Keilman,Cohort Quantum As A Function Of Time-Dependent Period Quantum For Non- Repeatable Events,Population Studies,topic 6,0.503209908603,topic 16,0.460263177391,topic 20,0.018647099056
+2061785,1996,Jeff Tayman,On The Utility Of Population Forecasts,Demography,topic 6,0.502869523928,topic 13,0.36859716599,topic 29,0.0346257917785
+3038294,1997,Young J. Kim,Population Momentum Expresses Population Aging,Demography,topic 6,0.642749612618,topic 3,0.258404533577,topic 11,0.053032975017
+2808048,1998,Dennis A. Ahlburg,Introduction,Population and Development Review,topic 6,0.664512188652,topic 30,0.0903680144153,topic 2,0.0603610564777
+2584680,1999,Nan Li,Population Momentum For Gradual Demographic Transitions,Population Studies,topic 6,0.661099670004,topic 20,0.159118742158,topic 16,0.151481289671
+2648121,2000,David A. Swanson,A Note On The Measurement Of Accuracy For Subnational Demographic Estimates,Demography,topic 6,0.741818083102,topic 7,0.0707898381768,topic 28,0.0637838825885
+3088317,2001,Ronald Lee,Evaluating The Performance Of The Lee-Carter Method For Forecasting Mortality,Demography,topic 6,0.514051829402,topic 11,0.387636654745,topic 2,0.046475875121
+3088364,2002,Joshua R. Goldstein,Population Momentum For Gradual Demographic Transitions,Demography,topic 6,0.642954400347,topic 20,0.164128199134,topic 16,0.14881491074
+1515200,2003,Robert Schoen,Modeling Momentum In Gradual Demographic Transitions,Demography,topic 6,0.710178097969,topic 16,0.239192230871,topic 20,0.0251421008488
+3401467,2004,Ronald Lee,Quantifying Our Ignorance,Population and Development Review,topic 6,0.496905782239,topic 29,0.204697165785,topic 11,0.122995480679
+4147361,2005,Renato M. AssunçãO,Empirical Bayes Estimation Of Demographic Schedules For Small Areas,Demography,topic 6,0.588962033076,topic 10,0.173056671467,topic 16,0.0713196343535
+4137248,2006,Robert Schoen,Multistate Cohort Models With Proportional Transfer Rates,Demography,topic 6,0.553475428071,topic 16,0.35094814191,topic 11,0.0607762644521
+27643398,2007,M. A. Jonker,Correcting Missing-Data Bias In Historical Demography,Population Studies,topic 6,0.532828445178,topic 11,0.183398312467,topic 21,0.112034394771
+25651475,2008,Shiro Horiuchi,A Decomposition Method Based On A Model Of Continuous Change,Demography,topic 6,0.57090100022,topic 11,0.197663510615,topic 7,0.173590156711
+25476007,2009,Michael S. Rendall,Bayesian Estimation Of Hispanic Fertility Hazards From Survey And Population Data,Demography,topic 6,0.57706604598,topic 7,0.158066815339,topic 16,0.141961500791
+40983082,2010,Scott M. Lynch,Obtaining Multistate Life Table Distributions For Highly Refined Subpopulations From Cross-Sectional Data,Demography,topic 6,0.51028131313,topic 11,0.2964641933,topic 7,0.149435279488

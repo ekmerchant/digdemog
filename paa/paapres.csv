@@ -1,0 +1,82 @@
+name,birth,death,pyears,pyeare,phdyear,phdfield,phdinst,advisor,paffil
+Henry Pratt Fairchild,1880,1956,1931,1935,1909,sociology,Yale,,NYU
+Louis I. Dublin,1882,1969,1935,1936,1904,statistics,Columbia,,industry
+Warren Thompson,1887,1973,1936,1938,1915,sociology,Columbia,Franklin Giddings,foundation
+Alfred J. Lotka,1880,1949,1938,1939,1912,biology,international,,industry
+Leon Truesdell,1882,1973,1939,1940,1907,statistics,Brown,,government
+T.J. Woofter Jr.,,,1940,1941,1921,sociology,Columbia,Franklin Giddings,government
+Pascal K. Whelpton,1893,1964,1941,1942,1920,economics,Nebraska,,foundation
+Lowell J. Reed,1886,1966,1942,1945,1918,biology,Penn,,Johns Hopkins
+Frank Hankins,1877,1970,1945,1946,1908,sociology,Columbia,Franklin Giddings,Smith
+Frank Lorimer,1895,1985,1946,1947,1927,sociology,Columbia,Franklin Giddings,American University
+Frank W. Notestein,1902,1983,1947,1948,1927,economics,Cornell,Walter Willcox,Princeton
+Conrad Taeuber,1906,1999,1948,1949,1931,sociology,Minnesota,Francis Stuart Chapin,government
+Frederick Osborn,1889,1981,1949,1950,,none,none,,foundation
+Philip M. Hauser,1909,1994,1950,1951,1938,sociology,Chicago,William Fielding Ogburn,Chicago
+Rupert Vance,1899,1975,1951,1952,1926,,North Carolina,Howard W. Odum,North Carolina
+Clyde V. Kiser,,,1952,1953,1932,sociology,Columbia,Franklin Giddings,foundation
+Irene Taeuber,1906,1974,1953,1954,1931,sociology,Minnesota,Francis Stuart Chapin,Princeton
+Margaret J. Hagood,1907,1963,1954,1955,1937,sociology,North Carolina,Howard W. Odum,government
+Henry Shryock Jr.,1913,2012,1955,1956,1950,sociology,Wisconsin,Samuel A. Stouffer,government
+Joseph J. Spengler,1902,1991,1956,1957,1930,economics,Ohio State,,Duke
+Harold F. Dorn,1906,1963,1957,1958,1950,sociology,Wisconsin,Samuel A. Stouffer,government
+Dorothy S. Thomas,1899,1977,1958,1959,1924,economics,international,,Penn
+Dudley Kirk,1924,2000,1959,1960,1946,sociology,Harvard,Edward P. Hutchinson,foundation
+C. Horace Hamilton,1901,1977,1960,1961,1950,sociology,none,,North Carolina
+John D. Durand,1913,,1961,1962,1939,economics,Princeton,Frank W. Notestein,Princeton
+Kingsley Davis,1908,1997,1962,1963,1937,sociology,Harvard,Talcott Parsons,Berkeley
+Donald J. Bogue,,,1963,1964,1949,sociology,Michigan,Amos H. Hawley,Chicago
+Ronald Freedman,1917,,1964,1965,1947,sociology,Chicago,William Fielding Ogburn,Michigan
+Calvin F. Schmid,,,1965,1966,1930,sociology,Pittsburgh,,government
+Paul Glick,1910,2006,1966,1967,1938,sociology,Wisconsin,Samuel A. Stouffer,government
+Ansley J. Coale,,,1967,1968,1947,economics,Princeton,Frank W. Notestein,Princeton
+Otis Dudley Duncan,1921,2004,1968,1969,1949,sociology,Chicago,William Fielding Ogburn,Michigan
+Everett S. Lee,1917,2007,1969,1970,1952,sociology,Penn,Dorothy S. Thomas,UMass
+Nathan Keyfitz,1913,2010,1970,1971,1952,sociology,Chicago,William Fielding Ogburn,Berkeley
+Amos H. Hawley,1910,2009,1971,1972,1940,sociology,Michigan,Roderick McKenzie,North Carolina
+Norman B. Ryder,1924,2010,1972,1973,1951,sociology,Princeton,Frank W. Notestein,Princeton
+Arthur A. Campbell,,,1973,1974,1950,sociology,Columbia,Kingsley Davis,government
+Charles F. Westoff,,,1974,1975,1953,sociology,Penn,Dorothy S. Thomas,Princeton
+Sidney Goldstein,,,1975,1976,1953,sociology,Penn,Dorothy S. Thomas,Brown
+Evelyn Kitagawa,,,1976,1977,1951,sociology,Chicago,Philip M. Hauser,Chicago
+Richard Easterlin,,,1977,1978,1953,economics,Penn,Dorothy S. Thomas,Penn
+Charles B. Nam,,,1978,1979,1959,sociology,North Carolina,Rupert Vance,Florida State
+Jacob S. Siegel,,,1979,1980,1943,sociology,Penn,Dorothy S. Thomas,government
+Judith Blake,1927,1993,1980,1981,1961,sociology,Columbia,Kingsley Davis,UCLA
+John F. Kantner,,,1981,1982,1953,sociology,Michigan,Ronald Freedman,Johns Hopkins
+George J. Stolnitz,,,1982,1983,1952,economics,Princeton,Frank W. Notestein,government
+Samuel H. Preston,,,1983,1984,1968,economics,Princeton,Ansley J. Coale,Penn
+Jane A. Menken,,,1984,1985,1975,sociology,Princeton,Ansley J. Coale,Princeton
+Paul Demeny,,,1985,1986,1961,economics,Princeton,Ansley J. Coale,foundation
+Ronald Lee,,,1986,1987,1971,economics,Harvard,Nathan Keyfitz,Berkeley
+Reynolds Farley,,,1987,1988,1964,sociology,Chicago,Otis Dudley Duncan,Michigan
+Harriet B. Presser,,,1988,1989,1969,sociology,Berkeley,Kingsley Davis,Maryland
+Larry L. Bumpass,,,1989,1990,1968,sociology,Michigan,Ronald Freedman,Wisconsin
+Ronald R. Rindfuss,,,1990,1991,1974,sociology,Princeton,Charles F. Westoff,North Carolina
+Etienne Van de Walle,,,1991,1992,1973,sociology,international,,Penn
+Albert I. Hermalin,,,1992,1993,1969,sociology,Princeton,Ansley J. Coale,Michigan
+J. Richard Udry,,,1993,1994,1960,sociology,USC,,North Carolina
+Linda J. Waite,,,1994,1995,1976,sociology,Michigan,Ronald Freedman,Chicago
+Douglas S. Massey,,,1995,1996,1978,sociology,Princeton,Ansley J. Coale,Princeton
+Karen O. Mason,,,1996,1997,1982,sociology,Michigan,David Goldberg,Penn
+Anne R. Pebley,,,1997,1998,1980,sociology,Cornell,,UCLA
+Andrew J. Cherlin,,,1998,1999,1976,sociology,UCLA,,Johns Hopkins
+Suzanne M. Bianchi,,,1999,2000,1978,sociology,Michigan,Ronald Freedman,Maryland
+Arland Thornton,,,2000,2001,1975,sociology,Michigan,Ronald Freedman,Michigan
+Marta Tienda,,,2001,2002,1976,sociology,Texas,W. Parker Frisbie,Princeton
+S. Philip Morgan,,,2002,2003,1980,sociology,Arizona,,North Carolina
+Sara McLanahan,,,2003,2004,1979,sociology,Texas,W. Parker Frisbie,Princeton
+Charles Hirschman,,,2004,2005,1972,sociology,Wisconsin,Larry L. Bumpass,Washington
+Alberto Palloni,,,2005,2006,1977,sociology,Washington,Samuel H. Preston,Wisconsin
+Francis Stuart Chapin,1888,1974,,,1911,sociology,Columbia,Franklin Giddings,Minnesota
+William Fielding Ogburn,1886,1959,,,1919,sociology,Columbia,Franklin Giddings,Chicago
+Samuel A. Stouffer,1900,1960,,,1930,sociology,Chicago,William Fielding Ogburn,Wisconsin
+Walter Willcox,1861,1964,,,1891,statistics,Columbia,Richmond Mayo-Smith,Cornell
+Edward P. Hutchinson,1906,1990,,,1910,statistics,MIT,,Penn
+Franklin Giddings,1855,1931,,,1880,sociology,none,,Columbia
+Roderick McKenzie,,,,,1920,sociology,,,
+Talcott Parsons,,,,,1926,sociology,international,,
+David Goldberg,,,,,1958,sociology,Michigan,Ronald Freedman,
+W. Parker Frisbie,,,,,1972,sociology,North Carolina,Amos H. Hawley,Texas
+Richmond Mayo-Smith,1854,1901,,,1877,economics,Heidelberg,,
+Howard W. Odum,1884,1954,,,1920,sociology,Columbia,Franklin Giddings,

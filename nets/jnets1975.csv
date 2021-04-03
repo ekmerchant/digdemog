@@ -1,0 +1,327 @@
+source,target,scount,tcount,sfield,tfield,sabbrev,tabbrev,weight
+Studies in Family Planning,,388,,famplan,,Studies in FP,,0
+Transactions of the Faculty of Actuaries,,1,,statistics,,Actuaries,,0
+William and Mary Quarterly,,19,,history,,WMQ,,0
+Social Forces,,110,,sociology,,Social Forces,,0
+AAAPSS,,76,,general,,AAAPSS,,0
+Journal of Marriage and Family,,213,,demography,,JMF,,0
+GeoJournal,,52,,geography,,GeoJournal,,0
+American Economic Review,,68,,economics,,AER,,0
+Journal of Economic History,,72,,history,,JEH,,0
+Population Index,,57,,demography,,Pop. Index,,0
+American Journal of Sociology,,81,,sociology,,AJS,,0
+Social Science History,,44,,history,,SSH,,0
+Population Studies,,312,,demography,,Pop. Studies,,0
+Social Indicators Research,,78,,general,,Soc. Ind.,,0
+American Journal of Agricultural Economics,,43,,economics,,Ag. Econ.,,0
+Public Health Reports,,135,,pubh,,PHR,,0
+Science,,59,,general,,Science,,0
+Economic Geography,,46,,geography,,Econ. Geo.,,0
+PDR,,323,,demography,,PDR,,0
+Human Biology,,141,,eugenics,,Human Biology,,0
+Economic Development and Cultural Change,,107,,economics,,Econ. Dev.,,0
+Demography,,379,,demography,,Demography,,0
+Population and Environment,,51,,demography,,Pop. Env.,,0
+Journal of Social History,,47,,history,,Social Hist.,,0
+Genus,,76,,eugenics,,Genus,,0
+J. of the American Statistical Association,,30,,statistics,,JASA,,0
+PNAS,,10,,general,,PNAS,,0
+Journal of Interdisciplinary History,,92,,history,,JIH,,0
+International Migration Review,,279,,demography,,IMR,,0
+American Sociological Review,,93,,sociology,,ASR,,0
+Biometrika,,1,,eugenics,,Biometrika,,0
+Economic History Review,,27,,history,,EHR,,0
+PRPR,,26,,demography,,PRPR,,0
+Family Planning Perspectives,,352,,famplan,,FP Perspectives,,0
+Biometrics,,17,,eugenics,,Biometrics,,0
+International FP Perspectives,,178,,famplan,,Intl. FP,,0
+Human Biology,Population Studies,141,312,eugenics,demography,Human Biology,Pop. Studies,4
+Human Biology,PNAS,141,10,eugenics,general,Human Biology,PNAS,3
+PNAS,Population Studies,10,312,general,demography,PNAS,Pop. Studies,2
+Demography,International FP Perspectives,379,178,demography,famplan,Demography,Intl. FP,17
+Demography,PRPR,379,26,demography,demography,Demography,PRPR,10
+Demography,Social Forces,379,110,demography,sociology,Demography,Social Forces,37
+International FP Perspectives,PRPR,178,26,famplan,demography,Intl. FP,PRPR,4
+International FP Perspectives,Social Forces,178,110,famplan,sociology,Intl. FP,Social Forces,4
+PRPR,Social Forces,26,110,demography,sociology,PRPR,Social Forces,2
+AAAPSS,American Journal of Agricultural Economics,76,43,general,economics,AAAPSS,Ag. Econ.,1
+Demography,Genus,379,76,demography,eugenics,Demography,Genus,13
+Genus,Population Studies,76,312,eugenics,demography,Genus,Pop. Studies,10
+Demography,Population Studies,379,312,demography,demography,Demography,Pop. Studies,54
+Family Planning Perspectives,International FP Perspectives,352,178,famplan,famplan,FP Perspectives,Intl. FP,39
+Family Planning Perspectives,Social Forces,352,110,famplan,sociology,FP Perspectives,Social Forces,9
+AAAPSS,American Journal of Sociology,76,81,general,sociology,AAAPSS,AJS,6
+Genus,Studies in Family Planning,76,388,eugenics,famplan,Genus,Studies in FP,5
+Demography,Studies in Family Planning,379,388,demography,famplan,Demography,Studies in FP,36
+Population Studies,Studies in Family Planning,312,388,demography,famplan,Pop. Studies,Studies in FP,44
+Demography,Human Biology,379,141,demography,eugenics,Demography,Human Biology,12
+Demography,Public Health Reports,379,135,demography,pubh,Demography,PHR,6
+Biometrics,Demography,17,379,eugenics,demography,Biometrics,Demography,4
+Human Biology,Public Health Reports,141,135,eugenics,pubh,Human Biology,PHR,5
+Biometrics,Human Biology,17,141,eugenics,eugenics,Biometrics,Human Biology,2
+Biometrics,Public Health Reports,17,135,eugenics,pubh,Biometrics,PHR,3
+American Sociological Review,J. of the American Statistical Association,93,30,sociology,statistics,ASR,JASA,3
+American Economic Review,Journal of Economic History,68,72,economics,history,AER,JEH,3
+American Sociological Review,Demography,93,379,sociology,demography,ASR,Demography,26
+Demography,Population and Environment,379,51,demography,demography,Demography,Pop. Env.,18
+American Sociological Review,Population and Environment,93,51,sociology,demography,ASR,Pop. Env.,4
+American Sociological Review,Social Forces,93,110,sociology,sociology,ASR,Social Forces,27
+Population and Environment,Social Forces,51,110,demography,sociology,Pop. Env.,Social Forces,7
+PDR,PRPR,323,26,demography,demography,PDR,PRPR,5
+PRPR,Population Studies,26,312,demography,demography,PRPR,Pop. Studies,3
+PDR,Population Studies,323,312,demography,demography,PDR,Pop. Studies,31
+American Journal of Sociology,Journal of Marriage and Family,81,213,sociology,demography,AJS,JMF,14
+Demography,Population Index,379,57,demography,demography,Demography,Pop. Index,21
+Population Studies,Science,312,59,demography,general,Pop. Studies,Science,7
+International FP Perspectives,Studies in Family Planning,178,388,famplan,famplan,Intl. FP,Studies in FP,56
+Economic Development and Cultural Change,Studies in Family Planning,107,388,economics,famplan,Econ. Dev.,Studies in FP,5
+PDR,Studies in Family Planning,323,388,demography,famplan,PDR,Studies in FP,30
+Economic Development and Cultural Change,PDR,107,323,economics,demography,Econ. Dev.,PDR,19
+Economic History Review,Population Studies,27,312,history,demography,EHR,Pop. Studies,2
+American Sociological Review,Social Indicators Research,93,78,sociology,general,ASR,Soc. Ind.,4
+American Sociological Review,Journal of Marriage and Family,93,213,sociology,demography,ASR,JMF,14
+Journal of Marriage and Family,Social Indicators Research,213,78,demography,general,JMF,Soc. Ind.,1
+American Journal of Agricultural Economics,Social Indicators Research,43,78,economics,general,Ag. Econ.,Soc. Ind.,2
+Population Index,Social Forces,57,110,demography,sociology,Pop. Index,Social Forces,2
+Economic History Review,Journal of Interdisciplinary History,27,92,history,history,EHR,JIH,4
+Family Planning Perspectives,Studies in Family Planning,352,388,famplan,famplan,FP Perspectives,Studies in FP,42
+Family Planning Perspectives,Population and Environment,352,51,famplan,demography,FP Perspectives,Pop. Env.,5
+Social Forces,Social Indicators Research,110,78,sociology,general,Social Forces,Soc. Ind.,4
+Social Forces,Studies in Family Planning,110,388,sociology,famplan,Social Forces,Studies in FP,9
+Population Studies,Social Forces,312,110,demography,sociology,Pop. Studies,Social Forces,4
+American Journal of Sociology,Studies in Family Planning,81,388,sociology,famplan,AJS,Studies in FP,2
+American Journal of Sociology,Population and Environment,81,51,sociology,demography,AJS,Pop. Env.,3
+American Journal of Sociology,International Migration Review,81,279,sociology,demography,AJS,IMR,11
+Population and Environment,Studies in Family Planning,51,388,demography,famplan,Pop. Env.,Studies in FP,6
+International Migration Review,Studies in Family Planning,279,388,demography,famplan,IMR,Studies in FP,7
+Journal of Marriage and Family,Studies in Family Planning,213,388,demography,famplan,JMF,Studies in FP,14
+International Migration Review,Population and Environment,279,51,demography,demography,IMR,Pop. Env.,3
+Journal of Marriage and Family,Population and Environment,213,51,demography,demography,JMF,Pop. Env.,9
+International Migration Review,Journal of Marriage and Family,279,213,demography,demography,IMR,JMF,14
+Demography,Economic Development and Cultural Change,379,107,demography,economics,Demography,Econ. Dev.,10
+PDR,Population Index,323,57,demography,demography,PDR,Pop. Index,16
+AAAPSS,Demography,76,379,general,demography,AAAPSS,Demography,9
+American Economic Review,Demography,68,379,economics,demography,AER,Demography,10
+American Economic Review,J. of the American Statistical Association,68,30,economics,statistics,AER,JASA,1
+Demography,J. of the American Statistical Association,379,30,demography,statistics,Demography,JASA,15
+Journal of Interdisciplinary History,Social Science History,92,44,history,history,JIH,SSH,17
+Public Health Reports,Studies in Family Planning,135,388,pubh,famplan,PHR,Studies in FP,11
+Family Planning Perspectives,Public Health Reports,352,135,famplan,pubh,FP Perspectives,PHR,7
+International FP Perspectives,Public Health Reports,178,135,famplan,pubh,Intl. FP,PHR,5
+American Journal of Sociology,Family Planning Perspectives,81,352,sociology,famplan,AJS,FP Perspectives,7
+Journal of Economic History,Journal of Interdisciplinary History,72,92,history,history,JEH,JIH,11
+Journal of Economic History,William and Mary Quarterly,72,19,history,history,JEH,WMQ,2
+Economic History Review,Journal of Economic History,27,72,history,history,EHR,JEH,2
+Journal of Economic History,Social Science History,72,44,history,history,JEH,SSH,6
+Journal of Interdisciplinary History,William and Mary Quarterly,92,19,history,history,JIH,WMQ,3
+Economic History Review,William and Mary Quarterly,27,19,history,history,EHR,WMQ,1
+Social Science History,William and Mary Quarterly,44,19,history,history,SSH,WMQ,3
+Economic History Review,Social Science History,27,44,history,history,EHR,SSH,1
+Demography,PDR,379,323,demography,demography,Demography,PDR,36
+Population Index,Population Studies,57,312,demography,demography,Pop. Index,Pop. Studies,8
+International FP Perspectives,Population Studies,178,312,famplan,demography,Intl. FP,Pop. Studies,18
+Economic Development and Cultural Change,Journal of Economic History,107,72,economics,history,Econ. Dev.,JEH,5
+International Migration Review,Population Studies,279,312,demography,demography,IMR,Pop. Studies,6
+Journal of Marriage and Family,Population Studies,213,312,demography,demography,JMF,Pop. Studies,20
+Demography,Journal of Marriage and Family,379,213,demography,demography,Demography,JMF,32
+Population Studies,Population and Environment,312,51,demography,demography,Pop. Studies,Pop. Env.,7
+PRPR,Population and Environment,26,51,demography,demography,PRPR,Pop. Env.,1
+PDR,Science,323,59,demography,general,PDR,Science,10
+Economic Geography,Science,46,59,geography,general,Econ. Geo.,Science,2
+AAAPSS,American Sociological Review,76,93,general,sociology,AAAPSS,ASR,3
+Journal of Economic History,Studies in Family Planning,72,388,history,famplan,JEH,Studies in FP,1
+Economic Development and Cultural Change,Genus,107,76,economics,eugenics,Econ. Dev.,Genus,5
+Genus,Journal of Economic History,76,72,eugenics,history,Genus,JEH,1
+Genus,PDR,76,323,eugenics,demography,Genus,PDR,4
+Demography,Journal of Economic History,379,72,demography,history,Demography,JEH,3
+Journal of Economic History,PDR,72,323,history,demography,JEH,PDR,2
+Demography,Family Planning Perspectives,379,352,demography,famplan,Demography,FP Perspectives,33
+American Journal of Sociology,American Sociological Review,81,93,sociology,sociology,AJS,ASR,22
+American Journal of Sociology,Social Forces,81,110,sociology,sociology,AJS,Social Forces,25
+American Journal of Sociology,Demography,81,379,sociology,demography,AJS,Demography,28
+American Economic Review,Economic Development and Cultural Change,68,107,economics,economics,AER,Econ. Dev.,7
+American Economic Review,PDR,68,323,economics,demography,AER,PDR,10
+Journal of Economic History,Population Studies,72,312,history,demography,JEH,Pop. Studies,4
+Demography,International Migration Review,379,279,demography,demography,Demography,IMR,18
+International Migration Review,Social Forces,279,110,demography,sociology,IMR,Social Forces,11
+International FP Perspectives,Journal of Marriage and Family,178,213,famplan,demography,Intl. FP,JMF,2
+Journal of Marriage and Family,Social Forces,213,110,demography,sociology,JMF,Social Forces,26
+Demography,Journal of Interdisciplinary History,379,92,demography,history,Demography,JIH,9
+Demography,PNAS,379,10,demography,general,Demography,PNAS,1
+Journal of Interdisciplinary History,PNAS,92,10,history,general,JIH,PNAS,1
+J. of the American Statistical Association,Journal of Interdisciplinary History,30,92,statistics,history,JASA,JIH,3
+J. of the American Statistical Association,PNAS,30,10,statistics,general,JASA,PNAS,1
+Economic Development and Cultural Change,Population Studies,107,312,economics,demography,Econ. Dev.,Pop. Studies,4
+Public Health Reports,Social Forces,135,110,pubh,sociology,PHR,Social Forces,3
+Population Studies,Social Indicators Research,312,78,demography,general,Pop. Studies,Soc. Ind.,1
+AAAPSS,Social Forces,76,110,general,sociology,AAAPSS,Social Forces,7
+American Economic Review,Journal of Marriage and Family,68,213,economics,demography,AER,JMF,1
+American Journal of Agricultural Economics,Science,43,59,economics,general,Ag. Econ.,Science,1
+Economic Development and Cultural Change,J. of the American Statistical Association,107,30,economics,statistics,Econ. Dev.,JASA,1
+International FP Perspectives,Population and Environment,178,51,famplan,demography,Intl. FP,Pop. Env.,1
+Human Biology,Population and Environment,141,51,eugenics,demography,Human Biology,Pop. Env.,1
+Human Biology,Journal of Marriage and Family,141,213,eugenics,demography,Human Biology,JMF,1
+Family Planning Perspectives,Population Studies,352,312,famplan,demography,FP Perspectives,Pop. Studies,14
+Economic Development and Cultural Change,Journal of Social History,107,47,economics,history,Econ. Dev.,Social Hist.,1
+Journal of Marriage and Family,PDR,213,323,demography,demography,JMF,PDR,12
+Journal of Social History,Social Science History,47,44,history,history,Social Hist.,SSH,7
+American Sociological Review,Population Studies,93,312,sociology,demography,ASR,Pop. Studies,3
+AAAPSS,Population Studies,76,312,general,demography,AAAPSS,Pop. Studies,5
+AAAPSS,J. of the American Statistical Association,76,30,general,statistics,AAAPSS,JASA,2
+J. of the American Statistical Association,Population Studies,30,312,statistics,demography,JASA,Pop. Studies,4
+American Sociological Review,International Migration Review,93,279,sociology,demography,ASR,IMR,9
+American Economic Review,Social Science History,68,44,economics,history,AER,SSH,2
+Economic Development and Cultural Change,Science,107,59,economics,general,Econ. Dev.,Science,1
+International FP Perspectives,International Migration Review,178,279,famplan,demography,Intl. FP,IMR,3
+International FP Perspectives,PDR,178,323,famplan,demography,Intl. FP,PDR,13
+International Migration Review,PDR,279,323,demography,demography,IMR,PDR,8
+Journal of Interdisciplinary History,Journal of Social History,92,47,history,history,JIH,Social Hist.,9
+Demography,Social Science History,379,44,demography,history,Demography,SSH,8
+PDR,Social Science History,323,44,demography,history,PDR,SSH,6
+Journal of Interdisciplinary History,Studies in Family Planning,92,388,history,famplan,JIH,Studies in FP,3
+Journal of Interdisciplinary History,Population Studies,92,312,history,demography,JIH,Pop. Studies,10
+International FP Perspectives,Social Indicators Research,178,78,famplan,general,Intl. FP,Soc. Ind.,1
+American Journal of Sociology,International FP Perspectives,81,178,sociology,famplan,AJS,Intl. FP,1
+American Journal of Sociology,J. of the American Statistical Association,81,30,sociology,statistics,AJS,JASA,2
+International Migration Review,J. of the American Statistical Association,279,30,demography,statistics,IMR,JASA,2
+J. of the American Statistical Association,Journal of Marriage and Family,30,213,statistics,demography,JASA,JMF,3
+J. of the American Statistical Association,Studies in Family Planning,30,388,statistics,famplan,JASA,Studies in FP,2
+Family Planning Perspectives,Journal of Marriage and Family,352,213,famplan,demography,FP Perspectives,JMF,9
+American Sociological Review,PDR,93,323,sociology,demography,ASR,PDR,5
+AAAPSS,Social Indicators Research,76,78,general,general,AAAPSS,Soc. Ind.,1
+AAAPSS,Studies in Family Planning,76,388,general,famplan,AAAPSS,Studies in FP,2
+Economic History Review,Human Biology,27,141,history,eugenics,EHR,Human Biology,1
+Economic History Review,Public Health Reports,27,135,history,pubh,EHR,PHR,1
+American Journal of Sociology,Journal of Interdisciplinary History,81,92,sociology,history,AJS,JIH,4
+American Journal of Sociology,Social Science History,81,44,sociology,history,AJS,SSH,5
+Economic Development and Cultural Change,Population and Environment,107,51,economics,demography,Econ. Dev.,Pop. Env.,1
+PDR,Population and Environment,323,51,demography,demography,PDR,Pop. Env.,1
+AAAPSS,Public Health Reports,76,135,general,pubh,AAAPSS,PHR,3
+Family Planning Perspectives,International Migration Review,352,279,famplan,demography,FP Perspectives,IMR,4
+International Migration Review,Public Health Reports,279,135,demography,pubh,IMR,PHR,1
+Journal of Marriage and Family,Public Health Reports,213,135,demography,pubh,JMF,PHR,4
+American Sociological Review,Family Planning Perspectives,93,352,sociology,famplan,ASR,FP Perspectives,5
+American Journal of Sociology,Journal of Social History,81,47,sociology,history,AJS,Social Hist.,1
+Population Studies,Public Health Reports,312,135,demography,pubh,Pop. Studies,PHR,1
+AAAPSS,Family Planning Perspectives,76,352,general,famplan,AAAPSS,FP Perspectives,1
+AAAPSS,International FP Perspectives,76,178,general,famplan,AAAPSS,Intl. FP,1
+AAAPSS,International Migration Review,76,279,general,demography,AAAPSS,IMR,4
+American Journal of Sociology,PDR,81,323,sociology,demography,AJS,PDR,3
+AAAPSS,PDR,76,323,general,demography,AAAPSS,PDR,2
+PDR,Public Health Reports,323,135,demography,pubh,PDR,PHR,2
+Journal of Social History,Population Studies,47,312,history,demography,Social Hist.,Pop. Studies,3
+American Journal of Sociology,Social Indicators Research,81,78,sociology,general,AJS,Soc. Ind.,3
+AAAPSS,Journal of Interdisciplinary History,76,92,general,history,AAAPSS,JIH,2
+AAAPSS,Social Science History,76,44,general,history,AAAPSS,SSH,2
+Journal of Interdisciplinary History,PDR,92,323,history,demography,JIH,PDR,5
+Population Studies,Social Science History,312,44,demography,history,Pop. Studies,SSH,6
+International Migration Review,PRPR,279,26,demography,demography,IMR,PRPR,4
+Family Planning Perspectives,PDR,352,323,famplan,demography,FP Perspectives,PDR,11
+Public Health Reports,Social Indicators Research,135,78,pubh,general,PHR,Soc. Ind.,1
+Human Biology,Science,141,59,eugenics,general,Human Biology,Science,5
+American Economic Review,American Journal of Sociology,68,81,economics,sociology,AER,AJS,1
+American Economic Review,American Sociological Review,68,93,economics,sociology,AER,ASR,1
+Genus,PRPR,76,26,eugenics,demography,Genus,PRPR,2
+Science,Studies in Family Planning,59,388,general,famplan,Science,Studies in FP,9
+American Sociological Review,Human Biology,93,141,sociology,eugenics,ASR,Human Biology,1
+American Sociological Review,Population Index,93,57,sociology,demography,ASR,Pop. Index,1
+Human Biology,PDR,141,323,eugenics,demography,Human Biology,PDR,3
+Human Biology,Population Index,141,57,eugenics,demography,Human Biology,Pop. Index,2
+Human Biology,J. of the American Statistical Association,141,30,eugenics,statistics,Human Biology,JASA,2
+J. of the American Statistical Association,PDR,30,323,statistics,demography,JASA,PDR,3
+J. of the American Statistical Association,Population Index,30,57,statistics,demography,JASA,Pop. Index,3
+International Migration Review,Journal of Social History,279,47,demography,history,IMR,Social Hist.,1
+AAAPSS,Journal of Social History,76,47,general,history,AAAPSS,Social Hist.,1
+Family Planning Perspectives,Journal of Interdisciplinary History,352,92,famplan,history,FP Perspectives,JIH,4
+Family Planning Perspectives,Population Index,352,57,famplan,demography,FP Perspectives,Pop. Index,7
+Journal of Interdisciplinary History,Population Index,92,57,history,demography,JIH,Pop. Index,3
+Genus,Population Index,76,57,eugenics,demography,Genus,Pop. Index,2
+Economic Development and Cultural Change,Population Index,107,57,economics,demography,Econ. Dev.,Pop. Index,1
+Family Planning Perspectives,Science,352,59,famplan,general,FP Perspectives,Science,6
+International Migration Review,Science,279,59,demography,general,IMR,Science,2
+J. of the American Statistical Association,Public Health Reports,30,135,statistics,pubh,JASA,PHR,1
+Genus,Science,76,59,eugenics,general,Genus,Science,1
+Genus,PNAS,76,10,eugenics,general,Genus,PNAS,1
+Population Index,Science,57,59,demography,general,Pop. Index,Science,3
+PNAS,Science,10,59,general,general,PNAS,Science,1
+PDR,PNAS,323,10,demography,general,PDR,PNAS,1
+PNAS,Population Index,10,57,general,demography,PNAS,Pop. Index,1
+International FP Perspectives,Population Index,178,57,famplan,demography,Intl. FP,Pop. Index,6
+Population Index,Studies in Family Planning,57,388,demography,famplan,Pop. Index,Studies in FP,5
+PDR,Social Forces,323,110,demography,sociology,PDR,Social Forces,3
+Demography,Social Indicators Research,379,78,demography,general,Demography,Soc. Ind.,1
+J. of the American Statistical Association,Social Indicators Research,30,78,statistics,general,JASA,Soc. Ind.,1
+Demography,Science,379,59,demography,general,Demography,Science,12
+International FP Perspectives,Science,178,59,famplan,general,Intl. FP,Science,4
+Social Science History,Studies in Family Planning,44,388,history,famplan,SSH,Studies in FP,2
+International FP Perspectives,Social Science History,178,44,famplan,history,Intl. FP,SSH,2
+Science,Social Science History,59,44,general,history,Science,SSH,2
+Human Biology,Studies in Family Planning,141,388,eugenics,famplan,Human Biology,Studies in FP,3
+American Economic Review,Population Studies,68,312,economics,demography,AER,Pop. Studies,1
+American Sociological Review,Journal of Interdisciplinary History,93,92,sociology,history,ASR,JIH,1
+American Sociological Review,Social Science History,93,44,sociology,history,ASR,SSH,1
+International Migration Review,Journal of Interdisciplinary History,279,92,demography,history,IMR,JIH,1
+International Migration Review,Social Science History,279,44,demography,history,IMR,SSH,1
+American Journal of Sociology,Genus,81,76,sociology,eugenics,AJS,Genus,1
+American Journal of Sociology,Economic Development and Cultural Change,81,107,sociology,economics,AJS,Econ. Dev.,1
+American Sociological Review,Genus,93,76,sociology,eugenics,ASR,Genus,1
+Genus,Social Forces,76,110,eugenics,sociology,Genus,Social Forces,1
+Genus,International Migration Review,76,279,eugenics,demography,Genus,IMR,1
+Genus,Journal of Marriage and Family,76,213,eugenics,demography,Genus,JMF,1
+American Sociological Review,Economic Development and Cultural Change,93,107,sociology,economics,ASR,Econ. Dev.,1
+Economic Development and Cultural Change,Social Forces,107,110,economics,sociology,Econ. Dev.,Social Forces,1
+Economic Development and Cultural Change,International Migration Review,107,279,economics,demography,Econ. Dev.,IMR,2
+Economic Development and Cultural Change,Journal of Marriage and Family,107,213,economics,demography,Econ. Dev.,JMF,2
+AAAPSS,Journal of Marriage and Family,76,213,general,demography,AAAPSS,JMF,3
+American Sociological Review,Science,93,59,sociology,general,ASR,Science,2
+Journal of Marriage and Family,Science,213,59,demography,general,JMF,Science,2
+Journal of Social History,William and Mary Quarterly,47,19,history,history,Social Hist.,WMQ,1
+AAAPSS,American Economic Review,76,68,general,economics,AAAPSS,AER,1
+American Economic Review,PRPR,68,26,economics,demography,AER,PRPR,1
+American Economic Review,International Migration Review,68,279,economics,demography,AER,IMR,2
+AAAPSS,Economic Development and Cultural Change,76,107,general,economics,AAAPSS,Econ. Dev.,1
+AAAPSS,PRPR,76,26,general,demography,AAAPSS,PRPR,1
+Economic Development and Cultural Change,PRPR,107,26,economics,demography,Econ. Dev.,PRPR,1
+Economic Geography,Population and Environment,46,51,geography,demography,Econ. Geo.,Pop. Env.,1
+J. of the American Statistical Association,Journal of Economic History,30,72,statistics,history,JASA,JEH,1
+J. of the American Statistical Association,Social Science History,30,44,statistics,history,JASA,SSH,2
+Economic Development and Cultural Change,GeoJournal,107,52,economics,geography,Econ. Dev.,GeoJournal,1
+PRPR,Studies in Family Planning,26,388,demography,famplan,PRPR,Studies in FP,1
+Family Planning Perspectives,PRPR,352,26,famplan,demography,FP Perspectives,PRPR,2
+Journal of Marriage and Family,PRPR,213,26,demography,demography,JMF,PRPR,1
+Family Planning Perspectives,Genus,352,76,famplan,eugenics,FP Perspectives,Genus,1
+Economic Development and Cultural Change,Social Science History,107,44,economics,history,Econ. Dev.,SSH,1
+AAAPSS,Human Biology,76,141,general,eugenics,AAAPSS,Human Biology,1
+Economic Geography,PRPR,46,26,geography,demography,Econ. Geo.,PRPR,2
+Economic Geography,PDR,46,323,geography,demography,Econ. Geo.,PDR,1
+Demography,Journal of Social History,379,47,demography,history,Demography,Social Hist.,2
+American Sociological Review,International FP Perspectives,93,178,sociology,famplan,ASR,Intl. FP,1
+American Sociological Review,PRPR,93,26,sociology,demography,ASR,PRPR,1
+American Sociological Review,Journal of Social History,93,47,sociology,history,ASR,Social Hist.,1
+Family Planning Perspectives,Journal of Social History,352,47,famplan,history,FP Perspectives,Social Hist.,1
+International FP Perspectives,Journal of Social History,178,47,famplan,history,Intl. FP,Social Hist.,1
+Journal of Social History,PRPR,47,26,history,demography,Social Hist.,PRPR,1
+Journal of Social History,Social Forces,47,110,history,sociology,Social Hist.,Social Forces,1
+Journal of Marriage and Family,Journal of Social History,213,47,demography,history,JMF,Social Hist.,1
+American Journal of Agricultural Economics,Demography,43,379,economics,demography,Ag. Econ.,Demography,3
+GeoJournal,International Migration Review,52,279,geography,demography,GeoJournal,IMR,1
+Journal of Economic History,Journal of Social History,72,47,history,history,JEH,Social Hist.,1
+American Economic Review,American Journal of Agricultural Economics,68,43,economics,economics,AER,Ag. Econ.,1
+American Journal of Sociology,PRPR,81,26,sociology,demography,AJS,PRPR,1
+American Journal of Sociology,Population Studies,81,312,sociology,demography,AJS,Pop. Studies,1
+American Journal of Sociology,Science,81,59,sociology,general,AJS,Science,1
+Science,Social Forces,59,110,general,sociology,Science,Social Forces,1
+Economic Development and Cultural Change,Social Indicators Research,107,78,economics,general,Econ. Dev.,Soc. Ind.,1
+Economic Development and Cultural Change,Journal of Interdisciplinary History,107,92,economics,history,Econ. Dev.,JIH,1
+Genus,Population and Environment,76,51,eugenics,demography,Genus,Pop. Env.,1
+Family Planning Perspectives,Human Biology,352,141,famplan,eugenics,FP Perspectives,Human Biology,2
+Family Planning Perspectives,J. of the American Statistical Association,352,30,famplan,statistics,FP Perspectives,JASA,1
+Family Planning Perspectives,Social Science History,352,44,famplan,history,FP Perspectives,SSH,1
+Human Biology,Journal of Interdisciplinary History,141,92,eugenics,history,Human Biology,JIH,1
+Human Biology,International FP Perspectives,141,178,eugenics,famplan,Human Biology,Intl. FP,1
+Human Biology,Social Science History,141,44,eugenics,history,Human Biology,SSH,1
+International FP Perspectives,Journal of Interdisciplinary History,178,92,famplan,history,Intl. FP,JIH,1
+Journal of Interdisciplinary History,Science,92,59,history,general,JIH,Science,1
+International FP Perspectives,J. of the American Statistical Association,178,30,famplan,statistics,Intl. FP,JASA,1
+J. of the American Statistical Association,Science,30,59,statistics,general,JASA,Science,1
+Population Index,Social Science History,57,44,demography,history,Pop. Index,SSH,1

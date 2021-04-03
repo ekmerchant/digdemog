@@ -1,0 +1,123 @@
+source,target,scount,tcount,sfield,tfield,slast,tlast,weight
+Henry Pratt Fairchild,,1,,general,,Fairchild,,0
+Frank Lorimer,,3,,general,,Lorimer,,0
+Joseph J. Spengler,,2,,history,,Spengler,,0
+Harold F. Dorn,,3,,pubh,,Dorn,,0
+John D. Durand,,4,,general,,Durand,,0
+Sidney Goldstein,,2,,sociology,,Goldstein,,0
+Jerry W. Combs Jr.,Kingsley Davis,2,12,demography,general,,Davis,2
+Chungnim C. Han,Irene B. Taeuber,1,16,demography,general,,Taeuber,1
+George W. Barclay,Irene B. Taeuber,1,16,demography,general,,Taeuber,1
+H. L. Robinson,Nathan Keyfitz,1,5,demography,sociology,,Keyfitz,1
+Calvin L. Beale,W. Parker Mauldin,1,3,demography,sociology,,Mauldin,1
+Frank W. Notestein,P. V. Cardon,10,1,statistics,statistics,Notestein,,1
+Joseph S. Davis,P. V. Cardon,2,1,economics,statistics,,,1
+Louis J. Ducoff,Margaret J. Hagood,1,2,sociology,sociology,,Hagood,1
+Clyde V. Kiser,Pascal K. Whelpton,21,18,demography,sociology,Kiser,Whelpton,10
+Clyde V. Kiser,Nathalie L. Schacter,21,2,demography,pubh,Kiser,,2
+Clyde V. Kiser,John F. Kantner,21,2,demography,pubh,Kiser,Kantner,1
+Charles F. Westoff,Clyde V. Kiser,5,21,sociology,demography,Westoff,Kiser,1
+Clyde V. Kiser,Marianne Degraff Swain,21,1,demography,pubh,Kiser,,1
+Clyde V. Kiser,Lee F. Herrera,21,2,demography,pubh,Kiser,,1
+Clyde V. Kiser,Jeanne E. Clare,21,1,demography,pubh,Kiser,,1
+Dudley Kirk,Earl Huyck,5,1,general,sociology,Kirk,,1
+Clyde V. Kiser,Jeanne E. Clare,21,1,demography,pubh,Kiser,,1
+C. Horace Hamilton,Jacob S. Siegel,2,4,sociology,sociology,Hamilton,Siegel,1
+Charles F. Westoff,Edgar F. Borgatta,5,1,sociology,pubh,Westoff,,1
+Clyde V. Kiser,Pascal K. Whelpton,21,18,demography,sociology,Kiser,Whelpton,10
+Charles F. Westoff,Pascal K. Whelpton,5,18,sociology,sociology,Westoff,Whelpton,1
+Lee F. Herrera,Pascal K. Whelpton,2,18,pubh,sociology,,Whelpton,1
+Pascal K. Whelpton,Ronald Freedman,18,10,sociology,demography,Whelpton,Freedman,2
+John F. Kantner,Pascal K. Whelpton,2,18,pubh,sociology,Kantner,Whelpton,1
+Halbert L. Dunn,Hope T. Eldridge,3,7,pubh,general,,,1
+Halbert L. Dunn,Nora P. Powell,3,1,pubh,general,,,1
+Dorothy S. Thomas,George Sabagh,1,1,sociology,sociology,Thomas,,1
+Dorothy S. Thomas,George Sabagh,1,1,sociology,sociology,Thomas,,1
+Otis Dudley Duncan,Vincent Heath Whitney,3,2,demography,demography,Duncan,,1
+Anne S. Lee,Everett S. Lee,1,2,sociology,sociology,,Lee,1
+H. L. Robinson,Nathan Keyfitz,1,5,demography,sociology,,Keyfitz,1
+Calvin F. Schmid,Manzer John Griswold,1,1,sociology,sociology,Schmid,,1
+Amos H. Hawley,Ronald Freedman,3,10,statistics,demography,Hawley,Freedman,3
+Henry S. Shryock Jr.,Norman Lawrence,7,1,statistics,statistics,Shryock,,1
+Otis Dudley Duncan,Vincent Heath Whitney,3,2,demography,demography,Duncan,,1
+Ernest Jurkat,Frank W. Notestein,2,10,general,statistics,,Notestein,1
+Ernest Jurkat,Louise K. Kiser,2,1,general,general,,,1
+Halbert L. Dunn,Hope T. Eldridge,3,7,pubh,general,,,1
+Hope T. Eldridge,Nora P. Powell,7,1,general,general,,,1
+Hope T. Eldridge,Jacob S. Siegel,7,4,general,sociology,,Siegel,1
+Henry S. Shryock Jr.,Hope T. Eldridge,7,7,statistics,general,Shryock,,1
+Hope T. Eldridge,Irene B. Taeuber,7,16,general,general,,Taeuber,1
+Hope T. Eldridge,Philip M. Hauser,7,7,general,demography,,Hauser,1
+Ernest Jurkat,Louise K. Kiser,2,1,general,general,,,1
+Clarence Senior,Kingsley Davis,2,12,general,general,,Davis,1
+Conrad Taeuber,Philip M. Hauser,7,7,sociology,demography,Taeuber,Hauser,1
+Donald J. Bogue,Warren S. Thompson,6,8,statistics,general,Bogue,Thompson,2
+Benjamin Greenberg,Jacob S. Siegel,1,4,sociology,sociology,,Siegel,1
+Benjamin Greenberg,Henry S. Shryock Jr.,1,7,sociology,statistics,,Shryock,1
+Charles F. Westoff,Lee F. Herrera,5,2,sociology,pubh,Westoff,,1
+Charles F. Westoff,Pascal K. Whelpton,5,18,sociology,sociology,Westoff,Whelpton,1
+Charles F. Westoff,Edgar F. Borgatta,5,1,sociology,pubh,Westoff,,1
+Charles F. Westoff,Clyde V. Kiser,5,21,sociology,demography,Westoff,Kiser,1
+Hope T. Eldridge,Jacob S. Siegel,7,4,general,sociology,,Siegel,1
+Henry S. Shryock Jr.,Jacob S. Siegel,7,4,statistics,sociology,Shryock,Siegel,1
+Benjamin Greenberg,Jacob S. Siegel,1,4,sociology,sociology,,Siegel,1
+C. Horace Hamilton,Jacob S. Siegel,2,4,sociology,sociology,Hamilton,Siegel,1
+Jacob S. Siegel,Margaret J. Hagood,4,2,sociology,sociology,Siegel,Hagood,1
+Felix E. Moore,Irene B. Taeuber,1,16,demography,general,,Taeuber,1
+Frank W. Notestein,Irene B. Taeuber,10,16,statistics,general,Notestein,Taeuber,1
+Hope T. Eldridge,Irene B. Taeuber,7,16,general,general,,Taeuber,1
+Edwin G. Beal,Irene B. Taeuber,1,16,general,general,,Taeuber,1
+Chungnim C. Han,Irene B. Taeuber,1,16,demography,general,,Taeuber,1
+George W. Barclay,Irene B. Taeuber,1,16,demography,general,,Taeuber,1
+Chia-Lin Pan,Irene B. Taeuber,2,16,demography,general,,Taeuber,1
+Dudley Kirk,Earl Huyck,5,1,general,sociology,Kirk,,1
+Amos H. Hawley,Ronald Freedman,3,10,statistics,demography,Hawley,Freedman,3
+Pascal K. Whelpton,Ronald Freedman,18,10,sociology,demography,Whelpton,Freedman,2
+Harry Sharp,Ronald Freedman,1,10,demography,demography,,Freedman,1
+George F. Mair,Ronald Freedman,3,10,demography,demography,,Freedman,1
+Eli S. Marks,W. Parker Mauldin,2,3,sociology,sociology,,Mauldin,2
+George F. Mair,Ronald Freedman,3,10,demography,demography,,Freedman,1
+Conrad Taeuber,Philip M. Hauser,7,7,sociology,demography,Taeuber,Hauser,1
+Hope T. Eldridge,Philip M. Hauser,7,7,general,demography,,Hauser,1
+George J. Stolnitz,Norman B. Ryder,2,2,demography,demography,Stolnitz,Ryder,1
+Felix E. Moore,Irene B. Taeuber,1,16,demography,general,,Taeuber,1
+Edwin G. Beal,Irene B. Taeuber,1,16,general,general,,Taeuber,1
+Clyde V. Kiser,Nathalie L. Schacter,21,2,demography,pubh,Kiser,,2
+Edward P. Hutchinson,Wilbert E. Moore,2,7,general,demography,Hutchinson,,1
+Charles F. Westoff,Lee F. Herrera,5,2,sociology,pubh,Westoff,,1
+Lee F. Herrera,Pascal K. Whelpton,2,18,pubh,sociology,,Whelpton,1
+Clyde V. Kiser,Lee F. Herrera,21,2,demography,pubh,Kiser,,1
+Calvin L. Beale,W. Parker Mauldin,1,3,demography,sociology,,Mauldin,1
+Eli S. Marks,W. Parker Mauldin,2,3,sociology,sociology,,Mauldin,2
+Edward P. Hutchinson,Wilbert E. Moore,2,7,general,demography,Hutchinson,,1
+Clyde V. Kiser,Marianne Degraff Swain,21,1,demography,pubh,Kiser,,1
+Harry Sharp,Ronald Freedman,1,10,demography,demography,,Freedman,1
+Ana Casis,Kingsley Davis,2,12,pubh,general,,Davis,2
+Clarence Senior,Kingsley Davis,2,12,general,general,,Davis,1
+Hilda Hertz Golden,Kingsley Davis,1,12,economics,general,,Davis,1
+Jerry W. Combs Jr.,Kingsley Davis,2,12,demography,general,,Davis,2
+Louis J. Ducoff,Margaret J. Hagood,1,2,sociology,sociology,,Hagood,1
+Jacob S. Siegel,Margaret J. Hagood,4,2,sociology,sociology,Siegel,Hagood,1
+John F. Kantner,Pascal K. Whelpton,2,18,pubh,sociology,Kantner,Whelpton,1
+Clyde V. Kiser,John F. Kantner,21,2,demography,pubh,Kiser,Kantner,1
+Frank W. Notestein,Irene B. Taeuber,10,16,statistics,general,Notestein,Taeuber,1
+Ernest Jurkat,Frank W. Notestein,2,10,general,statistics,,Notestein,1
+Frank W. Notestein,P. V. Cardon,10,1,statistics,statistics,Notestein,,1
+Frank W. Notestein,Joseph S. Davis,10,2,statistics,economics,Notestein,,1
+Alfred J. Lotka,Louis I. Dublin,1,1,general,general,Lotka,Dublin,1
+Ana Casis,Kingsley Davis,2,12,pubh,general,,Davis,2
+Anne S. Lee,Everett S. Lee,1,2,sociology,sociology,,Lee,1
+Calvin F. Schmid,Manzer John Griswold,1,1,sociology,sociology,Schmid,,1
+Alfred J. Lotka,Louis I. Dublin,1,1,general,general,Lotka,Dublin,1
+Chia-Lin Pan,Irene B. Taeuber,2,16,demography,general,,Taeuber,1
+Hilda Hertz Golden,Kingsley Davis,1,12,economics,general,,Davis,1
+Halbert L. Dunn,Nora P. Powell,3,1,pubh,general,,,1
+Hope T. Eldridge,Nora P. Powell,7,1,general,general,,,1
+Henry S. Shryock Jr.,Norman Lawrence,7,1,statistics,statistics,Shryock,,1
+Henry S. Shryock Jr.,Hope T. Eldridge,7,7,statistics,general,Shryock,,1
+Henry S. Shryock Jr.,Jacob S. Siegel,7,4,statistics,sociology,Shryock,Siegel,1
+Benjamin Greenberg,Henry S. Shryock Jr.,1,7,sociology,statistics,,Shryock,1
+George J. Stolnitz,Norman B. Ryder,2,2,demography,demography,Stolnitz,Ryder,1
+Frank W. Notestein,Joseph S. Davis,10,2,statistics,economics,Notestein,,1
+Joseph S. Davis,P. V. Cardon,2,1,economics,statistics,,,1
+Donald J. Bogue,Warren S. Thompson,6,8,statistics,general,Bogue,Thompson,2

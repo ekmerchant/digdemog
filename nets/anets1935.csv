@@ -1,0 +1,53 @@
+source,target,scount,tcount,sfield,tfield,slast,tlast,weight
+Henry Pratt Fairchild,,3,,general,,Fairchild,,0
+Lowell J. Reed,,1,,general,,Reed,,0
+Frederick Osborn,,3,,general,,Osborn,,0
+Philip M. Hauser,,5,,statistics,,Hauser,,0
+Joseph J. Spengler,,3,,economics,,Spengler,,0
+Dudley Kirk,,2,,sociology,,Kirk,,0
+Kingsley Davis,,1,,pubh,,Davis,,0
+William Fielding Ogburn,,1,,sociology,,Ogburn,,0
+Raymond Pearl,,10,,general,,Pearl,,0
+W. Parker Mauldin,,2,,sociology,,Mauldin,,0
+Conrad Taeuber,Irene B. Taeuber,5,5,statistics,statistics,Taeuber,Taeuber,3
+Edwin G. Beal,Irene B. Taeuber,1,5,pubh,statistics,,Taeuber,1
+Alfred J. Lotka,Mortimer Spiegelman,5,3,general,statistics,Lotka,,1
+Louis I. Dublin,Mortimer Spiegelman,1,3,eugenics,statistics,Dublin,,1
+Lyle M. Spencer,Samuel A. Stouffer,1,2,general,general,,Stouffer,1
+Arthur J. Mcdowell,Harold F. Dorn,1,12,sociology,sociology,,Dorn,1
+John D. Durand,William H. Mautz,1,1,statistics,statistics,Durand,,1
+Carl C. Taylor,Conrad Taeuber,1,5,pubh,statistics,,Taeuber,1
+Margaret J. Hagood,Mary Alice Eaton,3,1,sociology,sociology,Hagood,,1
+Dorothy S. Thomas,Virginia L. Galbraith,2,1,sociology,statistics,Thomas,,1
+Louis J. Ducoff,Margaret J. Hagood,2,3,sociology,sociology,,Hagood,2
+Conrad Taeuber,Louis J. Ducoff,5,2,statistics,sociology,Taeuber,,1
+Bernard D. Karpinos,Clyde V. Kiser,7,17,pubh,sociology,,Kiser,1
+Clyde V. Kiser,Frank W. Notestein,17,7,sociology,sociology,Kiser,Notestein,1
+Clyde V. Kiser,Pascal K. Whelpton,17,9,sociology,general,Kiser,Whelpton,2
+Frank Lorimer,Harold F. Dorn,3,12,sociology,sociology,Lorimer,Dorn,1
+Arthur J. Mcdowell,Harold F. Dorn,1,12,sociology,sociology,,Dorn,1
+Dorothy S. Thomas,Margaret L. Bright,2,1,sociology,sociology,Thomas,,1
+Frank Lorimer,Harold F. Dorn,3,12,sociology,sociology,Lorimer,Dorn,1
+Pascal K. Whelpton,Warren S. Thompson,9,7,general,general,Whelpton,Thompson,3
+Clyde V. Kiser,Pascal K. Whelpton,17,9,sociology,general,Kiser,Whelpton,2
+Lyle M. Spencer,Samuel A. Stouffer,1,2,general,general,,Stouffer,1
+Margaret J. Hagood,Mary Alice Eaton,3,1,sociology,sociology,Hagood,,1
+Louis J. Ducoff,Margaret J. Hagood,2,3,sociology,sociology,,Hagood,2
+Conrad Taeuber,Margaret J. Hagood,5,3,statistics,sociology,Taeuber,Hagood,1
+John D. Durand,William H. Mautz,1,1,statistics,statistics,Durand,,1
+Dorothy S. Thomas,Margaret L. Bright,2,1,sociology,sociology,Thomas,,1
+Dorothy S. Thomas,Virginia L. Galbraith,2,1,sociology,statistics,Thomas,,1
+C. Horace Hamilton,F. M. Henderson,1,1,statistics,statistics,Hamilton,,1
+Frank W. Notestein,Regine K. Stix,7,9,sociology,sociology,Notestein,,1
+Frank W. Notestein,Regine K. Stix,7,9,sociology,sociology,Notestein,,1
+Clyde V. Kiser,Frank W. Notestein,17,7,sociology,sociology,Kiser,Notestein,1
+Louis I. Dublin,Mortimer Spiegelman,1,3,eugenics,statistics,Dublin,,1
+Bernard D. Karpinos,Clyde V. Kiser,7,17,pubh,sociology,,Kiser,1
+Alfred J. Lotka,Mortimer Spiegelman,5,3,general,statistics,Lotka,,1
+Edwin G. Beal,Irene B. Taeuber,1,5,pubh,statistics,,Taeuber,1
+Carl C. Taylor,Conrad Taeuber,1,5,pubh,statistics,,Taeuber,1
+Conrad Taeuber,Irene B. Taeuber,5,5,statistics,statistics,Taeuber,Taeuber,3
+Conrad Taeuber,Louis J. Ducoff,5,2,statistics,sociology,Taeuber,,1
+Conrad Taeuber,Margaret J. Hagood,5,3,statistics,sociology,Taeuber,Hagood,1
+Pascal K. Whelpton,Warren S. Thompson,9,7,general,general,Whelpton,Thompson,3
+C. Horace Hamilton,F. M. Henderson,1,1,statistics,statistics,Hamilton,,1

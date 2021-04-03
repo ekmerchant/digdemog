@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    font-size: 10pt;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke-color: #000;
+    shape-rendering: cripEdges;
+}
+
+.line {
+    fill: none;
+    stroke-color: steelblue;
+    stroke-width: 5px;
+}
